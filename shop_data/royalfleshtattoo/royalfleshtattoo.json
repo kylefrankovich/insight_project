@@ -1,0 +1,1814 @@
+[
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/ec18d73b169bc1b5a9c8474c1603935b/5AE09F2F/t51.2885-15/e35/26158583_357383814728603_1095558995143294976_n.jpg",
+        "edge_media_preview_like": {
+            "count": 54
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "The red rocks of Sedona by Artist @donmeatball @royalfleshtattoo\n#chicago #chitown #chi #chicagotattoo #tattoos #chicagotattooshop #tattoo #chicagotattooartist #royalflesh #royalfleshtattoo #royalfleshtattooshop #mayday #tomahawkcartridges #albroordie #fkirons #fkironsdirekt2 #geometrictattoo #geometric #cathedralrock #sedona #angelotiffe #angelotiffetattoos #Angelo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1694530547110865911",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "BeELo35l2v3",
+        "tags": [
+            "chicagotattooartist",
+            "mayday",
+            "chi",
+            "cathedralrock",
+            "chicagotattoo",
+            "royalfleshtattoo",
+            "chitown",
+            "tomahawkcartridges",
+            "albroordie",
+            "fkironsdirekt2",
+            "chicagotattooshop",
+            "royalflesh",
+            "Angelo",
+            "tattoos",
+            "geometrictattoo",
+            "chicago",
+            "royalfleshtattooshop",
+            "geometric",
+            "tattoo",
+            "fkirons",
+            "angelotiffe",
+            "angelotiffetattoos",
+            "sedona"
+        ],
+        "taken_at_timestamp": 1516223804,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/a366cb47c53a26ddf7cf4fcfb06dc571/5AF1624A/t51.2885-15/s150x150/e35/26158583_357383814728603_1095558995143294976_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/0178defebed3f5729a62720a7ea8def7/5ADF6275/t51.2885-15/s240x240/e35/26158583_357383814728603_1095558995143294976_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ecfc25349b5986e5f24ae03a29999863/5AFED20D/t51.2885-15/s320x320/e35/26158583_357383814728603_1095558995143294976_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/333c1af287795e832215c25439b9b863/5AFBE18B/t51.2885-15/s480x480/e35/26158583_357383814728603_1095558995143294976_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/cb3074ffa594b456d07fb616023ab361/5AE8094E/t51.2885-15/s640x640/sh0.08/e35/26158583_357383814728603_1095558995143294976_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/cb3074ffa594b456d07fb616023ab361/5AE8094E/t51.2885-15/s640x640/sh0.08/e35/26158583_357383814728603_1095558995143294976_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/ec18d73b169bc1b5a9c8474c1603935b/5AE09F2F/t51.2885-15/e35/26158583_357383814728603_1095558995143294976_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/9fcd23ba2d77a54cbe9578837aebdb08/5AE32AE6/t51.2885-15/e35/26331905_145616966148109_8199517396164149248_n.jpg",
+        "edge_media_preview_like": {
+            "count": 37
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "depths of the honeycomb by Artist @jakedoestattoos\n@royalfleshtattoo #chicago #chicagotattooshop #tattoos #chicagotattooartist #inkwork #honeycomb #jakedoestattoos #chicagotattoo #chicagoartist #skulltattoo #black #honeycomb #dankubinrotary #fusioninks #blackworktattoo #patterntattoo #blackandgreytattoo #grin #inkslinger #inksplatter #splatter #splattertattoo #greywash #Jake"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1693855866628160592",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "BeByO-vFTxQ",
+        "tags": [
+            "chicagotattooartist",
+            "patterntattoo",
+            "splatter",
+            "honeycomb",
+            "inksplatter",
+            "blackworktattoo",
+            "chicagotattoo",
+            "inkslinger",
+            "black",
+            "jakedoestattoos",
+            "fusioninks",
+            "chicagotattooshop",
+            "splattertattoo",
+            "tattoos",
+            "chicago",
+            "chicagoartist",
+            "dankubinrotary",
+            "blackandgreytattoo",
+            "greywash",
+            "skulltattoo",
+            "Jake",
+            "grin",
+            "inkwork"
+        ],
+        "taken_at_timestamp": 1516143376,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e871219c61de10026303ce42ea796fad/5AE79D83/t51.2885-15/s150x150/e35/26331905_145616966148109_8199517396164149248_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/1e01afa30ef4eabf76ca64b5b0a8a5fa/5AF3C0BC/t51.2885-15/s240x240/e35/26331905_145616966148109_8199517396164149248_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/8f260544a996a516d8a8c7b251200f8a/5ADEF5C4/t51.2885-15/s320x320/e35/26331905_145616966148109_8199517396164149248_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e861065cce0fb1b76b27ee3836b39ee1/5AE77942/t51.2885-15/s480x480/e35/26331905_145616966148109_8199517396164149248_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/61b15d1f5b6f425cc746507412be9119/5AEA1487/t51.2885-15/s640x640/sh0.08/e35/26331905_145616966148109_8199517396164149248_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/61b15d1f5b6f425cc746507412be9119/5AEA1487/t51.2885-15/s640x640/sh0.08/e35/26331905_145616966148109_8199517396164149248_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/9fcd23ba2d77a54cbe9578837aebdb08/5AE32AE6/t51.2885-15/e35/26331905_145616966148109_8199517396164149248_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/b99241a4e5f3273565909d3882301920/5ADB837F/t51.2885-15/e35/26228250_141922316458341_4219262037777186816_n.jpg",
+        "edge_media_preview_like": {
+            "count": 105
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Inspirational Seascapes by Artist @joe_fryday @royalfleshtattoo #chicago #chicagoart #chicagogram #chicagolove #chicagoartist #chicagotattoo #chicagotattooartist #blackwork #blacktattoo #blackworkers #blackworktattoo #dotwork #dotworkers #dotworktattoo #dotworkchicago #chicagotattooshop #chicagoblackwork #girlswithtattoos #guyswithtattoos #joefryday #radness #Joe"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1693105038338395930",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "Bd_Hg_ZlY8a",
+        "tags": [
+            "chicagotattooartist",
+            "blackworktattoo",
+            "chicagoart",
+            "chicagotattoo",
+            "dotworktattoo",
+            "chicagotattooshop",
+            "dotworkers",
+            "radness",
+            "chicago",
+            "blackwork",
+            "chicagoartist",
+            "dotwork",
+            "Joe",
+            "guyswithtattoos",
+            "girlswithtattoos",
+            "joefryday",
+            "chicagoblackwork",
+            "blacktattoo",
+            "dotworkchicago",
+            "chicagogram",
+            "chicagolove",
+            "blackworkers"
+        ],
+        "taken_at_timestamp": 1516053870,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/66ed9a5dd519f62fc248157e0ae51811/5AE83F1A/t51.2885-15/s150x150/e35/26228250_141922316458341_4219262037777186816_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b02f3d3d2c8cd29bb8ba76fce9fa92a4/5ADC3125/t51.2885-15/s240x240/e35/26228250_141922316458341_4219262037777186816_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/2e20a3c2c041e0b8ad5206da1d5bbef9/5ADA4A5D/t51.2885-15/s320x320/e35/26228250_141922316458341_4219262037777186816_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/a4de8cc2edae478b2637b8733d29c253/5AE95ADB/t51.2885-15/s480x480/e35/26228250_141922316458341_4219262037777186816_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/115e0dc6ca97d83c0804fd08328f9cff/5AE92C1E/t51.2885-15/s640x640/sh0.08/e35/26228250_141922316458341_4219262037777186816_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/115e0dc6ca97d83c0804fd08328f9cff/5AE92C1E/t51.2885-15/s640x640/sh0.08/e35/26228250_141922316458341_4219262037777186816_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/b99241a4e5f3273565909d3882301920/5ADB837F/t51.2885-15/e35/26228250_141922316458341_4219262037777186816_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1350,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/9509f2197886d64e6b65a89d8ac4ca15/5AFC6748/t51.2885-15/e35/26287855_1774632672844996_3242127505871601664_n.jpg",
+        "edge_media_preview_like": {
+            "count": 45
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Sleeve in progress preview by Artist @luciantatar.tattooart @royalfleshtattoo\n#chicagotattooartist #tattoolife #tattoolifeblog #chicago #tattoolifemagazine #tattoolover #inkedmag #inkedup #IGdaily \n#bnw #tattoomodel #tattooistartmag #guyswithtattoos #realistictattoos #realismtattoos #blackandgreytattoo #bng #stencilstuff \n#tattoosnob #bodyart #tattoosofinstagram #inkedup #foodog #blackandgreyallday #Lucian"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1692338333332932813",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "Bd8ZL9uFgjN",
+        "tags": [
+            "IGdaily",
+            "chicagotattooartist",
+            "blackandgreyallday",
+            "Lucian",
+            "tattoolife",
+            "tattoolifemagazine",
+            "tattoolover",
+            "tattoosofinstagram",
+            "foodog",
+            "realistictattoos",
+            "stencilstuff",
+            "tattoosnob",
+            "inkedup",
+            "realismtattoos",
+            "tattoolifeblog",
+            "tattoomodel",
+            "chicago",
+            "bodyart",
+            "blackandgreytattoo",
+            "guyswithtattoos",
+            "bnw",
+            "tattooistartmag",
+            "inkedmag",
+            "bng"
+        ],
+        "taken_at_timestamp": 1515962472,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/7314c8357df60fb64757840da0a9ec06/5ADB6FEF/t51.2885-15/s150x150/e35/c0.135.1080.1080/26287855_1774632672844996_3242127505871601664_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/7fbf83ae52e406b471ff640189a61837/5ADABB1F/t51.2885-15/s240x240/e35/c0.135.1080.1080/26287855_1774632672844996_3242127505871601664_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/08ae4aec8c48b8db68148dbb3e83d634/5AE84B1E/t51.2885-15/s320x320/e35/c0.135.1080.1080/26287855_1774632672844996_3242127505871601664_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/231e00bb84946593d3b5425aa2669c5b/5AE28B33/t51.2885-15/s480x480/e35/c0.135.1080.1080/26287855_1774632672844996_3242127505871601664_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b92215bfe7e1ea1dbb49b6b924a31cd4/5AEA954B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26287855_1774632672844996_3242127505871601664_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/b92215bfe7e1ea1dbb49b6b924a31cd4/5AEA954B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26287855_1774632672844996_3242127505871601664_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/9509f2197886d64e6b65a89d8ac4ca15/5AFC6748/t51.2885-15/e35/26287855_1774632672844996_3242127505871601664_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/1e8ad2c008d4f6f36531489c21b7fbae/5AE7F032/t51.2885-15/e35/26070883_144222532944422_588049321392340992_n.jpg",
+        "edge_media_preview_like": {
+            "count": 59
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "A little brain and heart combo by Artist @donmeatball @royalfleshtattoo #chicago #chitown #chicagotattoo #chicagotattooshop #chicagotattooartist #royalflesh #royalfleshtattoo #shading #blackandgreytattoo #royalfleshtattooshop #maydaytattoosupply #tomahawkcartridges #albroordie #hustlebutterdeluxe #hustlebutter #blackwork #fkironsdirekt2 #fkirons #black #angelotiffe #angelotiffetattoos #Angelo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1691711791615664832",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "Bd6KulRl2LA",
+        "tags": [
+            "chicagotattooartist",
+            "shading",
+            "chicagotattoo",
+            "royalfleshtattoo",
+            "hustlebutterdeluxe",
+            "black",
+            "chitown",
+            "tomahawkcartridges",
+            "albroordie",
+            "fkironsdirekt2",
+            "chicagotattooshop",
+            "royalflesh",
+            "hustlebutter",
+            "Angelo",
+            "chicago",
+            "blackwork",
+            "royalfleshtattooshop",
+            "blackandgreytattoo",
+            "maydaytattoosupply",
+            "fkirons",
+            "angelotiffe",
+            "angelotiffetattoos"
+        ],
+        "taken_at_timestamp": 1515887782,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/a0d655127df1f64685cce1c275e1e639/5AE86586/t51.2885-15/s150x150/e35/26070883_144222532944422_588049321392340992_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/9876595a3e6346daebf9a269842f3785/5AFE1633/t51.2885-15/s240x240/e35/26070883_144222532944422_588049321392340992_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/8bc0c92f43127cd1c9c435de0ca7f205/5AE7C37B/t51.2885-15/s320x320/e35/26070883_144222532944422_588049321392340992_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b1d1e53f8e4c2a92d2f44914a5aeff32/5AE2BFCF/t51.2885-15/s480x480/e35/26070883_144222532944422_588049321392340992_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/f72ed499d10e293bacd3ab3915fa055d/5AFC02A7/t51.2885-15/s640x640/sh0.08/e35/26070883_144222532944422_588049321392340992_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/f72ed499d10e293bacd3ab3915fa055d/5AFC02A7/t51.2885-15/s640x640/sh0.08/e35/26070883_144222532944422_588049321392340992_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/1e8ad2c008d4f6f36531489c21b7fbae/5AE7F032/t51.2885-15/e35/26070883_144222532944422_588049321392340992_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/e749657a9da5e7e6f0a647392352d57b/5AE5F933/t51.2885-15/e35/26066705_1672954712768020_4718832988467494912_n.jpg",
+        "edge_media_preview_like": {
+            "count": 88
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Progress picture of this steam punk Giraffe by Artist @jakedoestattoos @royalfleshtattoo #chicago #chicagotattooartist #chitown #chicagotattoo #steampunk #chicagotattooshop #black #blackworktattoo #giraffe #giraffetattoo #inprogress #jakedoestattoos #lineweight #lineworktattoo #tattooed #bloodlines #guidlines #dots #dotshading #dotworkchicago #Jake"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1690957311957756102",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "Bd3fLdVl2jG",
+        "tags": [
+            "chicagotattooartist",
+            "steampunk",
+            "blackworktattoo",
+            "chicagotattoo",
+            "giraffetattoo",
+            "black",
+            "chitown",
+            "jakedoestattoos",
+            "chicagotattooshop",
+            "guidlines",
+            "chicago",
+            "giraffe",
+            "dotshading",
+            "lineworktattoo",
+            "dotworkchicago",
+            "inprogress",
+            "lineweight",
+            "Jake",
+            "dots",
+            "bloodlines",
+            "tattooed"
+        ],
+        "taken_at_timestamp": 1515797841,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/192cb8ce30c74502c8d5272b9a33c14b/5AF31164/t51.2885-15/s150x150/e35/26066705_1672954712768020_4718832988467494912_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/58ee96a133906eee7c5a10b559fefffc/5AE1DDF0/t51.2885-15/s240x240/e35/26066705_1672954712768020_4718832988467494912_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/f4f2fcc087e55f6f057a73e6ee685c99/5ADCE954/t51.2885-15/s320x320/e35/26066705_1672954712768020_4718832988467494912_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/be2b6c471065b12c6a9c9781b55cbc33/5AF7160C/t51.2885-15/s480x480/e35/26066705_1672954712768020_4718832988467494912_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/f79a51553ee51b4ca406d0ba3e93b7aa/5AEADE19/t51.2885-15/s640x640/sh0.08/e35/26066705_1672954712768020_4718832988467494912_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/f79a51553ee51b4ca406d0ba3e93b7aa/5AEADE19/t51.2885-15/s640x640/sh0.08/e35/26066705_1672954712768020_4718832988467494912_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/e749657a9da5e7e6f0a647392352d57b/5AE5F933/t51.2885-15/e35/26066705_1672954712768020_4718832988467494912_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/0aecf95827ddf8448a17bb1fdadcd486/5AD9BD0E/t51.2885-15/e35/26070808_981436982009838_5079489144728584192_n.jpg",
+        "edge_media_preview_like": {
+            "count": 12
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "@jakedoestattoos \"Open time today\" stop on by!"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1690116418740499843",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "Bd0f-2gFTWD",
+        "tags": [],
+        "taken_at_timestamp": 1515697599,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/d769300cc26ac1fa21a734c9f79ad823/5AF2C96B/t51.2885-15/s150x150/e35/26070808_981436982009838_5079489144728584192_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/93708e897d91470c15b3dda2e9292fd8/5AFD0854/t51.2885-15/s240x240/e35/26070808_981436982009838_5079489144728584192_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b69f64eb452579af6f41d332503bc0c3/5AFE922C/t51.2885-15/s320x320/e35/26070808_981436982009838_5079489144728584192_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/7984e70d982f15e41d2c6ec01506e77f/5AFA3DAA/t51.2885-15/s480x480/e35/26070808_981436982009838_5079489144728584192_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/0d9e3f45489feb1e900b90971c437f3f/5AE0CC6F/t51.2885-15/s640x640/sh0.08/e35/26070808_981436982009838_5079489144728584192_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/0d9e3f45489feb1e900b90971c437f3f/5AE0CC6F/t51.2885-15/s640x640/sh0.08/e35/26070808_981436982009838_5079489144728584192_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/0aecf95827ddf8448a17bb1fdadcd486/5AD9BD0E/t51.2885-15/e35/26070808_981436982009838_5079489144728584192_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/411bb0d4237084e0136639b48fb775f3/5AE9351D/t51.2885-15/e35/26263233_1431281030331965_6953089136353869824_n.jpg",
+        "edge_media_preview_like": {
+            "count": 57
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Celestial roses and dagger by Artist @joe_fryday\n@royalfleshtattoo #chicago #chicagoart #chicagogram #chicagolove #chicagoartist #chicagotattoo #inkwork #chicagotattooshop #tattoos #chicagotattooartist #blackwork #blacktattoo #blackworkers #blackworktattoo #dotwork #dotworkers #dotworktattoo #dotworkchicago #chicagoblackwork #girlswithtattoos #guyswithtattoos #joefryday #radness #Joe"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1689516922599982213",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "BdyXrCNlUSF",
+        "tags": [
+            "chicagotattooartist",
+            "blackworktattoo",
+            "chicagoart",
+            "chicagotattoo",
+            "dotworktattoo",
+            "chicagotattooshop",
+            "dotworkers",
+            "tattoos",
+            "radness",
+            "chicago",
+            "blackwork",
+            "chicagoartist",
+            "dotwork",
+            "Joe",
+            "guyswithtattoos",
+            "girlswithtattoos",
+            "chicagoblackwork",
+            "joefryday",
+            "blacktattoo",
+            "dotworkchicago",
+            "chicagogram",
+            "chicagolove",
+            "blackworkers",
+            "inkwork"
+        ],
+        "taken_at_timestamp": 1515626133,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/506b3c70baa6a7ef552dd5ce04ec8f1a/5ADA424A/t51.2885-15/s150x150/e35/26263233_1431281030331965_6953089136353869824_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/357e4b2bde5f398e9cd840e7e6c18753/5AE0ACDE/t51.2885-15/s240x240/e35/26263233_1431281030331965_6953089136353869824_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/30c387c52848249bdddee3b7d25f61d5/5AFB507A/t51.2885-15/s320x320/e35/26263233_1431281030331965_6953089136353869824_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/1f5967c34f391f7347a1ee430361c263/5ADF9022/t51.2885-15/s480x480/e35/26263233_1431281030331965_6953089136353869824_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/4e5fba6f8786999ca852eb7d5a80543e/5AF10F37/t51.2885-15/s640x640/sh0.08/e35/26263233_1431281030331965_6953089136353869824_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/4e5fba6f8786999ca852eb7d5a80543e/5AF10F37/t51.2885-15/s640x640/sh0.08/e35/26263233_1431281030331965_6953089136353869824_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/411bb0d4237084e0136639b48fb775f3/5AE9351D/t51.2885-15/e35/26263233_1431281030331965_6953089136353869824_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/8de747967c1d60be04fbb36f569eb52b/5AF104D8/t51.2885-15/e35/26154889_314901235673436_6124245759161270272_n.jpg",
+        "edge_media_preview_like": {
+            "count": 61
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "An elephant never forgets by Artist @luciantatar.tattooart\n@royalfleshtattoo #chicagotattooartist #tattoolife #chicago #chicagotattooshop #tattoolifemagazine #tattoolover #inkedmag #inkedup #IGdaily \n#bnw #tattoomodel #tattooistartmag #guyswithtattoos #realistictattoos #realismtattoos #blackandgreytattoo #bng #stencilstuff \n#tattoosnob #bodyart #tattoosofinstagram #inkedup #inktober #elephanttattoos #Lucian"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 3
+        },
+        "id": "1688657085171409569",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "BdvUKwNFqKh",
+        "tags": [
+            "IGdaily",
+            "chicagotattooartist",
+            "Lucian",
+            "tattoolife",
+            "tattoolifemagazine",
+            "tattoolover",
+            "tattoosofinstagram",
+            "realistictattoos",
+            "stencilstuff",
+            "tattoosnob",
+            "inkedup",
+            "realismtattoos",
+            "chicagotattooshop",
+            "elephanttattoos",
+            "tattoomodel",
+            "chicago",
+            "bodyart",
+            "blackandgreytattoo",
+            "guyswithtattoos",
+            "bnw",
+            "tattooistartmag",
+            "inktober",
+            "inkedmag",
+            "bng"
+        ],
+        "taken_at_timestamp": 1515523633,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/f322a30e979e37de04def028735217c3/5AEC91BD/t51.2885-15/s150x150/e35/26154889_314901235673436_6124245759161270272_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/d41dbb3a2de08769b6ca009e3423639e/5ADF5882/t51.2885-15/s240x240/e35/26154889_314901235673436_6124245759161270272_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/23f1c58c3c91405e2f90a5b488f702b8/5AFCE7FA/t51.2885-15/s320x320/e35/26154889_314901235673436_6124245759161270272_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/84946094be3edfb0ad71e919e33f6389/5AEC5B7C/t51.2885-15/s480x480/e35/26154889_314901235673436_6124245759161270272_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ac863e35559d80e7758ec6ad33e30ead/5AE2F8B9/t51.2885-15/s640x640/sh0.08/e35/26154889_314901235673436_6124245759161270272_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/ac863e35559d80e7758ec6ad33e30ead/5AE2F8B9/t51.2885-15/s640x640/sh0.08/e35/26154889_314901235673436_6124245759161270272_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/8de747967c1d60be04fbb36f569eb52b/5AF104D8/t51.2885-15/e35/26154889_314901235673436_6124245759161270272_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/899152ef896fab9585ab6c29de430a4a/5AE757F6/t51.2885-15/e35/26070694_106177796856379_3787939788162596864_n.jpg",
+        "edge_media_preview_like": {
+            "count": 68
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Galaxy and mountains tattoo by Artist @donmeatball\n@royalfleshtattoo \n#chicago #tattoo #galaxy #mountains #chitown #chicagotattoo #chicagotattooshop #chicagotattooartist #royalflesh #royalfleshtattoo #royalfleshtattooshop #maydaytattoosupply #albroordie #fkironsdirekt2 #fkirons #angelotiffe #angelotiffetattoo #tomahawkcartridges #hustlebutter #hustlebutterdeluxe #Angelo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2
+        },
+        "id": "1688067154392729495",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "BdtOCIWlUeX",
+        "tags": [
+            "galaxy",
+            "chicagotattooartist",
+            "chicagotattoo",
+            "royalfleshtattoo",
+            "hustlebutterdeluxe",
+            "chitown",
+            "albroordie",
+            "tomahawkcartridges",
+            "fkironsdirekt2",
+            "chicagotattooshop",
+            "royalflesh",
+            "hustlebutter",
+            "mountains",
+            "Angelo",
+            "chicago",
+            "royalfleshtattooshop",
+            "tattoo",
+            "maydaytattoosupply",
+            "fkirons",
+            "angelotiffe",
+            "angelotiffetattoo"
+        ],
+        "taken_at_timestamp": 1515453307,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e1bdd7fe871d1d457d04400291646a6b/5ADA2793/t51.2885-15/s150x150/e35/26070694_106177796856379_3787939788162596864_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e3929580f5f78281f0ca5db4167c197f/5AF1FDAC/t51.2885-15/s240x240/e35/26070694_106177796856379_3787939788162596864_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b3395f8f1609eefe28fcb63910feffad/5ADB6BD4/t51.2885-15/s320x320/e35/26070694_106177796856379_3787939788162596864_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/bda120218b9b4c2e22e53b1d52318a93/5AFC7452/t51.2885-15/s480x480/e35/26070694_106177796856379_3787939788162596864_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/2df3f5f7111e7f82f2555255ad59e1b1/5AE56E97/t51.2885-15/s640x640/sh0.08/e35/26070694_106177796856379_3787939788162596864_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/2df3f5f7111e7f82f2555255ad59e1b1/5AE56E97/t51.2885-15/s640x640/sh0.08/e35/26070694_106177796856379_3787939788162596864_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/899152ef896fab9585ab6c29de430a4a/5AE757F6/t51.2885-15/e35/26070694_106177796856379_3787939788162596864_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/ca9c017e06b8c270a9931db2ca5b0f5c/5AE67085/t51.2885-15/e35/26153404_543009166062141_2532431469272367104_n.jpg",
+        "edge_media_preview_like": {
+            "count": 83
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Dali/Jake style elephant tattoo by Artist @jakedoestattoos\n@royalfleshtattoo #chicago #chicagotattooshop #chitown #dalielephant #tattoo #black #blackworktattoo #chicagogram #jakedoestattoos #chicagotattoo #chicagotattooartist #blackwork #chicagoartist #greywash #dotworkchicago #dotshading #lineworktattoo #lineweight #stretched #floating #dali #Jake"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1687112925226376579",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "Bdp1ERMFp2D",
+        "tags": [
+            "stretched",
+            "chicagotattooartist",
+            "blackworktattoo",
+            "chicagotattoo",
+            "dalielephant",
+            "black",
+            "chitown",
+            "jakedoestattoos",
+            "chicagotattooshop",
+            "dali",
+            "chicago",
+            "blackwork",
+            "chicagoartist",
+            "floating",
+            "dotshading",
+            "greywash",
+            "tattoo",
+            "lineworktattoo",
+            "dotworkchicago",
+            "chicagogram",
+            "lineweight",
+            "Jake"
+        ],
+        "taken_at_timestamp": 1515339554,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/3e6d184954c14abcf2c158de6dea353e/5AD859E0/t51.2885-15/s150x150/e35/26153404_543009166062141_2532431469272367104_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/1809ad5bc87ce9007302bad8e90ddc49/5AEA84DF/t51.2885-15/s240x240/e35/26153404_543009166062141_2532431469272367104_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/bf8cd47b93265f876d9460ace6daebab/5AE8AFA7/t51.2885-15/s320x320/e35/26153404_543009166062141_2532431469272367104_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/a538a163ad9b3dd07fccee4fc3c1002c/5AE13F21/t51.2885-15/s480x480/e35/26153404_543009166062141_2532431469272367104_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/1161c39af9bf478ee7061b15694ec6b1/5AD82CE4/t51.2885-15/s640x640/sh0.08/e35/26153404_543009166062141_2532431469272367104_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/1161c39af9bf478ee7061b15694ec6b1/5AD82CE4/t51.2885-15/s640x640/sh0.08/e35/26153404_543009166062141_2532431469272367104_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/ca9c017e06b8c270a9931db2ca5b0f5c/5AE67085/t51.2885-15/e35/26153404_543009166062141_2532431469272367104_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/3492e473a1c99132481380c5b3efec38/5AEF6D0A/t51.2885-15/e35/26066590_1991416937774878_6211713923490512896_n.jpg",
+        "edge_media_preview_like": {
+            "count": 68
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Custom flash by Artist @joe_fryday @royalfleshtattoo #chicago #chicagoart #chicagogram #chicagolove #chicagoartist #chicagotattoo #chicagotattooartist #blackwork #blacktattoo #blackworkers #blackworktattoo #dotwork #dotworkers #dotworktattoo #dotworkchicago #chicagoblackwork #girlswithtattoos #guyswithtattoos #joefryday #radness #Joe"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1686603436240914419",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "BdoBOOmF8fz",
+        "tags": [
+            "chicagotattooartist",
+            "blackworktattoo",
+            "chicagoart",
+            "chicagotattoo",
+            "dotworktattoo",
+            "dotworkers",
+            "radness",
+            "chicago",
+            "blackwork",
+            "chicagoartist",
+            "dotwork",
+            "Joe",
+            "guyswithtattoos",
+            "girlswithtattoos",
+            "joefryday",
+            "chicagoblackwork",
+            "blacktattoo",
+            "dotworkchicago",
+            "chicagogram",
+            "chicagolove",
+            "blackworkers"
+        ],
+        "taken_at_timestamp": 1515278819,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/523aed25ce01e86eccf54dab9ea51e10/5AEF065D/t51.2885-15/s150x150/e35/26066590_1991416937774878_6211713923490512896_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/46cefd00b9368e45b5fb07ed891200ca/5ADE99C9/t51.2885-15/s240x240/e35/26066590_1991416937774878_6211713923490512896_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/3c4921c279c6743bd606ac9f0e48f131/5AD80F6D/t51.2885-15/s320x320/e35/26066590_1991416937774878_6211713923490512896_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/1d6558497a1ac89f19c1472d987cd1fa/5AE4B835/t51.2885-15/s480x480/e35/26066590_1991416937774878_6211713923490512896_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/db6a315ffba02f570d3718538a67fc4c/5ADCDD20/t51.2885-15/s640x640/sh0.08/e35/26066590_1991416937774878_6211713923490512896_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/db6a315ffba02f570d3718538a67fc4c/5ADCDD20/t51.2885-15/s640x640/sh0.08/e35/26066590_1991416937774878_6211713923490512896_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/3492e473a1c99132481380c5b3efec38/5AEF6D0A/t51.2885-15/e35/26066590_1991416937774878_6211713923490512896_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/67904b65e7839a844aae7d1c71680e07/5AE77D79/t51.2885-15/e35/25037649_353361865142859_5441703480764923904_n.jpg",
+        "edge_media_preview_like": {
+            "count": 64
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "The Eagles triangle by Artist @luciantatar.tattooart\n@royalfleshtattoo #chicagotattooartist #tattoolife #tattoolifeblog #tattoolifemagazine #tattoolover #inkedmag #inkedup #IGdaily \n#bnw #tattoomodel #tattooistartmag #guyswithtattoos #realistictattoos #realismtattoos #blackandgreytattoo #bng #stencilstuff #tattoosnob #bodyart #tattoosofinstagram #inkedup #eagles\n#eagletattoo #Lucian"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1685647241321473335",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "BdknzwrlWU3",
+        "tags": [
+            "IGdaily",
+            "chicagotattooartist",
+            "Lucian",
+            "tattoolife",
+            "tattoolifemagazine",
+            "tattoolover",
+            "tattoosofinstagram",
+            "realistictattoos",
+            "stencilstuff",
+            "tattoosnob",
+            "inkedup",
+            "realismtattoos",
+            "tattoolifeblog",
+            "tattoomodel",
+            "eagles",
+            "bodyart",
+            "blackandgreytattoo",
+            "guyswithtattoos",
+            "bnw",
+            "tattooistartmag",
+            "inkedmag",
+            "eagletattoo",
+            "bng"
+        ],
+        "taken_at_timestamp": 1515164831,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/f4b8bcc34a34f429dbb22002a63be272/5ADB4D1C/t51.2885-15/s150x150/e35/25037649_353361865142859_5441703480764923904_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/c9924f6036d82a1049f319f4799d708e/5AF05F23/t51.2885-15/s240x240/e35/25037649_353361865142859_5441703480764923904_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/3233800509c9142e0afb0684c1ac0fc9/5AE6E35B/t51.2885-15/s320x320/e35/25037649_353361865142859_5441703480764923904_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/2743f23d78d715282aa6789c25b27b0f/5AE854DD/t51.2885-15/s480x480/e35/25037649_353361865142859_5441703480764923904_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/36ee526551cf7ad622a86e7812b51d1b/5AE6CC18/t51.2885-15/s640x640/sh0.08/e35/25037649_353361865142859_5441703480764923904_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/36ee526551cf7ad622a86e7812b51d1b/5AE6CC18/t51.2885-15/s640x640/sh0.08/e35/25037649_353361865142859_5441703480764923904_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/67904b65e7839a844aae7d1c71680e07/5AE77D79/t51.2885-15/e35/25037649_353361865142859_5441703480764923904_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/387c586981728e0ba0c483bca60b541b/5AED4818/t51.2885-15/e35/26152833_357312191408567_6989609861747048448_n.jpg",
+        "edge_media_preview_like": {
+            "count": 47
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Custom sleeve wip by Artist @jakedoestattoos @royalfleshtattoo #chicago #chicagotattooartist #sleve #chicagotattooshop #wip #jakedoestattoos #chicagotattoo #workinprogress #chicagoartist #trippy #angeltattoo #deviltattoo #blackandgrey #blackwork #skulls #blackworktattoo #wings #greywash #dotworkchicago #dotworkers #flow #Jake"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1684444166732852459",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "BdgWQuKFyzr",
+        "tags": [
+            "chicagotattooartist",
+            "blackandgrey",
+            "blackworktattoo",
+            "sleve",
+            "chicagotattoo",
+            "jakedoestattoos",
+            "deviltattoo",
+            "wings",
+            "chicagotattooshop",
+            "dotworkers",
+            "flow",
+            "chicago",
+            "blackwork",
+            "chicagoartist",
+            "trippy",
+            "workinprogress",
+            "angeltattoo",
+            "greywash",
+            "skulls",
+            "dotworkchicago",
+            "Jake",
+            "wip"
+        ],
+        "taken_at_timestamp": 1515021414,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/d3379574208232f36f437ecbf6d0ec70/5ADEC77D/t51.2885-15/s150x150/e35/26152833_357312191408567_6989609861747048448_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ef28932bcc2e984a17ef7341200886b6/5AD9E442/t51.2885-15/s240x240/e35/26152833_357312191408567_6989609861747048448_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/fdf9737e14ed619a5db3d4b7d75b658e/5AF9F63A/t51.2885-15/s320x320/e35/26152833_357312191408567_6989609861747048448_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/8e0dd973acc264ecfa1abd326e2bc3b0/5AFDABBC/t51.2885-15/s480x480/e35/26152833_357312191408567_6989609861747048448_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/59245c2b48a9621178e6d01cfe40722e/5AEC5F79/t51.2885-15/s640x640/sh0.08/e35/26152833_357312191408567_6989609861747048448_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/59245c2b48a9621178e6d01cfe40722e/5AEC5F79/t51.2885-15/s640x640/sh0.08/e35/26152833_357312191408567_6989609861747048448_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/387c586981728e0ba0c483bca60b541b/5AED4818/t51.2885-15/e35/26152833_357312191408567_6989609861747048448_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1182,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/5eef92707cb1a46dd80771de515ff323/5ADD225E/t51.2885-15/e35/26068668_562211190805240_5916800943298445312_n.jpg",
+        "edge_media_preview_like": {
+            "count": 43
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Cheers to the New Year! May success be with you in every step and all your dreams come true. May each day bring you the best!"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1682785120917133038",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "BdadCbVlBbu",
+        "tags": [],
+        "taken_at_timestamp": 1514823640,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/5dba7c54b7f363755edfe2e5175d1fc0/5ADE4D8D/t51.2885-15/s150x150/e35/c0.51.1080.1080/26068668_562211190805240_5916800943298445312_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/62fd8409ec1389b2a166334a9c8c6b88/5AF9011B/t51.2885-15/s240x240/e35/c0.51.1080.1080/26068668_562211190805240_5916800943298445312_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/2f51919578639224227c28ea543e7a51/5AD8421D/t51.2885-15/s320x320/e35/c0.51.1080.1080/26068668_562211190805240_5916800943298445312_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/d6d0a72d0112afd1448a1f02775d477f/5AE934AE/t51.2885-15/s480x480/e35/c0.51.1080.1080/26068668_562211190805240_5916800943298445312_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/f34f378e36a7fef0c83087eb86aa25be/5AEF3119/t51.2885-15/s640x640/sh0.08/e35/c0.51.1080.1080/26068668_562211190805240_5916800943298445312_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/f34f378e36a7fef0c83087eb86aa25be/5AEF3119/t51.2885-15/s640x640/sh0.08/e35/c0.51.1080.1080/26068668_562211190805240_5916800943298445312_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/5eef92707cb1a46dd80771de515ff323/5ADD225E/t51.2885-15/e35/26068668_562211190805240_5916800943298445312_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/d9c2dcde1d8c8ca959c795f2a92990ea/5ADE0315/t51.2885-15/e35/26067580_1804165316548786_4218921214942380032_n.jpg",
+        "edge_media_preview_like": {
+            "count": 78
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Galactic Sparrow by Artist @joe_fryday @royalfleshtattoo #chicago #chicagoart #chi #chicagogram #chicagolove #chicagoartist #chicagotattoo #chicagotattooartist #blackwork #blacktattoo #blackworkers #blackworktattoo #dotwork #dotworkers #dotworktattoo #dotworkchicago #sparrowtattoo #chicagotattooshop #greywash #chicagoblackwork #tattoos #girlswithtattoos #filigree #guyswithtattoos #joefryday #radness #Joe"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1681553756804978750",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "BdWFDuJFZg-",
+        "tags": [
+            "chicagotattooartist",
+            "chi",
+            "blackworktattoo",
+            "chicagoart",
+            "chicagotattoo",
+            "dotworktattoo",
+            "sparrowtattoo",
+            "chicagotattooshop",
+            "dotworkers",
+            "tattoos",
+            "radness",
+            "chicago",
+            "blackwork",
+            "chicagoartist",
+            "dotwork",
+            "Joe",
+            "filigree",
+            "guyswithtattoos",
+            "greywash",
+            "girlswithtattoos",
+            "chicagoblackwork",
+            "joefryday",
+            "blacktattoo",
+            "dotworkchicago",
+            "chicagogram",
+            "chicagolove",
+            "blackworkers"
+        ],
+        "taken_at_timestamp": 1514676850,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/afc44e1ceccc72fe03d81870513c0723/5ADEFA42/t51.2885-15/s150x150/e35/26067580_1804165316548786_4218921214942380032_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/193455c6b70528a4df7d873367b2208e/5ADAB1D6/t51.2885-15/s240x240/e35/26067580_1804165316548786_4218921214942380032_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ef45130282e622edc2c810f24ab007f1/5AF00872/t51.2885-15/s320x320/e35/26067580_1804165316548786_4218921214942380032_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/46ddcb029b471efb95ecad5b96a45a8c/5ADFC82A/t51.2885-15/s480x480/e35/26067580_1804165316548786_4218921214942380032_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/77175a40f63158779c521f4a77ee14bd/5AFED43F/t51.2885-15/s640x640/sh0.08/e35/26067580_1804165316548786_4218921214942380032_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/77175a40f63158779c521f4a77ee14bd/5AFED43F/t51.2885-15/s640x640/sh0.08/e35/26067580_1804165316548786_4218921214942380032_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/d9c2dcde1d8c8ca959c795f2a92990ea/5ADE0315/t51.2885-15/e35/26067580_1804165316548786_4218921214942380032_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/d0a1973fe3e170fc00151a67ea6f62a6/5AE35348/t51.2885-15/e35/25025627_123087925155679_7827659578648035328_n.jpg",
+        "edge_media_preview_like": {
+            "count": 37
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Necklace tattoo reproduced for a client by Artist @donmeatball @royalfleshtattoo #chicago #chicagotattoo #chicagogram #chicagotattooartist #chi #chicagotattooshop #tattoo #royalfleshtattoo #royalflesh #royalfleshtattooshop #inkwork #maydaytattoosupply #inkedup #blackwork #tomhawkcartridges #albroordie #fkironsdirekt2 #fkirons #black #angelotiffe #angelotiffetattoo #Angelo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1680799284738742548",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "BdTZgtRlVkU",
+        "tags": [
+            "chicagotattooartist",
+            "chi",
+            "chicagotattoo",
+            "royalfleshtattoo",
+            "black",
+            "albroordie",
+            "inkedup",
+            "fkironsdirekt2",
+            "chicagotattooshop",
+            "royalflesh",
+            "Angelo",
+            "chicago",
+            "blackwork",
+            "royalfleshtattooshop",
+            "tattoo",
+            "maydaytattoosupply",
+            "fkirons",
+            "angelotiffe",
+            "angelotiffetattoo",
+            "chicagogram",
+            "inkwork",
+            "tomhawkcartridges"
+        ],
+        "taken_at_timestamp": 1514586910,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/17e00e83cb7035c59292155e8df12d71/5AF2792D/t51.2885-15/s150x150/e35/25025627_123087925155679_7827659578648035328_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e1806f654ba535b5bab12776cc519a08/5AE48512/t51.2885-15/s240x240/e35/25025627_123087925155679_7827659578648035328_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/7b40132400bf4722abf9e779506da893/5AFB846A/t51.2885-15/s320x320/e35/25025627_123087925155679_7827659578648035328_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/62724cc54d2678bbf09179456bbc1d4d/5ADF7CEC/t51.2885-15/s480x480/e35/25025627_123087925155679_7827659578648035328_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/8ebca2271c18a39d619b31a9070aa8b2/5AF55C29/t51.2885-15/s640x640/sh0.08/e35/25025627_123087925155679_7827659578648035328_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/8ebca2271c18a39d619b31a9070aa8b2/5AF55C29/t51.2885-15/s640x640/sh0.08/e35/25025627_123087925155679_7827659578648035328_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/d0a1973fe3e170fc00151a67ea6f62a6/5AE35348/t51.2885-15/e35/25025627_123087925155679_7827659578648035328_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1103,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/3526822d6904ed72668c1cae99886676/5AEC4052/t51.2885-15/e35/25016314_172099310060075_3370597223304790016_n.jpg",
+        "edge_media_preview_like": {
+            "count": 62
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Tropical beach scene from \"Chiberia\" ❄☃ by Artist @luciantatar.tattooart\n@royalfleshtattoo #chicago #chicagotattooshop #chiberia #chicagotattooartist #tattoolife #tattoolifeblog #greywash #tattoolifemagazine #tattoolover #inkedmag #inkedup #IGdaily \n#bnw #tattoomodel #cold #guyswithtattoos #realistictattoo #blackandgreytattoo #bng #stencilstuff #tattoosnob #tattoolifemagazine\n#thebeach #tropicallandscape #landscape #Lucian"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1679373768223638452",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "BdOVYtkFEO0",
+        "tags": [
+            "IGdaily",
+            "chicagotattooartist",
+            "landscape",
+            "Lucian",
+            "tattoolife",
+            "chiberia",
+            "cold",
+            "thebeach",
+            "tattoolifemagazine",
+            "tattoolover",
+            "realistictattoo",
+            "stencilstuff",
+            "tattoosnob",
+            "inkedup",
+            "chicagotattooshop",
+            "tattoolifeblog",
+            "tattoomodel",
+            "chicago",
+            "blackandgreytattoo",
+            "guyswithtattoos",
+            "bnw",
+            "greywash",
+            "inkedmag",
+            "tropicallandscape",
+            "bng"
+        ],
+        "taken_at_timestamp": 1514416975,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/a111be036047c88351a3bbbbd7a57eff/5AF837B0/t51.2885-15/s150x150/e35/c0.11.1080.1080/25016314_172099310060075_3370597223304790016_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/2e900ca18270694bba92ba7137d39e05/5ADC9626/t51.2885-15/s240x240/e35/c0.11.1080.1080/25016314_172099310060075_3370597223304790016_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/2f011d866d19a0e1a554754a56f1c4db/5AFB8120/t51.2885-15/s320x320/e35/c0.11.1080.1080/25016314_172099310060075_3370597223304790016_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/7418f788ab15650fb7c9926b45b0fcf0/5AE7B493/t51.2885-15/s480x480/e35/c0.11.1080.1080/25016314_172099310060075_3370597223304790016_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/4fb220d65475718aa9cb717086d694d6/5AE9F624/t51.2885-15/s640x640/sh0.08/e35/c0.11.1080.1080/25016314_172099310060075_3370597223304790016_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/4fb220d65475718aa9cb717086d694d6/5AE9F624/t51.2885-15/s640x640/sh0.08/e35/c0.11.1080.1080/25016314_172099310060075_3370597223304790016_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/3526822d6904ed72668c1cae99886676/5AEC4052/t51.2885-15/e35/25016314_172099310060075_3370597223304790016_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/612621d902d03eb6f222f46793324e83/5AEBC87A/t51.2885-15/e35/25018995_313363519183725_9072333881188810752_n.jpg",
+        "edge_media_preview_like": {
+            "count": 77
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Cardinal tattoo done by Artist @jakedoestattoos @royalfleshtattoo #chicago #chicagotattooshop #inked #chicagotattooartist #chitown #chicagotattoo #chicagoartist #jakedoestattoos #linesanddots #cardinal #cardinaltattoo #statebird #red #dotworkchicago #dotwork #lineworktattoo #tatt #mountains #birdtattoo #tattoos #blackwork #dots #landscape #Jake"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 3
+        },
+        "id": "1678594064222899656",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "BdLkGhoFc3I",
+        "tags": [
+            "chicagotattooartist",
+            "landscape",
+            "linesanddots",
+            "statebird",
+            "chicagotattoo",
+            "chitown",
+            "jakedoestattoos",
+            "chicagotattooshop",
+            "mountains",
+            "tattoos",
+            "chicago",
+            "blackwork",
+            "chicagoartist",
+            "dotwork",
+            "inked",
+            "cardinal",
+            "tatt",
+            "lineworktattoo",
+            "dotworkchicago",
+            "cardinaltattoo",
+            "red",
+            "Jake",
+            "dots",
+            "birdtattoo"
+        ],
+        "taken_at_timestamp": 1514324027,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e70307b00bcc7f7758a2d1912bf0d80b/5AE5041F/t51.2885-15/s150x150/e35/25018995_313363519183725_9072333881188810752_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/55a6a4bdb135d8cd11353f43609fd8b4/5AF21E20/t51.2885-15/s240x240/e35/25018995_313363519183725_9072333881188810752_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/c6a5f9eb89b7bec4d0495ecedc0a97d6/5AED8F58/t51.2885-15/s320x320/e35/25018995_313363519183725_9072333881188810752_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/fd174b9585879e472808d9674f1a19dc/5AE82FDE/t51.2885-15/s480x480/e35/25018995_313363519183725_9072333881188810752_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b757564b3a4c514d3de645d4f8f0b6f2/5AFE641B/t51.2885-15/s640x640/sh0.08/e35/25018995_313363519183725_9072333881188810752_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/b757564b3a4c514d3de645d4f8f0b6f2/5AFE641B/t51.2885-15/s640x640/sh0.08/e35/25018995_313363519183725_9072333881188810752_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/612621d902d03eb6f222f46793324e83/5AEBC87A/t51.2885-15/e35/25018995_313363519183725_9072333881188810752_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/0ce610d30e05abef41a64b2505d5ac74/5AFBE0C9/t51.2885-15/e35/25015048_763488453835985_1523214970479706112_n.jpg",
+        "edge_media_preview_like": {
+            "count": 93
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Hidden pictures by Artist @joe_fryday @royalfleshtattoo #chicago #chicagoart #chi #chicagotattooshop #tattoo #chicagogram #chicagolove #chicagoartist #chicagotattoo #chicagotattooartist #blackwork #blacktattoo #blackworkers #blackworktattoo #dotwork #dotworkers #dotworktattoo #dotworkchicago #chicagoblackwork #girlswithtattoos #guyswithtattoos #joefryday #radness #Joe"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2
+        },
+        "id": "1676526360439732728",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "1758431",
+            "name": "Royal Flesh Tattoo and Piercing",
+            "slug": "royal-flesh-tattoo-and-piercing"
+        },
+        "owner": {
+            "id": "179861579"
+        },
+        "shortcode": "BdEN9ealrn4",
+        "tags": [
+            "chicagotattooartist",
+            "chi",
+            "blackworktattoo",
+            "chicagoart",
+            "chicagotattoo",
+            "dotworktattoo",
+            "chicagotattooshop",
+            "dotworkers",
+            "radness",
+            "chicago",
+            "blackwork",
+            "chicagoartist",
+            "dotwork",
+            "Joe",
+            "guyswithtattoos",
+            "girlswithtattoos",
+            "tattoo",
+            "chicagoblackwork",
+            "joefryday",
+            "blacktattoo",
+            "dotworkchicago",
+            "chicagogram",
+            "chicagolove",
+            "blackworkers"
+        ],
+        "taken_at_timestamp": 1514077538,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/4fbc1526b9461f3b6f4353ec0b5eae21/5AD7DFAC/t51.2885-15/s150x150/e35/25015048_763488453835985_1523214970479706112_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/80ed282b6f1670223cda102672998903/5AEB8693/t51.2885-15/s240x240/e35/25015048_763488453835985_1523214970479706112_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/0954654ec001e16a6980e583ceb6204c/5AEA03EB/t51.2885-15/s320x320/e35/25015048_763488453835985_1523214970479706112_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/44e0db11e52827addd113114df4a21b2/5AF12E6D/t51.2885-15/s480x480/e35/25015048_763488453835985_1523214970479706112_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/327e4686c7f74eb22aab621816353014/5AFC89A8/t51.2885-15/s640x640/sh0.08/e35/25015048_763488453835985_1523214970479706112_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/327e4686c7f74eb22aab621816353014/5AFC89A8/t51.2885-15/s640x640/sh0.08/e35/25015048_763488453835985_1523214970479706112_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/0ce610d30e05abef41a64b2505d5ac74/5AFBE0C9/t51.2885-15/e35/25015048_763488453835985_1523214970479706112_n.jpg"
+        ]
+    }
+]

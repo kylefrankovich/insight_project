@@ -1,0 +1,1399 @@
+[
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/260aa9ea090ab7011026139b7f7afc19/5AE4E738/t51.2885-15/e35/26184283_2025218731086777_1796178116578639872_n.jpg",
+        "edge_media_preview_like": {
+            "count": 72
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "💀 by Margaret @moira_mctaggert \n#animalfarmtattoo #chicago #chicagotattooshops #blackwork #chicagoartist #ladytattooers #blackandgreytattoo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1693237314305030557",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "Bd_ll2_lnmd",
+        "tags": [
+            "chicago",
+            "blackwork",
+            "chicagoartist",
+            "animalfarmtattoo",
+            "blackandgreytattoo",
+            "chicagotattooshops",
+            "ladytattooers"
+        ],
+        "taken_at_timestamp": 1516069639,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/cbf48ee378898736ab8eae402ddd71c3/5AF3096F/t51.2885-15/s150x150/e35/26184283_2025218731086777_1796178116578639872_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ec1a3012309c192ec9a24eef07859bb5/5AFDCCFB/t51.2885-15/s240x240/e35/26184283_2025218731086777_1796178116578639872_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/a9c175d576adc32b95cd6431b696903d/5AF1705F/t51.2885-15/s320x320/e35/26184283_2025218731086777_1796178116578639872_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/d5d2095e6ed66f5b3ba89bc8109eee12/5AD8FF07/t51.2885-15/s480x480/e35/26184283_2025218731086777_1796178116578639872_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/32b201e953e3f7adcbee8a5111a6a8f1/5AF97C12/t51.2885-15/s640x640/sh0.08/e35/26184283_2025218731086777_1796178116578639872_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/32b201e953e3f7adcbee8a5111a6a8f1/5AF97C12/t51.2885-15/s640x640/sh0.08/e35/26184283_2025218731086777_1796178116578639872_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/260aa9ea090ab7011026139b7f7afc19/5AE4E738/t51.2885-15/e35/26184283_2025218731086777_1796178116578639872_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/26e5e5df4166ec2a31968ecd13a1c259/5AE5DBB7/t51.2885-15/e35/26071866_355626174904371_6053704408837914624_n.jpg",
+        "edge_media_preview_like": {
+            "count": 123
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "@caitlindrakemckay tattooed this @representartco piece over the weekend. #chicago #chicagotattooartist #chicagotattooshops #chicagotattoostudio #chicagotattooer"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 6
+        },
+        "id": "1692233959747254733",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "212925334",
+            "name": "Animal Farm Tattoo",
+            "slug": "animal-farm-tattoo"
+        },
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "Bd8BdIPlnnN",
+        "tags": [
+            "chicagotattooer",
+            "chicago",
+            "chicagotattooartist",
+            "chicagotattooshops",
+            "chicagotattoostudio"
+        ],
+        "taken_at_timestamp": 1515950029,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/bc6167560dca3a0b493e7e0f5cef0820/5AFCA5D2/t51.2885-15/s150x150/e35/26071866_355626174904371_6053704408837914624_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b97d4ff7c4c0163cf0d899bc576739ab/5AF9CAED/t51.2885-15/s240x240/e35/26071866_355626174904371_6053704408837914624_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/53e1b6ec5f9a121fb433300666655f58/5AFB3395/t51.2885-15/s320x320/e35/26071866_355626174904371_6053704408837914624_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ea653d9aa2ccb0be26f8a3d828941fb4/5AF60113/t51.2885-15/s480x480/e35/26071866_355626174904371_6053704408837914624_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/7e644827b7d0b9f704ee92ec48dc7d2d/5AF69CD6/t51.2885-15/s640x640/sh0.08/e35/26071866_355626174904371_6053704408837914624_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/7e644827b7d0b9f704ee92ec48dc7d2d/5AF69CD6/t51.2885-15/s640x640/sh0.08/e35/26071866_355626174904371_6053704408837914624_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/26e5e5df4166ec2a31968ecd13a1c259/5AE5DBB7/t51.2885-15/e35/26071866_355626174904371_6053704408837914624_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/699a6083b24ea20ad58c18bdc6cc0f90/5AF7C984/t51.2885-15/e35/25038247_2011414792471662_4174918824023293952_n.jpg",
+        "edge_media_preview_like": {
+            "count": 40
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Just finished by @caitlindrakemckay #chicago #chicagotattoo #chicagotattooartist #chicagotattooer #chicagotattooshop #chicagotattoostudio"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1687375151896160222",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "BdqwsKzl2fe",
+        "tags": [
+            "chicagotattooer",
+            "chicago",
+            "chicagotattooartist",
+            "chicagotattoostudio",
+            "chicagotattoo",
+            "chicagotattooshop"
+        ],
+        "taken_at_timestamp": 1515370814,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/7247fdd6c5be794d2e873df0d47744db/5AE495D3/t51.2885-15/s150x150/e35/25038247_2011414792471662_4174918824023293952_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/299b0a3267478fda4a0a960bdc27f570/5AEBA147/t51.2885-15/s240x240/e35/25038247_2011414792471662_4174918824023293952_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b37ba95ac4624dbc71986298d0461396/5AF800E3/t51.2885-15/s320x320/e35/25038247_2011414792471662_4174918824023293952_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/6309776e6d3612a850af7acb99b46386/5AF304BB/t51.2885-15/s480x480/e35/25038247_2011414792471662_4174918824023293952_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/bd67745692f10097082060f7fbf45178/5AD9F9AE/t51.2885-15/s640x640/sh0.08/e35/25038247_2011414792471662_4174918824023293952_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/bd67745692f10097082060f7fbf45178/5AD9F9AE/t51.2885-15/s640x640/sh0.08/e35/25038247_2011414792471662_4174918824023293952_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/699a6083b24ea20ad58c18bdc6cc0f90/5AF7C984/t51.2885-15/e35/25038247_2011414792471662_4174918824023293952_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/4c1f9f15516f384edbc1155c1d28f997/5ADDDCAE/t51.2885-15/e35/26074018_166836497410520_269838145074233344_n.jpg",
+        "edge_media_preview_like": {
+            "count": 116
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "The Empress tarot by Margaret @moira_mctaggert \n#animalfarmtattoo #chicago #blackwork #empress #tarot"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1685968373920563421",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "Bdlw02uFADd",
+        "tags": [
+            "chicago",
+            "blackwork",
+            "empress",
+            "animalfarmtattoo",
+            "tarot"
+        ],
+        "taken_at_timestamp": 1515203113,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/d3af36ed12d60b6aa5ea02999717b3dd/5AD8D51A/t51.2885-15/s150x150/e35/26074018_166836497410520_269838145074233344_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/fbf5d08fdbfe10b816f134e726feafc8/5AF540AF/t51.2885-15/s240x240/e35/26074018_166836497410520_269838145074233344_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/842e75b698f86ce7ed3ae95b237459b6/5ADBE5E7/t51.2885-15/s320x320/e35/26074018_166836497410520_269838145074233344_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b98a4cf4623983059ce2d262b6c2ea6e/5AE31753/t51.2885-15/s480x480/e35/26074018_166836497410520_269838145074233344_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/1c884b52b960c9f2881e5b57494da86c/5ADEFE3B/t51.2885-15/s640x640/sh0.08/e35/26074018_166836497410520_269838145074233344_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/1c884b52b960c9f2881e5b57494da86c/5ADEFE3B/t51.2885-15/s640x640/sh0.08/e35/26074018_166836497410520_269838145074233344_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/4c1f9f15516f384edbc1155c1d28f997/5ADDDCAE/t51.2885-15/e35/26074018_166836497410520_269838145074233344_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1208,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/24daca0a756fe7d9e8125d2d33afe0cf/5AF4119A/t51.2885-15/e35/26065329_196255300951825_3418816782482276352_n.jpg",
+        "edge_media_preview_like": {
+            "count": 56
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "By Adrian Montoya\nFor appointments, travel tips, and other inquiries DM or Email info@animalfarmtattoo.com\nThanks for lookin!"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1679119663295215827",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "BdNbm_6FbjT",
+        "tags": [],
+        "taken_at_timestamp": 1514386683,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/4ee469eb8ddad904b82cc1d4ce52af1c/5AFA0A5E/t51.2885-15/s150x150/e35/c0.64.1080.1080/26065329_196255300951825_3418816782482276352_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/9bc21b40ed308e7163dedec04887fff9/5AE6FFC8/t51.2885-15/s240x240/e35/c0.64.1080.1080/26065329_196255300951825_3418816782482276352_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/82b65c22157ba902be9bcde749a916e3/5AD8F8CE/t51.2885-15/s320x320/e35/c0.64.1080.1080/26065329_196255300951825_3418816782482276352_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/5f4e5045c2da47d8c6e209010a8563e6/5AFDCD7D/t51.2885-15/s480x480/e35/c0.64.1080.1080/26065329_196255300951825_3418816782482276352_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/93d81f3e4a416a1812748e96c51e252e/5AF143CA/t51.2885-15/s640x640/sh0.08/e35/c0.64.1080.1080/26065329_196255300951825_3418816782482276352_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/93d81f3e4a416a1812748e96c51e252e/5AF143CA/t51.2885-15/s640x640/sh0.08/e35/c0.64.1080.1080/26065329_196255300951825_3418816782482276352_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/24daca0a756fe7d9e8125d2d33afe0cf/5AF4119A/t51.2885-15/e35/26065329_196255300951825_3418816782482276352_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/84b524e2ba82870a3d0481cf1d0555e8/5AF2FEC5/t51.2885-15/e35/25035852_413747349042917_2168174429610180608_n.jpg",
+        "edge_media_preview_like": {
+            "count": 22
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "See you guys Dec. 26th. In the meantime enjoy your time with friends and family. Be safe. See you soon."
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1677031192556477900",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "BdGAvv9lB3M",
+        "tags": [],
+        "taken_at_timestamp": 1514137718,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/3df5dcfe30d2850f33d724343d552592/5AFF2EA0/t51.2885-15/s150x150/e35/25035852_413747349042917_2168174429610180608_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/42ff6491a80670f32cd25ad1165ac094/5AF3C09F/t51.2885-15/s240x240/e35/25035852_413747349042917_2168174429610180608_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/0c4e37f2440493a16c807b0f76c719a4/5AE373E7/t51.2885-15/s320x320/e35/25035852_413747349042917_2168174429610180608_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/03f613f8c086ff826cec39fc18212ea8/5AE27261/t51.2885-15/s480x480/e35/25035852_413747349042917_2168174429610180608_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/1dba3aeb10ab2c81433a9e64f32ce66f/5AE4D5A4/t51.2885-15/s640x640/sh0.08/e35/25035852_413747349042917_2168174429610180608_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/1dba3aeb10ab2c81433a9e64f32ce66f/5AE4D5A4/t51.2885-15/s640x640/sh0.08/e35/25035852_413747349042917_2168174429610180608_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/84b524e2ba82870a3d0481cf1d0555e8/5AF2FEC5/t51.2885-15/e35/25035852_413747349042917_2168174429610180608_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/f206cdebe54555d2709a4154e19c0a7c/5AF8CA19/t51.2885-15/e35/25024667_177646619499129_7050260941769801728_n.jpg",
+        "edge_media_preview_like": {
+            "count": 56
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "By Adrian Montoya\n@adrian_montoya_tattooer_312\nFor appointments and inquiries DM or Email info@animalfarmtattoo.com \nThanks for lookin!"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1673564912323340799",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "122322558",
+            "name": "Concord Music Hall",
+            "slug": "concord-music-hall"
+        },
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "Bc5smu7lyn_",
+        "tags": [],
+        "taken_at_timestamp": 1513724505,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/5a24342800b3bc548d366884540328cc/5AF2ED7C/t51.2885-15/s150x150/e35/25024667_177646619499129_7050260941769801728_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/694c38de987b9d7b393f5ced0b241941/5ADDFB43/t51.2885-15/s240x240/e35/25024667_177646619499129_7050260941769801728_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/161c7bee7f342fecaab5b56094bca3dd/5ADB293B/t51.2885-15/s320x320/e35/25024667_177646619499129_7050260941769801728_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b8ddb276845219e484bf715e9b8f8d2b/5AF5BDBD/t51.2885-15/s480x480/e35/25024667_177646619499129_7050260941769801728_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/7cf7b59189edddc3106ca2848313a24d/5AD84C78/t51.2885-15/s640x640/sh0.08/e35/25024667_177646619499129_7050260941769801728_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/7cf7b59189edddc3106ca2848313a24d/5AD84C78/t51.2885-15/s640x640/sh0.08/e35/25024667_177646619499129_7050260941769801728_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/f206cdebe54555d2709a4154e19c0a7c/5AF8CA19/t51.2885-15/e35/25024667_177646619499129_7050260941769801728_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/cfffa793c30c11912fa73aa6fbf2cf92/5AF67A94/t51.2885-15/e35/25015176_401187716979188_7770368357051662336_n.jpg",
+        "edge_media_preview_like": {
+            "count": 42
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Dietzel - inspired flash by Margaret @moira_mctaggert. To book an appointment, email mcnultytattoos@gmail.com 🐰\n#chicago #chicagotattooartist #chicagoartist #ladytattooers #traditionaltattoos #americantraditional #flash"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1672739977149396540",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "Bc2xCWLlbY8",
+        "tags": [
+            "flash",
+            "americantraditional",
+            "chicago",
+            "chicagotattooartist",
+            "chicagoartist",
+            "traditionaltattoos",
+            "ladytattooers"
+        ],
+        "taken_at_timestamp": 1513626166,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/5fe70c2bed4c00b85d070fe97cf9df99/5AFB92F1/t51.2885-15/s150x150/e35/25015176_401187716979188_7770368357051662336_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/207d52ee2e235c0c81e960897e88c906/5AF7C7CE/t51.2885-15/s240x240/e35/25015176_401187716979188_7770368357051662336_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/76465809d7043ff7ae8bae7441ff4d98/5AFCD6B6/t51.2885-15/s320x320/e35/25015176_401187716979188_7770368357051662336_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ca2a24d891f6a21edc604c7952707c21/5AE58230/t51.2885-15/s480x480/e35/25015176_401187716979188_7770368357051662336_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/f14bf0a3dbdf81f1f908a0cc1bfad96d/5AF609F5/t51.2885-15/s640x640/sh0.08/e35/25015176_401187716979188_7770368357051662336_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/f14bf0a3dbdf81f1f908a0cc1bfad96d/5AF609F5/t51.2885-15/s640x640/sh0.08/e35/25015176_401187716979188_7770368357051662336_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/cfffa793c30c11912fa73aa6fbf2cf92/5AF67A94/t51.2885-15/e35/25015176_401187716979188_7770368357051662336_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/6ec903177623f81b941a0f4c3fe95dd7/5AD98BE2/t51.2885-15/e35/25022967_116346742490971_2270181917229842432_n.jpg",
+        "edge_media_preview_like": {
+            "count": 49
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Tattoo by @caitlindrakemckay #chicago #chicagotattooartist #chicagotattooshops #chicagotattooer #chicagotattoostudio"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1672092375999563096",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "212925334",
+            "name": "Animal Farm Tattoo",
+            "slug": "animal-farm-tattoo"
+        },
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "Bc0dygnF8VY",
+        "tags": [
+            "chicagotattooer",
+            "chicago",
+            "chicagotattooartist",
+            "chicagotattooshops",
+            "chicagotattoostudio"
+        ],
+        "taken_at_timestamp": 1513548965,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/a31b61114337cf2efb6baa1fda4878ce/5AE0AA87/t51.2885-15/s150x150/e35/25022967_116346742490971_2270181917229842432_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/fbec0c2d19f7ba56395d9ee7c9f8a5c7/5AEEEEB8/t51.2885-15/s240x240/e35/25022967_116346742490971_2270181917229842432_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/bf2a7be5aa6b29af1a20ae084ae44eb0/5AE39FC0/t51.2885-15/s320x320/e35/25022967_116346742490971_2270181917229842432_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/5f25a1d0ac8a0f1c84ff722de42b0ba2/5AF1EA46/t51.2885-15/s480x480/e35/25022967_116346742490971_2270181917229842432_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/33e185e84bd93ea04d4dfa9040ba2492/5AD83D83/t51.2885-15/s640x640/sh0.08/e35/25022967_116346742490971_2270181917229842432_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/33e185e84bd93ea04d4dfa9040ba2492/5AD83D83/t51.2885-15/s640x640/sh0.08/e35/25022967_116346742490971_2270181917229842432_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/6ec903177623f81b941a0f4c3fe95dd7/5AD98BE2/t51.2885-15/e35/25022967_116346742490971_2270181917229842432_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/ad8b03388bcfd05c94936a4acd663683/5AD88B03/t51.2885-15/e35/25005709_136375230393558_964369674353508352_n.jpg",
+        "edge_media_preview_like": {
+            "count": 57
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Tattoo by @caitlindrakemckay We love your custom projects - keep them coming! #chicago #chicagotattooshop #chicagotattooshops #chicagotattooartist #chicagotattooer #chicagotattoostudio"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1668540639120599636",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "212925334",
+            "name": "Animal Farm Tattoo",
+            "slug": "animal-farm-tattoo"
+        },
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "Bcn2N74FipU",
+        "tags": [
+            "chicagotattooer",
+            "chicago",
+            "chicagotattooartist",
+            "chicagotattooshops",
+            "chicagotattoostudio",
+            "chicagotattooshop"
+        ],
+        "taken_at_timestamp": 1513125565,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/102f5a084df4d17e6acf4e48a42b81dc/5ADDCEB7/t51.2885-15/s150x150/e35/25005709_136375230393558_964369674353508352_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/36bcb470c835c50cf90f18a26dc2b656/5AE8FB02/t51.2885-15/s240x240/e35/25005709_136375230393558_964369674353508352_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/c54bef3487d4ddd9d7a591d5bbd7e19d/5ADDBA4A/t51.2885-15/s320x320/e35/25005709_136375230393558_964369674353508352_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b35b8d2ee2acbf90f792df5c4e73989a/5AE216FE/t51.2885-15/s480x480/e35/25005709_136375230393558_964369674353508352_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/3fe8ac599b36ec5693621203514794fb/5AD92796/t51.2885-15/s640x640/sh0.08/e35/25005709_136375230393558_964369674353508352_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/3fe8ac599b36ec5693621203514794fb/5AD92796/t51.2885-15/s640x640/sh0.08/e35/25005709_136375230393558_964369674353508352_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/ad8b03388bcfd05c94936a4acd663683/5AD88B03/t51.2885-15/e35/25005709_136375230393558_964369674353508352_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/8199fc998d2060c15f9758c2588931a8/5AE2A5EC/t51.2885-15/e35/24845153_472477969815012_8710398971429781504_n.jpg",
+        "edge_media_preview_like": {
+            "count": 75
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Moon kiss by Margaret @moira_mctaggert \n#animalfarmtattoo #chicago #chicagotattooshops #blackwork #chicagoartist"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1667822056069572201",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "BclS1LQlqZp",
+        "tags": [
+            "chicago",
+            "blackwork",
+            "chicagoartist",
+            "animalfarmtattoo",
+            "chicagotattooshops"
+        ],
+        "taken_at_timestamp": 1513039904,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/abbac083848187a0672d6874cc20a056/5AF1CB89/t51.2885-15/s150x150/e35/24845153_472477969815012_8710398971429781504_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e6ab20b497e80058f06e3f1a1428fe66/5AE533B6/t51.2885-15/s240x240/e35/24845153_472477969815012_8710398971429781504_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/815f9ad59c5c295425a0d8b7fd6069b4/5AF684CE/t51.2885-15/s320x320/e35/24845153_472477969815012_8710398971429781504_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/fedc5b148adf0f091b1ae4caf595f7a2/5ADA8C48/t51.2885-15/s480x480/e35/24845153_472477969815012_8710398971429781504_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/192a1c9d3a9308d9fa3c4ac1abb565e6/5AF4AE8D/t51.2885-15/s640x640/sh0.08/e35/24845153_472477969815012_8710398971429781504_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/192a1c9d3a9308d9fa3c4ac1abb565e6/5AF4AE8D/t51.2885-15/s640x640/sh0.08/e35/24845153_472477969815012_8710398971429781504_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/8199fc998d2060c15f9758c2588931a8/5AE2A5EC/t51.2885-15/e35/24845153_472477969815012_8710398971429781504_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/e1e583a88053e8bcb75b2564a6ec81a1/5AFE7956/t51.2885-15/e35/25007103_160598291359233_2659152284612558848_n.jpg",
+        "edge_media_preview_like": {
+            "count": 131
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Moo cow by Margaret @moira_mctaggert 🐄\n#animalfarmtattoo #chicago #chicagotattooartist #cow #blackwork"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1664198312747004584",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "BcYa4xTFvKo",
+        "tags": [
+            "cow",
+            "chicago",
+            "chicagotattooartist",
+            "blackwork",
+            "animalfarmtattoo"
+        ],
+        "taken_at_timestamp": 1512607920,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/2bb294ad80642fbfe401dc936169931b/5AF9ED33/t51.2885-15/s150x150/e35/25007103_160598291359233_2659152284612558848_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/91c7e3da07ef3a969fb7f5a222a5a145/5ADAE70C/t51.2885-15/s240x240/e35/25007103_160598291359233_2659152284612558848_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/92f98a4a4a405d44432a499cce0c0fbd/5AD7F474/t51.2885-15/s320x320/e35/25007103_160598291359233_2659152284612558848_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ca8892f2e228a5cd1f377e2623de5807/5AF03FF2/t51.2885-15/s480x480/e35/25007103_160598291359233_2659152284612558848_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/db97a859ff8d70c3143ad9c77fd3d794/5AFC4837/t51.2885-15/s640x640/sh0.08/e35/25007103_160598291359233_2659152284612558848_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/db97a859ff8d70c3143ad9c77fd3d794/5AFC4837/t51.2885-15/s640x640/sh0.08/e35/25007103_160598291359233_2659152284612558848_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/e1e583a88053e8bcb75b2564a6ec81a1/5AFE7956/t51.2885-15/e35/25007103_160598291359233_2659152284612558848_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphVideo",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/540a0243c1e5484a4525b8dad553e2f2/5A63D7CE/t51.2885-15/e35/24327814_711973072328623_8219227237308694528_n.jpg",
+        "edge_media_preview_like": {
+            "count": 42
+        },
+        "edge_media_to_caption": {
+            "edges": []
+        },
+        "edge_media_to_comment": {
+            "count": 5
+        },
+        "id": "1661785941797599053",
+        "is_video": true,
+        "location": {
+            "has_public_page": true,
+            "id": "216590304",
+            "name": "Margie's Candy",
+            "slug": "margies-candy"
+        },
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "BcP2YJxlXdN",
+        "taken_at_timestamp": 1512320356,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/fcff1dcb106a89a090eb3b71ee43bf29/5A639BAB/t51.2885-15/s150x150/e35/24327814_711973072328623_8219227237308694528_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/02e0f6cd388510d849a68a540c2dc7c2/5A63BA14/t51.2885-15/s240x240/e35/24327814_711973072328623_8219227237308694528_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/32e80e3310c6b58c00a4e6d0867f0cbc/5A63D16C/t51.2885-15/s320x320/e35/24327814_711973072328623_8219227237308694528_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/5a3991a719ada99c4b123271028b7110/5A63A26A/t51.2885-15/s480x480/e35/24327814_711973072328623_8219227237308694528_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/bc0e08160e45e96635b93a05ddcd0b6d/5A63C9AF/t51.2885-15/s640x640/sh0.08/e35/24327814_711973072328623_8219227237308694528_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/bc0e08160e45e96635b93a05ddcd0b6d/5A63C9AF/t51.2885-15/s640x640/sh0.08/e35/24327814_711973072328623_8219227237308694528_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/4e1c66d54b0de76b0f6301e87b5eebb3/5A63BEF6/t50.2886-16/24361868_1660243917373306_1356667498929324032_n.mp4"
+        ],
+        "video_view_count": 0
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/c1b59b5e0849e3b060be8fbba260ac44/5AF11245/t51.2885-15/e35/24254283_1558939224184099_7521529501088481280_n.jpg",
+        "edge_media_preview_like": {
+            "count": 66
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Tattoo by @caitlindrakemckay  We are taking walk-ins from 12-8 today and every day. #chicagotattooartist #chicagotattooshop #chicagotattoostudio #chicagotattooer"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1661734589935426168",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "212925334",
+            "name": "Animal Farm Tattoo",
+            "slug": "animal-farm-tattoo"
+        },
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "BcPqs4oFJp4",
+        "tags": [
+            "chicagotattooer",
+            "chicagotattooshop",
+            "chicagotattoostudio",
+            "chicagotattooartist"
+        ],
+        "taken_at_timestamp": 1512314221,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/0b8d1035ce08188b046fbcb65b7698ab/5AFE9812/t51.2885-15/s150x150/e35/24254283_1558939224184099_7521529501088481280_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/5e107d47f4b5521649cf328b38f82757/5AF63D86/t51.2885-15/s240x240/e35/24254283_1558939224184099_7521529501088481280_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/6db943797aeba5508a30710c42063e15/5AFA2022/t51.2885-15/s320x320/e35/24254283_1558939224184099_7521529501088481280_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/cd100ca3c1378bcdbac59d832eb667de/5AE4577A/t51.2885-15/s480x480/e35/24254283_1558939224184099_7521529501088481280_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/cbea5af03b8abcfe08919c852345e173/5AE7A26F/t51.2885-15/s640x640/sh0.08/e35/24254283_1558939224184099_7521529501088481280_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/cbea5af03b8abcfe08919c852345e173/5AE7A26F/t51.2885-15/s640x640/sh0.08/e35/24254283_1558939224184099_7521529501088481280_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/c1b59b5e0849e3b060be8fbba260ac44/5AF11245/t51.2885-15/e35/24254283_1558939224184099_7521529501088481280_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/0ca41d7fce63d6c9d7c0d48773c9f996/5AF978F5/t51.2885-15/e35/23824805_321052005043667_6168193226038575104_n.jpg",
+        "edge_media_preview_like": {
+            "count": 68
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "We are open for walk-ins today!!! Here's a walk-in from earlier this week designed and applied by @caitlindrakemckay Here till 8pm!!! #chicago #chicagotattooartist #chicagotattooer #chicagotattooshops #chicagotattoostudio #walkintattoo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1655311690370543522",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "212925334",
+            "name": "Animal Farm Tattoo",
+            "slug": "animal-farm-tattoo"
+        },
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "Bb42TZRFm-i",
+        "tags": [
+            "chicagotattooer",
+            "chicago",
+            "chicagotattooartist",
+            "walkintattoo",
+            "chicagotattooshops",
+            "chicagotattoostudio"
+        ],
+        "taken_at_timestamp": 1511548552,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/9d9e16448b4a16de500d4b82c5ff1c89/5AD86D90/t51.2885-15/s150x150/e35/23824805_321052005043667_6168193226038575104_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/d05a3735034f5aee23a88f09ed048f48/5ADEE4AF/t51.2885-15/s240x240/e35/23824805_321052005043667_6168193226038575104_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/62e3525c3e34f935379c7976f722affc/5AF6E0D7/t51.2885-15/s320x320/e35/23824805_321052005043667_6168193226038575104_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/8e67e5cd4bc640472d790fd3ea507f0d/5ADB7751/t51.2885-15/s480x480/e35/23824805_321052005043667_6168193226038575104_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/69611612f8fc8743fb848c3f9d7ce968/5AF28694/t51.2885-15/s640x640/sh0.08/e35/23824805_321052005043667_6168193226038575104_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/69611612f8fc8743fb848c3f9d7ce968/5AF28694/t51.2885-15/s640x640/sh0.08/e35/23824805_321052005043667_6168193226038575104_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/0ca41d7fce63d6c9d7c0d48773c9f996/5AF978F5/t51.2885-15/e35/23824805_321052005043667_6168193226038575104_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/230ba982a7685d81203210db6f41874f/5ADC0F23/t51.2885-15/e35/23735581_1504686032901123_6484493884939304960_n.jpg",
+        "edge_media_preview_like": {
+            "count": 58
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Hummingbird and bleeding hearts by Margaret @moira_mctaggert \n#animalfarmtattoo #chicago #traditionaltattoo #chicagotattooartist #ladytattooers"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1652746116335579838",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "Bbvu9YQFrK-",
+        "tags": [
+            "chicago",
+            "chicagotattooartist",
+            "animalfarmtattoo",
+            "traditionaltattoo",
+            "ladytattooers"
+        ],
+        "taken_at_timestamp": 1511242712,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/8d1ce2532f4dfb6ff9baef7889724320/5AECF674/t51.2885-15/s150x150/e35/23735581_1504686032901123_6484493884939304960_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/7240c04ab87b72ad35b6f35b5666df1c/5AF612E0/t51.2885-15/s240x240/e35/23735581_1504686032901123_6484493884939304960_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/dbbc711e3e29f39ac97f2bd95717eac0/5AE5B344/t51.2885-15/s320x320/e35/23735581_1504686032901123_6484493884939304960_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/15decec98d225f154385002598ff21e2/5AF85C1C/t51.2885-15/s480x480/e35/23735581_1504686032901123_6484493884939304960_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/849b94fb4adceb4c855d0a5dc1550e7b/5AF51209/t51.2885-15/s640x640/sh0.08/e35/23735581_1504686032901123_6484493884939304960_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/849b94fb4adceb4c855d0a5dc1550e7b/5AF51209/t51.2885-15/s640x640/sh0.08/e35/23735581_1504686032901123_6484493884939304960_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/230ba982a7685d81203210db6f41874f/5ADC0F23/t51.2885-15/e35/23735581_1504686032901123_6484493884939304960_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/caf9a7f1c641eb0123949b8467a86c57/5ADE6B56/t51.2885-15/e35/23734048_169313063660683_2012203465350053888_n.jpg",
+        "edge_media_preview_like": {
+            "count": 54
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Adrian - @adrian_montoya_tattooer_312 got to slap this kitty on Señor Sam of @toydejour if you'd like to see it in person stop on by their shop on your next visit to ours!"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2
+        },
+        "id": "1652489256009341588",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "Bbu0jkblhqU",
+        "tags": [],
+        "taken_at_timestamp": 1511212091,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/4b015793d6e1b0a0d34abdf3613e88d1/5AEED333/t51.2885-15/s150x150/e35/23734048_169313063660683_2012203465350053888_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/1d137d0b7aaa3223957284e28d9c1645/5AE1F50C/t51.2885-15/s240x240/e35/23734048_169313063660683_2012203465350053888_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/3df0c19de5becfc79665c3512c2daa57/5AFC7174/t51.2885-15/s320x320/e35/23734048_169313063660683_2012203465350053888_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/50b21fe4be394f17dfdff8ecde8b5371/5AF935F2/t51.2885-15/s480x480/e35/23734048_169313063660683_2012203465350053888_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/07dbbfa7a86ac3214adea0217f64119a/5AF45437/t51.2885-15/s640x640/sh0.08/e35/23734048_169313063660683_2012203465350053888_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/07dbbfa7a86ac3214adea0217f64119a/5AF45437/t51.2885-15/s640x640/sh0.08/e35/23734048_169313063660683_2012203465350053888_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/caf9a7f1c641eb0123949b8467a86c57/5ADE6B56/t51.2885-15/e35/23734048_169313063660683_2012203465350053888_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphSidecar",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/037d2439034d62187bd46a024cf6ca52/5AF86C94/t51.2885-15/e35/23734611_2010825829136583_7999017258951114752_n.jpg",
+        "edge_media_preview_like": {
+            "count": 56
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Tattoos and available flash by Caitlin. When are going to get your tattoo by @caitlindrakemckay??"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1651728304909551473",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "BbsHiRfl4dx",
+        "tags": [],
+        "taken_at_timestamp": 1511121379,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/309e2db22742d1ee273e7632e49ec642/5AE9B6C3/t51.2885-15/s150x150/e35/23734611_2010825829136583_7999017258951114752_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/610f9e499b7d598977b069a925242eb3/5AE2CF57/t51.2885-15/s240x240/e35/23734611_2010825829136583_7999017258951114752_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/aa32300d95ac5d2516f981f36bef7b1e/5AEFBEF3/t51.2885-15/s320x320/e35/23734611_2010825829136583_7999017258951114752_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/6bb8e17f6200576eb18243143d2767d6/5AE415AB/t51.2885-15/s480x480/e35/23734611_2010825829136583_7999017258951114752_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e16c57cc8912fbc4c0e6fc39f2a43a42/5AFAB6BE/t51.2885-15/s640x640/sh0.08/e35/23734611_2010825829136583_7999017258951114752_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/e16c57cc8912fbc4c0e6fc39f2a43a42/5AFAB6BE/t51.2885-15/s640x640/sh0.08/e35/23734611_2010825829136583_7999017258951114752_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/037d2439034d62187bd46a024cf6ca52/5AF86C94/t51.2885-15/e35/23734611_2010825829136583_7999017258951114752_n.jpg",
+            "https://scontent-ort2-1.cdninstagram.com/vp/0c0172ecc9f65e54195ddbc239f7ec2e/5ADE34EE/t51.2885-15/e35/23667636_138155940287951_721744107059281920_n.jpg",
+            "https://scontent-ort2-1.cdninstagram.com/vp/e746a41685760a6fe81e764def794b6c/5AE69173/t51.2885-15/e35/23596472_367375303711976_9213192852694106112_n.jpg",
+            "https://scontent-ort2-1.cdninstagram.com/vp/8865ec9042c050a38ce5b862cb6a9bf7/5AE96AD3/t51.2885-15/e35/23668280_504222256619102_3414781119541805056_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/ff5ebe6eaf25e5b493f91b2b581d8552/5AEF71F7/t51.2885-15/e35/23596181_546559645692151_3176228104662155264_n.jpg",
+        "edge_media_preview_like": {
+            "count": 49
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Permanent vacation by @vinceleblanc dm for availablity #chicagotattooartist"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1649542202559577393",
+        "is_video": false,
+        "location": {
+            "has_public_page": true,
+            "id": "448345897",
+            "name": "Humboldt Park, Chicago",
+            "slug": "humboldt-park-chicago"
+        },
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "BbkWeTBlD0x",
+        "tags": [
+            "chicagotattooartist"
+        ],
+        "taken_at_timestamp": 1510860775,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/8f9d608fe2a8681b236f44e7aa3d1043/5AE9FE92/t51.2885-15/s150x150/e35/23596181_546559645692151_3176228104662155264_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/1695e9b639edc4218049b59daa357e2d/5AE1E3AD/t51.2885-15/s240x240/e35/23596181_546559645692151_3176228104662155264_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/549dd4154d11bdcb345b11e797e2f308/5AF654D5/t51.2885-15/s320x320/e35/23596181_546559645692151_3176228104662155264_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/d103201617ee0025d410a0b629c55862/5ADE3353/t51.2885-15/s480x480/e35/23596181_546559645692151_3176228104662155264_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b62b25e71da58e881dae6074f80f7f67/5AEF8796/t51.2885-15/s640x640/sh0.08/e35/23596181_546559645692151_3176228104662155264_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/b62b25e71da58e881dae6074f80f7f67/5AEF8796/t51.2885-15/s640x640/sh0.08/e35/23596181_546559645692151_3176228104662155264_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/ff5ebe6eaf25e5b493f91b2b581d8552/5AEF71F7/t51.2885-15/e35/23596181_546559645692151_3176228104662155264_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/536e331c1bf6c12478ee3a1dcdc7163b/5AE4C6A7/t51.2885-15/e35/23507265_364838623941885_344325694169284608_n.jpg",
+        "edge_media_preview_like": {
+            "count": 45
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Puerto Rican Lady by Adrian\n@adrian_montoya_tattooer_312"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 2
+        },
+        "id": "1648189310686784698",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "187842551"
+        },
+        "shortcode": "Bbfi3ISFOy6",
+        "tags": [],
+        "taken_at_timestamp": 1510699498,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/2d6756094b69bf511b0eb732d1c4808c/5AE5D713/t51.2885-15/s150x150/e35/23507265_364838623941885_344325694169284608_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/3aa5caa16d10420b362f4c94de1116b2/5AE6BEA6/t51.2885-15/s240x240/e35/23507265_364838623941885_344325694169284608_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/7d1e7d1b2bef29a89824c6e43a1dd103/5AFF4AEE/t51.2885-15/s320x320/e35/23507265_364838623941885_344325694169284608_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/4ea4d55a00effde7c510eae6efac8d31/5AEA095A/t51.2885-15/s480x480/e35/23507265_364838623941885_344325694169284608_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/57c66fbe92ac3fd680ae3f3f8842e830/5AE6A632/t51.2885-15/s640x640/sh0.08/e35/23507265_364838623941885_344325694169284608_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/57c66fbe92ac3fd680ae3f3f8842e830/5AE6A632/t51.2885-15/s640x640/sh0.08/e35/23507265_364838623941885_344325694169284608_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/536e331c1bf6c12478ee3a1dcdc7163b/5AE4C6A7/t51.2885-15/e35/23507265_364838623941885_344325694169284608_n.jpg"
+        ]
+    }
+]

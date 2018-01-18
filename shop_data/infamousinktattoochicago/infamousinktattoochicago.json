@@ -1,0 +1,1415 @@
+[
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/21f21cd7b1c39123922d92368a8b562c/5AE97438/t51.2885-15/e35/17932104_1267777123299147_7292004533234827264_n.jpg",
+        "edge_media_preview_like": {
+            "count": 25
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Healed Sugar skull by artist @joshua_meadows_tattoo #chicagotattooshops #tattoosleeve #chicagotattooartist #chicagotattooshops"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1495368606825122696",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BTAndM6FQuI",
+        "tags": [
+            "chicagotattooartist",
+            "chicagotattooshops",
+            "tattoosleeve"
+        ],
+        "taken_at_timestamp": 1492481850,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/52da539691f556f9c8c40beabcead3a8/5AE5EA6F/t51.2885-15/s150x150/e35/17932104_1267777123299147_7292004533234827264_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e0afb2eeb7f9e5c7a9e586ea8369257c/5AE3DBFB/t51.2885-15/s240x240/e35/17932104_1267777123299147_7292004533234827264_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/237b48155087e7196ce875296a49f7e3/5AF8695F/t51.2885-15/s320x320/e35/17932104_1267777123299147_7292004533234827264_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/1a49c4d4964f9301bc59ec9dbf871de9/5AE66507/t51.2885-15/s480x480/e35/17932104_1267777123299147_7292004533234827264_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ec74e5c534aadf6b8aad8aecdea0288f/5AED0612/t51.2885-15/s640x640/sh0.08/e35/17932104_1267777123299147_7292004533234827264_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/ec74e5c534aadf6b8aad8aecdea0288f/5AED0612/t51.2885-15/s640x640/sh0.08/e35/17932104_1267777123299147_7292004533234827264_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/21f21cd7b1c39123922d92368a8b562c/5AE97438/t51.2885-15/e35/17932104_1267777123299147_7292004533234827264_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/51bdf6159050c275bd6d21395ea76b61/5ADBFDB0/t51.2885-15/e35/17662415_1952367971662480_2288939564124864512_n.jpg",
+        "edge_media_preview_like": {
+            "count": 25
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Dragon half sleeve by artist @joshua_meadows_tattoo #chicago #chicagotattooartist #chicagotattooshops #dragontattoo #blackandgraytattoo #halfsleevetattoo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1483751002775951623",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BSXV6z_lxkH",
+        "tags": [
+            "blackandgraytattoo",
+            "chicago",
+            "chicagotattooartist",
+            "dragontattoo",
+            "chicagotattooshops",
+            "halfsleevetattoo"
+        ],
+        "taken_at_timestamp": 1491096924,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b023c3132fde7bf3f6744a5b86d71589/5AFEF4E7/t51.2885-15/s150x150/e35/17662415_1952367971662480_2288939564124864512_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/dce11ef6721ec91590f18bf3b6d8cf39/5AFB5E73/t51.2885-15/s240x240/e35/17662415_1952367971662480_2288939564124864512_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/349c39c69f381981a020fbc2bb4b576d/5AF2C4D7/t51.2885-15/s320x320/e35/17662415_1952367971662480_2288939564124864512_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/70d764d8be89e06d6a839b4b463c0c14/5AE3D78F/t51.2885-15/s480x480/e35/17662415_1952367971662480_2288939564124864512_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/36aa9057287011f1c3a06c754c59dce6/5AF6989A/t51.2885-15/s640x640/sh0.08/e35/17662415_1952367971662480_2288939564124864512_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/36aa9057287011f1c3a06c754c59dce6/5AF6989A/t51.2885-15/s640x640/sh0.08/e35/17662415_1952367971662480_2288939564124864512_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/51bdf6159050c275bd6d21395ea76b61/5ADBFDB0/t51.2885-15/e35/17662415_1952367971662480_2288939564124864512_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1288,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/bbc32e8a4c6a1877dc02354161733039/5AFB98D9/t51.2885-15/e35/17332683_1769351943383197_1705786153262645248_n.jpg",
+        "edge_media_preview_like": {
+            "count": 22
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Ganesh tattoo by artist @joshua_meadows_tattoo #ganeshatattoo #ganesh #chicago #chicagotattooartist #chicagotattooshops"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1474375016028345727",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BR2CEP4FJV_",
+        "tags": [
+            "chicago",
+            "chicagotattooartist",
+            "ganeshatattoo",
+            "ganesh",
+            "chicagotattooshops"
+        ],
+        "taken_at_timestamp": 1489979219,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/3dd8f9c0b03d592a97f3e5361a338943/5AE10B1D/t51.2885-15/s150x150/e35/c0.83.865.865/17332683_1769351943383197_1705786153262645248_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/5f525a3217c86af65eef86b6e63fbb8d/5AEF5D8B/t51.2885-15/s240x240/e35/c0.83.865.865/17332683_1769351943383197_1705786153262645248_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/3ef6a9ad1928824bee444a620cb78c3a/5AE18C63/t51.2885-15/s320x320/e35/c0.83.865.865/17332683_1769351943383197_1705786153262645248_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/c28839a2554a584a1a874114877bbbbd/5ADE8D4A/t51.2885-15/s480x480/e35/c0.83.865.865/17332683_1769351943383197_1705786153262645248_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/56c217aaf821edf31e83c60aaabc124e/5AE0895E/t51.2885-15/s640x640/sh0.08/e35/c0.83.865.865/17332683_1769351943383197_1705786153262645248_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/56c217aaf821edf31e83c60aaabc124e/5AE0895E/t51.2885-15/s640x640/sh0.08/e35/c0.83.865.865/17332683_1769351943383197_1705786153262645248_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/bbc32e8a4c6a1877dc02354161733039/5AFB98D9/t51.2885-15/e35/17332683_1769351943383197_1705786153262645248_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 640,
+            "width": 640
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/f14bbb24857374a2e1d69ceed9711f98/5AF56FEA/t51.2885-15/e35/17125793_401800613521026_1113268120262279168_n.jpg",
+        "edge_media_preview_like": {
+            "count": 17
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Work in progress by @joshua_meadows_tattoo #chicagotattooshops #chicagotattooartist #halfsleevetattoo #usa #pow #blackandgraytattoo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1469914639240776672",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BRmL5OSF8vg",
+        "tags": [
+            "blackandgraytattoo",
+            "chicagotattooartist",
+            "usa",
+            "pow",
+            "chicagotattooshops",
+            "halfsleevetattoo"
+        ],
+        "taken_at_timestamp": 1489447501,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/07f1e2be23166bc6090576a7c9e72ae7/5ADBF98F/t51.2885-15/s150x150/e35/17125793_401800613521026_1113268120262279168_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/4b8c31391177e7064a4b32648535c72e/5AE0F3B0/t51.2885-15/s240x240/e35/17125793_401800613521026_1113268120262279168_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/35bdfb995f8359fa1a093946bc8ef882/5AF8DEC8/t51.2885-15/s320x320/e35/17125793_401800613521026_1113268120262279168_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/22488aa34520c2c4922846684fb84b35/5AF8564E/t51.2885-15/s480x480/e35/17125793_401800613521026_1113268120262279168_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/f14bbb24857374a2e1d69ceed9711f98/5AF56FEA/t51.2885-15/e35/17125793_401800613521026_1113268120262279168_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/f14bbb24857374a2e1d69ceed9711f98/5AF56FEA/t51.2885-15/e35/17125793_401800613521026_1113268120262279168_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/f14bbb24857374a2e1d69ceed9711f98/5AF56FEA/t51.2885-15/e35/17125793_401800613521026_1113268120262279168_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/d842bde03d32785e92e6e6d10be8e1fa/5AF26E3C/t51.2885-15/e35/16464843_104859543349240_3079801574856327168_n.jpg",
+        "edge_media_preview_like": {
+            "count": 16
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Tribal half sleeve by @joshua_meadows_tattoo #chicagotattooartist #chicagotattooshops #chicagotattoo #polynesiantattoo #tribaltattoo #blackink #blackinktattoo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1443238102571488569",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BQHaWheFRU5",
+        "tags": [
+            "blackink",
+            "chicagotattooartist",
+            "polynesiantattoo",
+            "tribaltattoo",
+            "chicagotattooshops",
+            "chicagotattoo",
+            "blackinktattoo"
+        ],
+        "taken_at_timestamp": 1486267410,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/54b559b0de163bccb5469cf7cd0d61a9/5AE30659/t51.2885-15/s150x150/e35/16464843_104859543349240_3079801574856327168_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/7d41f50f9d2c8e73c9c0d81c85de6455/5AEB5066/t51.2885-15/s240x240/e35/16464843_104859543349240_3079801574856327168_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/6cff8f25e5d3609a26c21689038d2ad3/5AE9911E/t51.2885-15/s320x320/e35/16464843_104859543349240_3079801574856327168_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/76a987f0067ea418124746e521feaacd/5AE55098/t51.2885-15/s480x480/e35/16464843_104859543349240_3079801574856327168_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b85207f2a2c325dd7cdd79ac388d2502/5ADD455D/t51.2885-15/s640x640/sh0.08/e35/16464843_104859543349240_3079801574856327168_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/b85207f2a2c325dd7cdd79ac388d2502/5ADD455D/t51.2885-15/s640x640/sh0.08/e35/16464843_104859543349240_3079801574856327168_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/d842bde03d32785e92e6e6d10be8e1fa/5AF26E3C/t51.2885-15/e35/16464843_104859543349240_3079801574856327168_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 640,
+            "width": 640
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/d2272d1fa9a79ef4f6bf19b1ea96cfef/5AE11B6D/t51.2885-15/e35/14733404_1650481185245361_4659845508192272384_n.jpg",
+        "edge_media_preview_like": {
+            "count": 16
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Tiger hand tattoo by artist @joshua_meadows_tattoo #chicagotattooshops #chicagotattooartist #tigertattoo #handtattoo #tigereye"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1438847395798952964",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BP30BVIl6wE",
+        "tags": [
+            "tigereye",
+            "chicagotattooartist",
+            "tigertattoo",
+            "chicagotattooshops",
+            "handtattoo"
+        ],
+        "taken_at_timestamp": 1485743997,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/c5549cff2a9bfd586f681b1239e097b1/5AF0183A/t51.2885-15/s150x150/e35/14733404_1650481185245361_4659845508192272384_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ac5910aa386d6aacba8d4f9d1c339da3/5AF520AE/t51.2885-15/s240x240/e35/14733404_1650481185245361_4659845508192272384_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/bde2da43b870be663b137807d73a2dbc/5AE99C0A/t51.2885-15/s320x320/e35/14733404_1650481185245361_4659845508192272384_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/81d991992121ccfcc648e9af478112f4/5ADBD352/t51.2885-15/s480x480/e35/14733404_1650481185245361_4659845508192272384_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/d2272d1fa9a79ef4f6bf19b1ea96cfef/5AE11B6D/t51.2885-15/e35/14733404_1650481185245361_4659845508192272384_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/d2272d1fa9a79ef4f6bf19b1ea96cfef/5AE11B6D/t51.2885-15/e35/14733404_1650481185245361_4659845508192272384_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/d2272d1fa9a79ef4f6bf19b1ea96cfef/5AE11B6D/t51.2885-15/e35/14733404_1650481185245361_4659845508192272384_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphVideo",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/39637632cf1d0c4d919e5942248cf934/5A63B1EB/t51.2885-15/e15/16229051_158287854663232_5981835909325127680_n.jpg",
+        "edge_media_preview_like": {
+            "count": 15
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "First session on coverup by artist @mariannebennetttattoo #chicagotattooshops #chicagotattooartist #rosetattoo #coveruptattoo #halfsleeve"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1433112844158069681",
+        "is_video": true,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BPjcInvF2ux",
+        "tags": [
+            "rosetattoo",
+            "chicagotattooartist",
+            "coveruptattoo",
+            "chicagotattooshops",
+            "halfsleeve"
+        ],
+        "taken_at_timestamp": 1485060385,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/01bfb90502fa3d503d90de3590edc2df/5A639ECE/t51.2885-15/s150x150/e15/16229051_158287854663232_5981835909325127680_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ac3a5415c5102a8ac30d8e0d951ba6ec/5A634631/t51.2885-15/s240x240/e15/16229051_158287854663232_5981835909325127680_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e1387b961aed6bce3e38d16168808414/5A63BD09/t51.2885-15/s320x320/e15/16229051_158287854663232_5981835909325127680_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/683a9284da0e21a980d1e1647e2b6221/5A63A98F/t51.2885-15/s480x480/e15/16229051_158287854663232_5981835909325127680_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/0e3deed7c90f702035ee28ef002a3e38/5A63393F/t51.2885-15/s640x640/e15/16229051_158287854663232_5981835909325127680_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/0e3deed7c90f702035ee28ef002a3e38/5A63393F/t51.2885-15/s640x640/e15/16229051_158287854663232_5981835909325127680_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/066d92ad49bafd6d84c8987cad5ec9d2/5A634BAA/t50.2886-16/16194856_1256774384361404_6270675311839412224_n.mp4"
+        ],
+        "video_view_count": 0
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/0133768f8711ff135aba30123231eec9/5AEFC0DB/t51.2885-15/e35/16110589_231160710665859_4279638257072865280_n.jpg",
+        "edge_media_preview_like": {
+            "count": 6
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Diamond tattoo by artist @joshua_meadows_tattoo #chicagotattooartist #chicagotattooshops #diamond #diamondtattoo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1433096816388642243",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BPjYfYtlpXD",
+        "tags": [
+            "diamond",
+            "diamondtattoo",
+            "chicagotattooshops",
+            "chicagotattooartist"
+        ],
+        "taken_at_timestamp": 1485058475,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e530ff6d8faccfc8f7544bdb579427ef/5AE1A9BE/t51.2885-15/s150x150/e35/16110589_231160710665859_4279638257072865280_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/222da817fef3a1aec96269e8e617fcdc/5AD92081/t51.2885-15/s240x240/e35/16110589_231160710665859_4279638257072865280_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/bbd3e7074804cbd12852c3239b5f7dc4/5AD8BEF9/t51.2885-15/s320x320/e35/16110589_231160710665859_4279638257072865280_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e06a852d1cb125a188423c16b33f42c9/5AF9487F/t51.2885-15/s480x480/e35/16110589_231160710665859_4279638257072865280_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b80f8e42cf43431f9879ac1de2f9716d/5AD934BA/t51.2885-15/s640x640/sh0.08/e35/16110589_231160710665859_4279638257072865280_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/b80f8e42cf43431f9879ac1de2f9716d/5AD934BA/t51.2885-15/s640x640/sh0.08/e35/16110589_231160710665859_4279638257072865280_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/0133768f8711ff135aba30123231eec9/5AEFC0DB/t51.2885-15/e35/16110589_231160710665859_4279638257072865280_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/0c0968b2ad18ad0989f3796d498da966/5AE86D0C/t51.2885-15/e35/15877322_304935723237355_1235436669700669440_n.jpg",
+        "edge_media_preview_like": {
+            "count": 10
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Healed Jesus by artist @joshua_meadows_tattoo #chicagotattooshops #blackandgray #jesustattoo #chicagotattooartist"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1421437164693424173",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BO59ZH4Fwgt",
+        "tags": [
+            "blackandgray",
+            "jesustattoo",
+            "chicagotattooshops",
+            "chicagotattooartist"
+        ],
+        "taken_at_timestamp": 1483668536,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/67bc857d74bd2e546660d5ff930cc98a/5AF93069/t51.2885-15/s150x150/e35/15877322_304935723237355_1235436669700669440_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/293f06b769b95a0a5b77b0323f0930db/5AEFB456/t51.2885-15/s240x240/e35/15877322_304935723237355_1235436669700669440_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ade54cad791d93b4f1eec1688032a971/5AEA772E/t51.2885-15/s320x320/e35/15877322_304935723237355_1235436669700669440_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b726bc67063199ca0413ad316a03909d/5AF713A8/t51.2885-15/s480x480/e35/15877322_304935723237355_1235436669700669440_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/bef55bb564a47c5765b9c4ada18e6905/5AF6F16D/t51.2885-15/s640x640/sh0.08/e35/15877322_304935723237355_1235436669700669440_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/bef55bb564a47c5765b9c4ada18e6905/5AF6F16D/t51.2885-15/s640x640/sh0.08/e35/15877322_304935723237355_1235436669700669440_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/0c0968b2ad18ad0989f3796d498da966/5AE86D0C/t51.2885-15/e35/15877322_304935723237355_1235436669700669440_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/2d2f608d22fe3663cde83e2a0b10ea53/5AF3866F/t51.2885-15/e35/15403320_1293371430684966_1547811754262659072_n.jpg",
+        "edge_media_preview_like": {
+            "count": 24
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Coverup in progress by artist @joshua_meadows_tattoo #chicagotattooartist #chicagotattooshops #mandalatattoo #lacetattoo #whiteink #whiteinktattoo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1409911310741998225",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BORAt35lQqR",
+        "tags": [
+            "chicagotattooartist",
+            "lacetattoo",
+            "whiteink",
+            "chicagotattooshops",
+            "whiteinktattoo",
+            "mandalatattoo"
+        ],
+        "taken_at_timestamp": 1482294547,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/42fb7f99eb9e0e55e47dcc70acc4858f/5AD9F938/t51.2885-15/s150x150/e35/15403320_1293371430684966_1547811754262659072_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e16db571ca71656e4b6fcffdc417efd3/5AF4CCAC/t51.2885-15/s240x240/e35/15403320_1293371430684966_1547811754262659072_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/5fd9ef9f7222472996101b085a5b580e/5AE3F308/t51.2885-15/s320x320/e35/15403320_1293371430684966_1547811754262659072_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/723a5da3388e46ba6ec229a0516fb2ef/5AF1EF50/t51.2885-15/s480x480/e35/15403320_1293371430684966_1547811754262659072_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/46fbe6748df03cc68851624daf760a20/5AEE8645/t51.2885-15/s640x640/sh0.08/e35/15403320_1293371430684966_1547811754262659072_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/46fbe6748df03cc68851624daf760a20/5AEE8645/t51.2885-15/s640x640/sh0.08/e35/15403320_1293371430684966_1547811754262659072_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/2d2f608d22fe3663cde83e2a0b10ea53/5AF3866F/t51.2885-15/e35/15403320_1293371430684966_1547811754262659072_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/0850e45de050c345aa4e7711e0a95943/5AEC8BC2/t51.2885-15/e35/15259020_375952809416169_864405865317269504_n.jpg",
+        "edge_media_preview_like": {
+            "count": 10
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Jesus by artist @joshua_meadows_tattoo #blackandgreytattoo #chicagotattoo #chicagotattooartist #blackink #jesus #jesustattoo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1397320066438373496",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BNkRzJ1laB4",
+        "tags": [
+            "blackink",
+            "chicagotattooartist",
+            "blackandgreytattoo",
+            "jesus",
+            "jesustattoo",
+            "chicagotattoo"
+        ],
+        "taken_at_timestamp": 1480793554,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/daa81fe4de449bdc59bddfef37c597b2/5AECB276/t51.2885-15/s150x150/e35/15259020_375952809416169_864405865317269504_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/2b51ef4c4ffa62daa7e6c5d1c76768a0/5AF99EC3/t51.2885-15/s240x240/e35/15259020_375952809416169_864405865317269504_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/0b6030a7184209e46872c103a5605071/5ADC398B/t51.2885-15/s320x320/e35/15259020_375952809416169_864405865317269504_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/fd595f99ce4cbeb1b6b63fc581d47f77/5AE5293F/t51.2885-15/s480x480/e35/15259020_375952809416169_864405865317269504_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e3aab594085ef51a553996a58df3b85f/5ADD2957/t51.2885-15/s640x640/sh0.08/e35/15259020_375952809416169_864405865317269504_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/e3aab594085ef51a553996a58df3b85f/5ADD2957/t51.2885-15/s640x640/sh0.08/e35/15259020_375952809416169_864405865317269504_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/0850e45de050c345aa4e7711e0a95943/5AEC8BC2/t51.2885-15/e35/15259020_375952809416169_864405865317269504_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/68fd8e791551af11654e5ddf58931d4a/5AE755F9/t51.2885-15/e35/15043989_1786100104978075_2660915012205281280_n.jpg",
+        "edge_media_preview_like": {
+            "count": 15
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "First session by artist @joshua_meadows_tattoo #chicagotattooartist #chicagotattoo #crowntattoo #birdtattoo #wip #ladytattoo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1392591135068096082",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BNTekJTF4ZS",
+        "tags": [
+            "chicagotattooartist",
+            "ladytattoo",
+            "chicagotattoo",
+            "birdtattoo",
+            "crowntattoo",
+            "wip"
+        ],
+        "taken_at_timestamp": 1480229821,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/de0cb83263a867793c4eb5d2577ca6c9/5AFF15AE/t51.2885-15/s150x150/e35/15043989_1786100104978075_2660915012205281280_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/306e1874cb56832a1d28e64079ade9bc/5AE0F53A/t51.2885-15/s240x240/e35/15043989_1786100104978075_2660915012205281280_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ca7e2758c2d6c2c39c7d3f433a40b720/5AFD709E/t51.2885-15/s320x320/e35/15043989_1786100104978075_2660915012205281280_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/3647c2689aa398dd0e105b9152ccd8d6/5AE970C6/t51.2885-15/s480x480/e35/15043989_1786100104978075_2660915012205281280_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/da979e909bfa733fc2daa52f081a4dd2/5ADCD2D3/t51.2885-15/s640x640/sh0.08/e35/15043989_1786100104978075_2660915012205281280_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/da979e909bfa733fc2daa52f081a4dd2/5ADCD2D3/t51.2885-15/s640x640/sh0.08/e35/15043989_1786100104978075_2660915012205281280_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/68fd8e791551af11654e5ddf58931d4a/5AE755F9/t51.2885-15/e35/15043989_1786100104978075_2660915012205281280_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1342,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/4f8b34c39c890d43cf2d65491ff46637/5ADB8338/t51.2885-15/e35/14566624_937408606401489_2358391594777837568_n.jpg",
+        "edge_media_preview_like": {
+            "count": 13
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Hannya mask by artist @joshua_meadows_tattoo #chicagotattooshops #chicagotattooartist #japanesetattoo #hannyamask #hannyatattoo #traditionaltattoo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1382242085110248150",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BMutdpcl3LW",
+        "tags": [
+            "chicagotattooartist",
+            "hannyamask",
+            "traditionaltattoo",
+            "chicagotattooshops",
+            "japanesetattoo",
+            "hannyatattoo"
+        ],
+        "taken_at_timestamp": 1478996118,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/855b8024281e9a13ceea7920b3f5cdf4/5AE07D5A/t51.2885-15/s150x150/e35/c0.106.877.877/14566624_937408606401489_2358391594777837568_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/c6c3fd3bbd718c300f273807bb2dc500/5AF20BCC/t51.2885-15/s240x240/e35/c0.106.877.877/14566624_937408606401489_2358391594777837568_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/d5dd152e459ca8fd4ea91e574a78b94b/5AF7CD24/t51.2885-15/s320x320/e35/c0.106.877.877/14566624_937408606401489_2358391594777837568_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/49ba948eccf22e597e3e4ff1d7a42423/5AFBAC0D/t51.2885-15/s480x480/e35/c0.106.877.877/14566624_937408606401489_2358391594777837568_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/8562f98da38f5d445fedea43ec6a3a4a/5AF30F19/t51.2885-15/s640x640/sh0.08/e35/c0.106.877.877/14566624_937408606401489_2358391594777837568_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/8562f98da38f5d445fedea43ec6a3a4a/5AF30F19/t51.2885-15/s640x640/sh0.08/e35/c0.106.877.877/14566624_937408606401489_2358391594777837568_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/4f8b34c39c890d43cf2d65491ff46637/5ADB8338/t51.2885-15/e35/14566624_937408606401489_2358391594777837568_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/16c984cca434b3bcd06a4a156db8ef54/5AF52ABE/t51.2885-15/e35/15046827_1815209805404394_9204919796494237696_n.jpg",
+        "edge_media_preview_like": {
+            "count": 18
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Solar system by artist @joshua_meadows_tattoo #solarsystem #planets #planetstattoo #spacetattoo #deepspace #livelongandprosper #chicagotattooartist #chicagotattooshops"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1382240338392189758",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BMutEOsFQs-",
+        "tags": [
+            "chicagotattooartist",
+            "planetstattoo",
+            "livelongandprosper",
+            "spacetattoo",
+            "chicagotattooshops",
+            "deepspace",
+            "solarsystem",
+            "planets"
+        ],
+        "taken_at_timestamp": 1478995910,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/862e36708e17d877d5d1dcbe811c06d0/5AF83BE9/t51.2885-15/s150x150/e35/15046827_1815209805404394_9204919796494237696_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/3b4ecaca66bb4c10043651a5d9339526/5AEA807D/t51.2885-15/s240x240/e35/15046827_1815209805404394_9204919796494237696_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/031382d437e774bedbc7b8fd9fb8be20/5AF975D9/t51.2885-15/s320x320/e35/15046827_1815209805404394_9204919796494237696_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b1d41a5c31ee37558abfbd14ba7e118b/5AF03581/t51.2885-15/s480x480/e35/15046827_1815209805404394_9204919796494237696_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/28667936f53b7a0802af93db3268abcf/5AED5F94/t51.2885-15/s640x640/sh0.08/e35/15046827_1815209805404394_9204919796494237696_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/28667936f53b7a0802af93db3268abcf/5AED5F94/t51.2885-15/s640x640/sh0.08/e35/15046827_1815209805404394_9204919796494237696_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/16c984cca434b3bcd06a4a156db8ef54/5AF52ABE/t51.2885-15/e35/15046827_1815209805404394_9204919796494237696_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/4661ea1bdd63fac4ca88778049681958/5AEEB22A/t51.2885-15/e35/14719698_329239517458174_1250477275804073984_n.jpg",
+        "edge_media_preview_like": {
+            "count": 13
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Coverup by @joshua_meadows_tattoo #chicagotattooshops #chicago #lotustattoo #chicagotattooartist #chicago #lotus #tattoocoverup"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1376532759162752173",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BMabUBTlYyt",
+        "tags": [
+            "lotus",
+            "chicago",
+            "chicagotattooartist",
+            "lotustattoo",
+            "chicagotattooshops",
+            "tattoocoverup"
+        ],
+        "taken_at_timestamp": 1478315513,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/17174c80b749e53ee42c0bdb2cbfeaca/5AFA874F/t51.2885-15/s150x150/e35/14719698_329239517458174_1250477275804073984_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/bd3a4bfc23e2d235228203fe3e474b0b/5AF08770/t51.2885-15/s240x240/e35/14719698_329239517458174_1250477275804073984_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/32bf0900d066e70c2e1c88fb507b081b/5AEF7708/t51.2885-15/s320x320/e35/14719698_329239517458174_1250477275804073984_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ac7b734a3530ac8b9a4297a921bc3ea4/5AFDBA8E/t51.2885-15/s480x480/e35/14719698_329239517458174_1250477275804073984_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/58c9ba533731bbbac0a521cd3fe4d510/5AE7884B/t51.2885-15/s640x640/sh0.08/e35/14719698_329239517458174_1250477275804073984_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/58c9ba533731bbbac0a521cd3fe4d510/5AE7884B/t51.2885-15/s640x640/sh0.08/e35/14719698_329239517458174_1250477275804073984_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/4661ea1bdd63fac4ca88778049681958/5AEEB22A/t51.2885-15/e35/14719698_329239517458174_1250477275804073984_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/712f8071d3c2084f1d1956a76a385d50/5AF48480/t51.2885-15/e35/14624859_211490199284636_7102575305587425280_n.jpg",
+        "edge_media_preview_like": {
+            "count": 12
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Look what just popped up on the side of our shop! If you haven't heard, @fieldmuseum is hosting an exhibit on the history of tattooing. Tattoo art and artifacts will be on display. On top of that, @fieldmuseum built an actual functioning tattoo shop within the exhibit, and will host guest artists so visitors can witness the tattoo process first hand! Check it out, get inspired, and then visit us for your own tattoo 😊 Fun stuff. #chicago #fieldmuseum #fmtattoo #chicagotattooartist #chicagotattooshops #tattoofm"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1369220547637152348",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BMActVpFApc",
+        "tags": [
+            "chicago",
+            "chicagotattooartist",
+            "fmtattoo",
+            "fieldmuseum",
+            "chicagotattooshops",
+            "tattoofm"
+        ],
+        "taken_at_timestamp": 1477443830,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/448398375f2fe6088d40389dd8d659f3/5AE6C8E5/t51.2885-15/s150x150/e35/14624859_211490199284636_7102575305587425280_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/67b35d4f474f554bd43edc1d6bc6186f/5AF386DA/t51.2885-15/s240x240/e35/14624859_211490199284636_7102575305587425280_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/fb6e854d994ac49cfd7bf2a2c08c7a45/5ADF30A2/t51.2885-15/s320x320/e35/14624859_211490199284636_7102575305587425280_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/1a37a53d0ca3a51c21cd150155df71b0/5AD82D24/t51.2885-15/s480x480/e35/14624859_211490199284636_7102575305587425280_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/2fc25572f70f52ced1c0c651a157a46c/5AF5B5E1/t51.2885-15/s640x640/sh0.08/e35/14624859_211490199284636_7102575305587425280_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/2fc25572f70f52ced1c0c651a157a46c/5AF5B5E1/t51.2885-15/s640x640/sh0.08/e35/14624859_211490199284636_7102575305587425280_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/712f8071d3c2084f1d1956a76a385d50/5AF48480/t51.2885-15/e35/14624859_211490199284636_7102575305587425280_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/8f8c87b64203166b58572050d06768aa/5AF228C3/t51.2885-15/e35/14369072_1759557317619967_2229288150625157120_n.jpg",
+        "edge_media_preview_like": {
+            "count": 24
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Mastectomy scar coverup by @joshua_meadows_tattoo #mastectomytattoo #mastectomy #chicago #chicagotattooartist #infamousink #survivor #wickerpark"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "id": "1352511531464292036",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BLFFhJrjHbE",
+        "tags": [
+            "mastectomy",
+            "chicago",
+            "chicagotattooartist",
+            "mastectomytattoo",
+            "wickerpark",
+            "survivor",
+            "infamousink"
+        ],
+        "taken_at_timestamp": 1475451960,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/1b232428c23f4936d37ce508c0aaa11d/5AF41694/t51.2885-15/s150x150/e35/14369072_1759557317619967_2229288150625157120_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/a65ae63a4f2915ed21253cd3e1deaa21/5AF0E200/t51.2885-15/s240x240/e35/14369072_1759557317619967_2229288150625157120_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/eaa43e9dc2c83b90a73c75b6d4d310a7/5AE350A4/t51.2885-15/s320x320/e35/14369072_1759557317619967_2229288150625157120_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/6e4aac446607bfa0256e1a3205784541/5AEC90FC/t51.2885-15/s480x480/e35/14369072_1759557317619967_2229288150625157120_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/b65a85717e01db49c4135d913c105bbf/5AE5FFE9/t51.2885-15/s640x640/sh0.08/e35/14369072_1759557317619967_2229288150625157120_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/b65a85717e01db49c4135d913c105bbf/5AE5FFE9/t51.2885-15/s640x640/sh0.08/e35/14369072_1759557317619967_2229288150625157120_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/8f8c87b64203166b58572050d06768aa/5AF228C3/t51.2885-15/e35/14369072_1759557317619967_2229288150625157120_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 750,
+            "width": 750
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/d20bad519792601efd6306fbac47eb29/5AE8D92A/t51.2885-15/e35/14350580_632910743547319_8804369892338827264_n.jpg",
+        "edge_media_preview_like": {
+            "count": 10
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "By artist @joshua_meadows_tattoo #chicagotattooartist #chicagotattoo #infamousink #wickerpark #blackandgreytattoo"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1348086476412174932",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BK1XYIBDkJU",
+        "tags": [
+            "chicagotattooartist",
+            "blackandgreytattoo",
+            "wickerpark",
+            "chicagotattoo",
+            "infamousink"
+        ],
+        "taken_at_timestamp": 1474924452,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/959678576402b361005565890e9d0fc1/5AECF14F/t51.2885-15/s150x150/e35/14350580_632910743547319_8804369892338827264_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/ab4da4195a3eaf5b68e6b44163baf931/5ADEDF70/t51.2885-15/s240x240/e35/14350580_632910743547319_8804369892338827264_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/be5aef273623a2a19700091c17cc9961/5AF23108/t51.2885-15/s320x320/e35/14350580_632910743547319_8804369892338827264_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/c0ef43acfb35a8fd46b5dc386da5c264/5ADACD8E/t51.2885-15/s480x480/e35/14350580_632910743547319_8804369892338827264_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e554dbb9945f82c349a7fdfab0852a3b/5AE7284B/t51.2885-15/s640x640/sh0.08/e35/14350580_632910743547319_8804369892338827264_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/e554dbb9945f82c349a7fdfab0852a3b/5AE7284B/t51.2885-15/s640x640/sh0.08/e35/14350580_632910743547319_8804369892338827264_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/d20bad519792601efd6306fbac47eb29/5AE8D92A/t51.2885-15/e35/14350580_632910743547319_8804369892338827264_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1286,
+            "width": 1080
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/e0a454d3320aba783422dff1c0151074/5AE08B2A/t51.2885-15/e35/14310777_533384573527218_7009809797314772992_n.jpg",
+        "edge_media_preview_like": {
+            "count": 9
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Centaur galaxy by artist @joshua_meadows_tattoo #chicagotattooartist #chicagotattoo #zodiac #zodiacsigns #centaur"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1347611829249916928",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BKzrdGZjkAA",
+        "tags": [
+            "chicagotattooartist",
+            "zodiacsigns",
+            "zodiac",
+            "centaur",
+            "chicagotattoo"
+        ],
+        "taken_at_timestamp": 1474867870,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/c633786aa95c203c6d5c1d4828a80d59/5AE97F22/t51.2885-15/s150x150/e35/c0.85.893.893/14310777_533384573527218_7009809797314772992_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/e487b8a1971cd2de2195d0aade922d17/5AF79AA9/t51.2885-15/s240x240/e35/c0.85.893.893/14310777_533384573527218_7009809797314772992_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/95881bfd3618885efb188d7fb5197772/5AEA573D/t51.2885-15/s320x320/e35/c0.85.893.893/14310777_533384573527218_7009809797314772992_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/394564e32d33329e960e778702efd598/5AEAB968/t51.2885-15/s480x480/e35/c0.85.893.893/14310777_533384573527218_7009809797314772992_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/c1f1053b26369279548d967311c175e3/5AF2225E/t51.2885-15/s640x640/sh0.08/e35/c0.85.893.893/14310777_533384573527218_7009809797314772992_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/c1f1053b26369279548d967311c175e3/5AF2225E/t51.2885-15/s640x640/sh0.08/e35/c0.85.893.893/14310777_533384573527218_7009809797314772992_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/e0a454d3320aba783422dff1c0151074/5AE08B2A/t51.2885-15/e35/14310777_533384573527218_7009809797314772992_n.jpg"
+        ]
+    },
+    {
+        "__typename": "GraphImage",
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 640,
+            "width": 640
+        },
+        "display_url": "https://scontent-ort2-1.cdninstagram.com/vp/02152694ce46553038ac529db3a79c29/5AD8311F/t51.2885-15/e35/14280539_1647783108867125_2032133861_n.jpg",
+        "edge_media_preview_like": {
+            "count": 9
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\"Where the Wild Things Are\" tattoo by artist @joshua_meadows_tattoo #wherethewildthingsare #wildside #walkonthewildside #chicago #chicagotattoo #chicagotattooartist"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0
+        },
+        "id": "1333577968597749385",
+        "is_video": false,
+        "location": null,
+        "owner": {
+            "id": "3107292498"
+        },
+        "shortcode": "BKB0hjKjk6J",
+        "tags": [
+            "wherethewildthingsare",
+            "chicago",
+            "chicagotattooartist",
+            "walkonthewildside",
+            "wildside",
+            "chicagotattoo"
+        ],
+        "taken_at_timestamp": 1473194903,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/1827cb8d01cf8db920e291c32edf315a/5AE5C3FF/t51.2885-15/s150x150/e35/14280539_1647783108867125_2032133861_n.jpg"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/3196760c9fc20153e52a26a96b8e4e38/5ADC2C25/t51.2885-15/s240x240/e35/14280539_1647783108867125_2032133861_n.jpg"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/7f716c148641f16d151c0090e2120ba4/5AFA8D4D/t51.2885-15/s320x320/e35/14280539_1647783108867125_2032133861_n.jpg"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/bd97458d61ff5e09957b530a642585ee/5AE1816B/t51.2885-15/s480x480/e35/14280539_1647783108867125_2032133861_n.jpg"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-ort2-1.cdninstagram.com/vp/02152694ce46553038ac529db3a79c29/5AD8311F/t51.2885-15/e35/14280539_1647783108867125_2032133861_n.jpg"
+            }
+        ],
+        "thumbnail_src": "https://scontent-ort2-1.cdninstagram.com/vp/02152694ce46553038ac529db3a79c29/5AD8311F/t51.2885-15/e35/14280539_1647783108867125_2032133861_n.jpg",
+        "urls": [
+            "https://scontent-ort2-1.cdninstagram.com/vp/02152694ce46553038ac529db3a79c29/5AD8311F/t51.2885-15/e35/14280539_1647783108867125_2032133861_n.jpg"
+        ]
+    }
+]
