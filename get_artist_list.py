@@ -2,11 +2,29 @@
 # provided by *city*_shops.txt
 
 import os
-import datetime
+import json
+import csv
 
-# instagram-scraper deluxetattoochicago --maximum 20 --media-types none --include-location --destination /Users/kylefrankovich/Desktop/insight/project_ideas/test_data
-now = datetime.datetime.now()
-download_folder = os.getcwd() + '/' + now.strftime("%Y-%m-%d") + '_scrape'
+artist_list = []
 
-# download recent metadata for each shop within the city shop list file:
-instagram-scraper --filename shop_list_test.txt --maximum 50 --media-types none --include-location --destination '/Users/kylefrankovich/Desktop/insight_project/2018-01-17_scrape' --retain-username
+def get_insta_handle(caption):
+    return [word for word in caption.split() if word.startswith('@')]
+
+for root, dirs, files in os.walk(rootdir):
+    for file in files:
+        if file.endswith(".json"):
+            current_shop_data = json.load(open(os.path.join(root, file))) # load current shop .json
+            for post in current_shop_data: # loop through all posts w/in a shop
+                if post['edge_media_to_caption']['edges']: # only check for artists if there's a comment
+                    insta_handles = get_insta_handle(post['edge_media_to_caption']['edges'][0]['node']['text']) # posts might name multiple artists
+                    for artist in insta_handles:
+                        if artist not in artist_list:
+                            artist_list.append(artist)
+
+
+# export artist_list to a csv to later scrape insta:
+
+filename = '/Users/kylefrankovich/Desktop/insight_project/chicago_artist_list.csv'
+with open(filename, 'w') as myfile:
+    wr = csv.writer(myfile, quoting=csv.QUOTE_MINIMAL)
+    wr.writerow(artist_list)
