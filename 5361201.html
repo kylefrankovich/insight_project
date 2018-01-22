@@ -1,0 +1,2347 @@
+
+   Patents
+  <https://patents.google.com/>
+
+Include patents
+
+Include non-patent literature
+
+Sorry, we couldn't find this patent number.
+
+of 0<#>
+
+<#>
+
+<#>
+Previous result
+Next result
+
+Sign In
+<https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://patents.google.com/>
+
+
+
+  Real estate appraisal using predictive modeling
+
+
+      Abstract
+      translated from
+
+An automated real estate appraisal system (100) and method generates
+estimates of real estate value using a predictive model such as a neural
+network (908). The predictive model (908) generates these estimates
+based on learned relationships among variables describing individual
+property characteristics (905) as well as general neighborhood
+characteristics at various levels of geographic specificity (906). The
+system (100) may also output reason codes indicating relative
+contributions (1009) of various variables to a particular result, and
+may generate reports (701) describing property valuations, market trend
+analyses, property conformity information, and recommendations regarding
+loans based on risk related to a property.
+
+
+      Images (17)
+
+
+      Classifications
+      machine-classified
+
+The classifications are assigned by a computer and are not a legal
+conclusion.
+Google has not performed a legal analysis and makes no representation as
+to the accuracy of the classifications listed.
+G <#> PHYSICS
+G06 <#> COMPUTING; CALCULATING; COUNTING
+G06Q <#> DATA PROCESSING SYSTEMS OR METHODS, SPECIALLY ADAPTED FOR
+ADMINISTRATIVE, COMMERCIAL, FINANCIAL, MANAGERIAL, SUPERVISORY OR
+FORECASTING PURPOSES; SYSTEMS OR METHODS SPECIALLY ADAPTED FOR
+ADMINISTRATIVE, COMMERCIAL, FINANCIAL, MANAGERIAL, SUPERVISORY OR
+FORECASTING PURPOSES, NOT OTHERWISE PROVIDED FOR
+G06Q40/00 <#> Finance; Insurance; Tax strategies; Processing of
+corporate or income taxes
+G06Q40/02 <#> Banking, e.g. interest calculation, credit approval,
+mortgages, home banking or on-line banking
+
+G <#> PHYSICS
+G06 <#> COMPUTING; CALCULATING; COUNTING
+G06Q <#> DATA PROCESSING SYSTEMS OR METHODS, SPECIALLY ADAPTED FOR
+ADMINISTRATIVE, COMMERCIAL, FINANCIAL, MANAGERIAL, SUPERVISORY OR
+FORECASTING PURPOSES; SYSTEMS OR METHODS SPECIALLY ADAPTED FOR
+ADMINISTRATIVE, COMMERCIAL, FINANCIAL, MANAGERIAL, SUPERVISORY OR
+FORECASTING PURPOSES, NOT OTHERWISE PROVIDED FOR
+G06Q40/00 <#> Finance; Insurance; Tax strategies; Processing of
+corporate or income taxes
+
+View 1 more classifications
+Hide more classifications
+
+
+    US5361201A
+
+US Grant
+
+Download PDF
+<https://patentimages.storage.googleapis.com/0c/47/4a/8504d8ab64f065/US5361201.pdf>
+
+
+Find Prior Art <#>
+
+Inventor
+    Allen Jost <#>
+    Jennifer Nelson <#>
+    Krishna Gopinathan <#>
+    Craig Smith <#>
+Current Assignee
+The listed assignees may be inaccurate.
+Google has not performed a legal analysis and makes no representation or
+warranty as to the accuracy of the list.
+    CORELOGIC SOLUTIONS LLC 
+Original Assignee
+    HNC Inc <#>
+Priority date
+The priority date is an assumption and is not a legal conclusion.
+Google has not performed a legal analysis and makes no representation as
+to the accuracy of the date listed.
+    1992-10-19 <#>
+
+------------------------------------------------------------------------
+*Family:* *US (1)*
+Date App/Pub Number Status
+The legal status is an assumption and is not a legal conclusion.
+Google has not performed a legal analysis and makes no representation as
+to the accuracy of the status listed.
+*1992-10-19* *US07963908* *Expired - Lifetime*
+expires
+*1994-11-01* *US5361201A* *Grant*
+------------------------------------------------------------------------
+
+Info
+    Patent citations (1) <#patentCitations>
+    Non-patent citations (24) <#nplCitations>
+    Cited by (214) <#citedBy>
+    Legal events <#legalEvents>
+    Similar documents <#similarDocuments>
+    Priority and Related Applications <#relatedApplications>
+External links
+    USPTO
+    <http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/search-bool.html&r=1&f=G&l=50&d=PALL&RefSrch=yes&Query=PN/5361201>
+    USPTO Assignment
+    <https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=5361201>
+    Espacenet
+    <http://worldwide.espacenet.com/publicationDetails/biblio?CC=US&NR=5361201A&KC=A&FT=D>
+    Global Dossier
+    <http://globaldossier.uspto.gov/#/result/patent/US/5361201/1>
+    Discuss <https://patents.stackexchange.com/questions/tagged/US5361201>
+
+
+      Description
+      translated from
+
+CROSS-REFERENCE TO RELATED APPLICATION
+
+The subject matter of this application is related to the subject matter
+of pending U.S. application Ser. No. 07/814,179, for "Neural Network
+Having Expert System Functionality", by Curt A. Levey, filed Dec. 30,
+1991, the disclosure of which is incorporated herein by reference.
+
+The subject matter of this application is further related to the subject
+matter of pending U.S. application Ser. No. 07/941,971, for "Fraud
+Detection Using Predictive Modeling", by Krishna M. Gopinathan et al.,
+filed Sep. 8, 1992, the disclosure of which is incorporated herein by
+reference.
+
+37 C.F.R.1.71 AUTHORIZATION
+
+A portion of the disclosure of this patent document contains material
+which is subject to copyright protection. The copyright owner has no
+objection to the facsimile reproduction by anyone of the patent document
+or the patent disclosure, as it appears in the Patent and Trademark
+Office records, but otherwise reserves all copyright rights whatsoever.
+
+BACKGROUND OF THE INVENTION
+
+1. Field Invention
+
+This invention relates generally to real estate appraisals and sales
+price predictions. In particular, the invention relates to an automated
+real estate appraisal system and method that uses predictive modeling to
+perform pattern recognition and classification in order to provide
+accurate sales price predictions.
+
+2. Description of Related Art
+
+The "appraised value" of a real estate parcel, or property, comprises
+some estimate of the full market value of the property on a specified
+date. A property's appraised value is of great importance in many types
+of real estate transactions, including sales and loans.
+
+Conventionally, appraised value is determined by a professional
+appraiser using both objective and subjective factors. One disadvantage
+of such a method is the difficulty in ensuring that the appraiser
+conducts a neutral, unbiased analysis in arriving at the appraised
+value. This difficulty is often compounded by the fact that the
+appraiser may be retained and paid by an interested party in the
+contemplated transaction, such as a lender, mortgage broker, buyer, or
+seller.
+
+In order to reduce bias and provide more accurate appraisals,
+statistical techniques may be used to obtain an independent, consistent,
+mathematically derived estimate of a property's value to assist an
+appraiser in generating an appraised value. Traditional statistical
+techniques, such as multiple linear regression and logistic regression,
+have been tried, but such techniques typically suffer from a number of
+deficiencies. One deficiency is the inability of traditional regression
+models to capture complex behavior in predictor variables resulting from
+nonlinearities and interactions among predictor variables. In addition,
+traditional regression models do not adapt well to changing trends in
+the data, so that automated model redevelopment is difficult to implement.
+
+One example of the difficulty of applying a regression model to
+appraisal problems is the uncertainty as to the optimal temporal and
+geographical sample size for model development. A model developed using
+all homes in one square city block might theoretically be an effective
+predictor for that particular neighborhood, but it may not be possible
+to develop such a model with sufficient stability and reliability, due
+to the relatively small sample size. On the other hand, a model
+developed using all homes sold in the United States in the past month
+might have a sufficiently large sample size, but might be unable to
+capture local, neighborhood characteristics to provide an accurate
+appraisal. Thus, a significant deficiency of traditional regression
+modeling techniques when applied to real estate appraisals is the
+inability to successfully model neighborhood characteristics while
+including a sufficiently large sample size to develop a robust, stable
+statistical model.
+
+It is desirable, therefore, to have an automated system that uses
+available information regarding real estate properties to provide
+accurate estimates of value. Preferably, such a system should be
+flexible enough to allow model development in a relatively small
+geographic area, it should be able to handle nonlinearities and
+interactions among predictor variables without advance specification, it
+should have high predictive accuracy, and it should have capability for
+redevelopment of the underlying system model as new patterns of real
+estate pricing emerge.
+
+SUMMARY OF THE INVENTION
+
+In accordance with the present invention, there is provided an automated
+system (100) and method for real estate appraisals, which uses one or
+more predictive models such as neural networks (908) to generate
+estimates of real estate value. The predictive models (908) generate
+these estimates based on learned relationships among variables
+describing individual property characteristics (905). The models (908)
+also learn relationships between individual property characteristics
+(905) and area characteristics (906). Area characteristics (906) are
+stored and applied at a level of geographic specificity that varies
+according to the amount of data available at each of several
+successively larger geographic areas. In this way the models (908) are
+able to capture local neighborhood characteristics without unduly
+reducing sample sizes, which would reduce reliability and predictability.
+
+The learned relationships among individual property characteristics
+(905) and area characteristics (906) enable the system (100) to estimate
+the value of the property being appraised. Error models (909) may also
+be provided to generate an estimated value range or error interval for
+the sales price. The appraised value and error estimate may then be
+provided as output (907) to a human decision-maker, along with other
+related information such as: reason codes that reveal the relative
+contributions of various factors to the appraised value; and various
+measures of market trends. Finally, the system (100) periodically
+monitors its performance, and redevelops the models (908,909) when
+performance drops below a predetermined level.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+
+FIG. 1 is a block diagram of an implementation of the present invention.
+
+FIG. 2 is a sample data entry screen that forms part of a typical
+input/output interface for the present invention.
+
+FIG. 3 is a sample quick data entry screen that forms part of a typical
+input/output interface for the present invention.
+
+FIG. 4 is a sample record selection screen that forms part of a typical
+input/output interface for the present invention.
+
+FIG. 5 is a sample sales price estimate screen that forms part of a
+typical input/output interface for the present invention.
+
+FIG. 6 is a sample area averages screen that forms part of a typical
+input/output interface for the present invention.
+
+FIG. 7 is a sample report produced by the present invention.
+
+FIG. 8 is a flowchart illustrating the major functions and operation of
+the present invention.
+
+FIG. 9 is a block diagram showing the overall functional architecture of
+the present invention.
+
+FIG. 10 is a block diagram showing the property valuation process of the
+present invention.
+
+FIG. 11 is a flowchart showing a method of determining area and
+obtaining area data according to the present invention.
+
+FIG. 12 is a flowchart showing a method of generating reports according
+to the present invention.
+
+FIG. 13 is a flowchart showing a method of performing market trend
+analysis according to the present invention.
+
+FIG. 14 is a flowchart showing a method of determining property
+conformity according to the present invention.
+
+FIG. 15 is a flowchart showing a method of comparing an estimated
+property value to user-specified values according to the present invention.
+
+FIG. 16 is a flowchart showing a method of generating recommendations
+according to the present invention.
+
+FIG. 17 is a diagram showing an example of geographic subdivision
+according to the present invention.
+
+FIG. 18 is a flowchart showing a method of aggregating individual
+property data into successively larger geographical areas according to
+the present invention.
+
+FIG. 19 is a diagram showing an example of the relationship between
+individual property characteristics and area characteristics.
+
+FIG. 20 is a diagram of a single processing element within a neural network.
+
+FIG. 21 is a diagram illustrating hidden processing elements in a neural
+network.
+
+DETAILED DESCRIPTION OF THE PREFERRED EMBODIMENTS
+
+The Figures depict preferred embodiments of the present invention for
+purposes of illustration only. One skilled in the art will readily
+recognize from the following discussion that alternative embodiments of
+the structures and methods illustrated herein may be employed without
+departing from the principles of the invention described herein.
+
+Referring now to FIG. 1, there is shown a block diagram of a typical
+implementation of a system 100 in accordance with the present invention.
+The user supplies property data to system 100 via input device 105.
+Central processing unit (CPU) 101 runs software program instructions,
+stored in program storage 107, which direct CPU 101 to perform the
+various functions of system 100. In the embodiment illustrated herein,
+the software program is written in the Microsoft Excel macro language
+and the ANSI C language. Each of these languages may be run on a variety
+of conventional hardware platforms. Data storage 103 contains data
+describing real estate properties, as well as regional data. It also
+contains model parameters. In accordance with the software program
+instructions, CPU 101 accepts input from input device 105, accesses data
+storage 103, and uses RAM 102 in a conventional manner as a workspace.
+CPU 101, data storage 103, and program storage 107 operate together to
+provide predictive neural network models 908 for real estate appraisal,
+as well as error models 909 for generating error ranges for the
+appraised values. If desired, multiple models 908 and 909 may be used
+(for example, one for each geographic region), particularly when
+property pricing characteristics vary widely from region to region.
+After neural network models 908 and error models 909 process the
+information, as described below, to obtain estimates of property value
+and error range, a signal indicative of the estimate and error range is
+sent from CPU 101 to output device 104.
+
+In the embodiment illustrated herein, CPU 101 can be a mainframe
+computer or a powerful personal computer; RAM 102 and data storage 103
+are conventional RAM, ROM and disk storage devices for the CPU; and
+output device 104 is a conventional means for either printing results
+based on the signals generated by neural network models 908 and error
+models 909, displaying the results on a video screen using a
+window-based interface system, or sending the results to a database for
+later access.
+
+Referring now also to FIGS. 2 through 7, there are shown sample screens
+from a conventional window-based interface system (not shown) that forms
+part of output device 104. FIG. 2 shows data entry form 201 that allows
+the user to enter data describing a property for appraisal. Form 201 is
+also known as a Uniform Residential Appraisal Report (URAR) form. It
+contains a number of data fields 202. Scroll bars 203 are provided to
+allow navigation throughout form 201.
+
+FIG. 3 shows quick data entry form 301 that allows quick entry of
+property data without using a complete URAR form 201. This form is
+intended for use when a quick estimate of property value is required. A
+number of fields 302 are provided, which represent a subset of the
+fields 202 in URAR form 201. Data entered on URAR form 201 for a
+particular property is automatically transferred to quick form 301, and
+vice versa.
+
+FIG. 4 shows record selection screen 401 that allows the user to select
+among previously-entered property records in order to view URAR form 201
+for the selected record. Record selection screen 401 lists a plurality
+of records 402, showing the address 403, city 404, map reference 405,
+sale price 406, assessor parcel number (APN) group 407, ZIP code 408,
+and sale date 409 for each record. Scroll bars 410 are provided to allow
+navigation throughout the list of records, and selected records are
+indicated by highlighting 411.
+
+FIG. 5 shows sales price estimate screen 501 that provides appraisal
+information. Estimated sales price 502 is shown, along with lowest
+typical sales price 503 and highest typical sales price 504. Also shown
+are positive contribution factors 505 that tend to drive the price of
+the property up, and negative contribution factors 506 that tend to
+drive the price of the property down.
+
+FIG. 6 shows area averages screen 601 that shows average values 602 for
+several property criteria 603 for a selected geographic area, alongside
+comparative values for a selected property 605. Clicking arrow buttons
+606 changes the level of geographic specificity, according to the
+following sequence: neighborhood, local, extended, region, and county.
+The example shows neighborhood values, representing the average values
+for all properties sold in the same neighborhood as the selected
+property, over a period of time prior to the selected sale.
+
+Referring now to FIG. 7, there is shown statistical review report 701
+summarizing property information and estimated value, and providing
+recommendations regarding loan processing with respect to the property.
+This type of report would typically be used when system 100 of the
+present invention is employed to appraise properties in connection with
+loan processing. Identification portion 702 identifies the loan,
+property, and appraisal to which report 701 pertains. Explanatory
+portion 703 gives general explanatory information concerning the report.
+Regional trend analysis portion 704 reports average sales prices for the
+county and ZIP code in the four preceding semiannual periods, indicating
+market stability and providing a broad foundation for valuation and risk
+analysis. Local trend analysis portion 705 reports average sales prices
+for smaller geographic areas, such as the census tract, map grid, and
+assessor parcel number (APN) group, in the four preceding semiannual
+periods, indicating local market stability and providing a further
+information useful for valuation and risk analysis. Subject conformity
+portion 706 compares sales price, square footage, and price per square
+foot for the property with the norms for the neighborhood. Subject
+valuation portion 707 provides a value range for the property based on
+the characteristics of the property and the region, and compares the
+value range with an appraisal value determined by an independent human
+appraiser. Subject valuation portion 707 also provides an indication of
+the loan-to-value (LTV) ratio of the loan, and a comparison with a
+user-supplied maximum LTV ratio. Summary and recommendations portion 708
+summarizes the information given in the other portions and recommends
+one of "Proceed", "Caution", or "Suspend".
+
+Referring now to FIG. 8, there is shown an overall flowchart
+illustrating the major functions and operation of system 100. First
+neural network models 908 are trained 801 using training data describing
+a number of individual real estate properties, characteristics, and
+prices, as well as area characteristics. If real estate pricing
+characteristics vary widely from region to region, it may be
+advantageous to use different models 908 for the different regions
+(counties, for example). Once neural network models 908 are trained,
+neural network model parameters are stored 802. Error models 909, which
+are typically regression models, are then trained 803 using additional
+training data and output from neural network models 908. Once error
+models 909 are trained, error model parameters are stored 804, and
+system 100 is able to estimate prices and pricing errors for a subject
+property. System 100 obtains 805 property data describing the subject
+property 905, as well as data describing the area in which the subject
+property is situated 906. System 100 then applies 806 property data 905
+and area data 906 to the appropriate stored neural network model 908. It
+then applies 807 property data 905 and area data 906 to the appropriate
+stored error model 909. The models 908 and 909 estimate sales price,
+reason codes (described below), and estimated error, which are output
+805 to the user, or to a database, or to another system via output
+device 104.
+
+Referring now to FIG. 9, the overall functional architecture of system
+100 is shown. System 100 is broken down into two major components: model
+development component 901 and property valuation component 902. Model
+development component 901 uses training data 904 describing a number of
+real estate properties, characteristics, and prices to build neural
+network models 908 containing information representing learned
+relationships among a number of variables. Together, the learned
+relationships form models 908 of the behavior of the variables. Although
+neural network models 908 are used in the embodiment illustrated herein,
+any type of predictive modeling technique may be used, such as
+regression modeling. For purposes of illustration, the invention is
+described here in terms of neural network statistical models 908. Model
+development component 901 also uses training data 904 to develop error
+models 909, which are typically regression models used to estimate error
+in predicted sales prices generated by neural network models 908.
+
+Property valuation component 902 feeds input data describing the subject
+property 905 and its geographic area 906 to neural network models 908
+and error models 909. It obtains results from models 908 and 909 and
+generates price estimates, error ranges, and reason codes. A report is
+prepared using this information, and the report is output 907 either to
+a screen display, printer, or stored in a database for future access.
+
+Each of the two components 901 and 902 of system 100 will be described
+in turn.
+
+Model Development Component 901
+
+Neural networks employ a technique of "learning" relationships through
+repeated exposure to data and adjustment of internal weights. They allow
+rapid model development and automated data analysis. Essentially, such
+networks represent a statistical modeling technique that is capable of
+building models 908 from data containing both linear and non-linear
+relationships. While similar in concept to regression analysis, neural
+networks are able to capture nonlinearity and interactions among
+independent variables without pre-specification. In other words, while
+traditional regression analysis requires that nonlinearities and
+interactions be detected and specified manually, neural networks perform
+these tasks automatically. For a more detailed description of neural
+networks, see D. E. Rumelhart et al, "Learning Representations by
+Back-Propagating Errors", Nature v. 323, pp. 533-36 (1986), and R.
+Hecht-Nielsen, "Theory of the Backpropagation Neural Network", in Neural
+Networks for Perception, pp. 65-93 (1992), the teachings of which are
+incorporated herein by reference.
+
+Neural networks comprise a number of interconnected neuron-like
+processing elements that send data to each other along connections. The
+strengths of the connections among the processing elements are
+represented by weights. Referring now to FIG. 20, there is shown a
+diagram of a single processing element 2001. The processing element
+receives inputs X_1 , X_2 , . . . X_n , either from other processing
+elements or directly from inputs to the system. It multiplies each of
+its inputs by a corresponding weight w_1 , w_2 , . . . w_n and adds the
+results together to form a weighted sum 2002. It then applies a transfer
+function 2003 (which is typically non-linear) to the weighted sum, to
+obtain a value Z known as the state of the element. The state Z is then
+either passed on to another element along a weighted connection, or
+provided as an output signal. Collectively, states are used to represent
+information in the short term, while weights represent long-term
+information or learning.
+
+Processing elements in a neural network can be grouped into three
+categories: input processing elements (those which receive input data
+values); output processing elements (those which produce output values);
+and hidden processing elements (all others). The purpose of hidden
+processing elements is to allow the neural network to build intermediate
+representations that combine input data in ways that help the model
+learn the desired mapping with greater accuracy. Referring now to FIG.
+21, there is shown a diagram illustrating the concept of hidden
+processing elements. Inputs 2101 are supplied to a layer of input
+processing elements 2102. The outputs of the input elements are passed
+to a layer of hidden elements 2103. Typically there are several such
+layers of hidden elements. Eventually, hidden elements pass outputs to a
+layer of output elements 2104, and the output elements produce output
+values 2105.
+
+Neural networks learn from examples by modifying their weights. The
+"training" process, the general techniques of which are well known in
+the art, involves the following steps:
+
+1) Repeatedly presenting examples of a particular input/output task to
+the neural network model;
+
+2) Comparing the model output and desired output to measure error; and
+
+3) Modifying model weights to reduce the error.
+
+This set of steps is repeated until further iteration fails to decrease
+the error. Then, the network is said to be "trained." Once training is
+completed, the network can predict outcomes for new data inputs.
+
+In the present invention, data used to train models 908 are drawn from
+various database files containing data on individual properties. These
+data are aggregated to obtain medians and variances across geographic
+areas. Thus, models 908 are able to capture relationships among
+individual property characteristics, as well as relationships between
+individual property characteristics and the characteristics of the
+surrounding geographic area.
+
+Referring now to FIG. 19, there is shown an example of this technique.
+House 1901 has associated with it individual property characteristics
+1902, namely 2500 square feet, 3 bedrooms, and a 6000 square foot lot.
+In order to provide effective predictive modeling of the estimated
+selling price of house 1901, neural network models 908 use area
+characteristics 1904 for geographic area 1903. The area characteristics
+1904 are 2246.4 average square feet, 2.5 average bedrooms, 7267.2
+average square foot lot size, and $267,000 average selling price. These
+represent averages for homes sold in area 1903 in the last x months,
+where x is a predetermined time period. By comparing individual property
+characteristics 1902 with area characteristics 1904, neural network
+models 908 are able to more effectively estimate the selling price of
+house 1901.
+
+An important factor in the effectiveness of neural network models 908 is
+the sample size used to train models 908. Conventional regression models
+and model designs for real estate appraisal generally use small samples
+in an attempt to provide a homogeneous group of properties in the
+developmental sample. See J. Mark & M. Goldberg, "Multiple Regression
+Analysis and Mass Assessment: A Review of the Issues", The Appraisal
+Journal v. 56(1)., pp. 89-109 (1988), and H.-B. Kang & A. Reichert, "An
+Empirical Analysis of Hedonic Regression and Grid-Adjustment Techniques
+in Real Estate Appraisal", AREUEA Journal v. 19, no. 1, pp. 70-91
+(1991), the teachings of which are incorporated herein by reference. For
+example, properties within a single city block would generally provide
+effective predictor models for capturing neighborhood characteristics
+within the block. A problem with this approach is that a large number of
+distinct models must be built. Since each model is created using a set
+of training data describing properties within the associated city block,
+an extremely large number of properties is required to effectively train
+all the models.
+
+On the other hand, use of larger geographic areas such as ZIP codes
+results in diminished ability to capture local neighborhood characteristics.
+
+The method of the present invention provides effective predictor
+variables that preserve information describing neighborhood
+characteristics without unduly increasing the number of models and
+predictor variables required for training. It accomplishes this by
+aggregating individual property data in the training data set into area
+characteristics in a flexible manner, using the smallest geographic
+areas containing sufficient data to produce reliable models 908. The
+models 908 are thus able to capture area characteristics for relatively
+small geographic areas where the data describing these characteristics
+are available.
+
+Referring now to FIG. 17, there is shown an example of geographic
+subdivision according to the present invention. Each region 1701 is
+divided into successively smaller geographic areas. In the example
+shown, the geographic areas are ZIP codes 1702, census tracts 1703, map
+coordinates 1704, and assessor parcel number (APN) groups 1705. Other
+geographic areas, such as census blocks, or lot blocks, may also be used.
+
+Referring now also to FIG. 18, there is shown a flowchart of the
+aggregation method. System 100 uses data describing real estate sales
+activity for each month of a user-specified training period, such as
+eighteen months. For each month within the training period, system 100
+performs the steps shown in FIG. 18. System 100 initially defines 1804
+the "neighborhood" as the smallest geographical area, such as the APN
+group 1705. If there have been any sales in the previous 12 months 1805,
+system 100 proceeds to step 1813. If not, it defines 1806 the
+neighborhood as the next larger geographic area, the map code 1704. If
+there have been at least 3 sales in the previous 12 months 1807, system
+100 proceeds to step 1813. System 100 continues to enlarge the
+definition of the neighborhood until a predetermined minimum number of
+sales have occurred within a predetermined period of time. The minimum
+number of sales and the period of time in steps 1805, 1807, 1809, and
+1811 may vary according to the optimal sample size and geographic
+specificity required. In addition, the number and size of the geographic
+areas may vary. Once the predetermined minimum number of sales for a
+particular geographic area has been met, system 100 determines 1813
+medians, averages, and variances for various property characteristics
+such as sales price, square feet, number of bedrooms, etc.
+
+Property characteristics used as predictor variables in the embodiment
+illustrated herein include, for example:
+
+PREDICTOR VARIABLES IN AREAS MODEL
+
+AIR_-- COND: type of air conditioning
+
+BA_-- FLCND: condition of bathroom floor
+
+BA_-- FLMAT: bathroom floor material
+
+BA_-- NUM: number of bathrooms
+
+BA_-- WNCON: condition of bathroom wainscot
+
+BA_-- WNMAT: bathroom wainscot material
+
+BEDRMS_-- N: number of bedrooms
+
+FRPL_-- NUM: number of fireplaces
+
+FRPL_-- TYP: type of fireplace
+
+FL_-- ZONE: flood zone?
+
+FLR_-- MAT: main floor material
+
+FND_-- INF: foundation infestation?
+
+FND_-- SETL: foundation settlement?
+
+IMP_-- TYPE: improvement type (attached, townhouse, etc.)
+
+LANDSCAP: adequate landscaping?
+
+MAN_-- HOME: manufactured house?
+
+OWN_-- TYPE: ownership type (condo, single family residence, etc.)
+
+P_-- COND: condition of parking structure
+
+P_-- SPACES: number of parking spaces
+
+P_-- STRAGE: type of parking (garage, carport, etc.)
+
+P_-- DOROPN: electric garage door opener?
+
+ROOFTYPE: type of roofing material
+
+R_-- TOT_-- N: number of rooms
+
+LOT_-- SHAP: lot shape
+
+SITE_-- INF: site influence (ocean, mountains, etc.)
+
+SI_-- STM: public or private street maintenance?
+
+SI_-- STT: street surface material
+
+PARCLSIZ: size of parcel (typical, undersized or oversized)
+
+SQ_-- FT_-- LA: square footage of living area
+
+STRYSFDU: number of stories
+
+STYLECOD: style of house (colonial, ranch, etc.)
+
+TOPOCODE: topography of lot (level, hilly, etc.)
+
+WAL_-- EXTT: exterior wall material
+
+POOLTYPE: pool, spa, both, or none
+
+AGE: age of home
+
+HOA: home owner's dues?
+
+ECONLIFE: economic life (remaining years) of house
+
+LN_-- LOT: natural log of lot size
+
+APN_-- COMP: median comps price (local neighborhood)
+
+ZIP_-- COMP: median comps price (zip code or county wide)
+
+ZIPCMPBE: median # of bedrooms in comps (zip code or county-wide)
+
+ZIPCMPBA: median # of bathrooms in comps (zip code or county-wide)
+
+ZIPCMPSQ: median square footage in comps (zip code or county-wide)
+
+ZIPCMPAG: median age in comps (zip code or county-wide)
+
+ZIPCMPRM: median # of rooms in comps (zip code or county-wide)
+
+ZIPCMPGA: median # of parking spaces in comps (zip code or county-wide)
+
+ZIPCMPFP: median # of fireplaces in comps (zip code or county-wide)
+
+APNDIFAG: age differential (current property minus local comps)
+
+APNDIFBA: # bathrooms differential (current property minus local comps)
+
+APNDIFBE: # bedrooms differential (current property minus local comps)
+
+APNDIFFP: # fireplaces differential (current property minus local comps)
+
+APNDIFGA: # park spaces differential (current property minus local comps)
+
+APNDIFRM: # rooms differential (current property minus local comps)
+
+APNDIFSQ: sq. footage differential (current property minus local comps)
+
+Once system 100 has obtained predictor variables as described above for
+each month in the training period, the predictor variables are fed to
+networks 908 and networks 908 are trained. The embodiment illustrated
+herein uses a modeling technique known as a backpropagation neural
+network 908. This type of network 908 estimates parameters which define
+relationships among variables using a training method. The preferred
+training method, well known to those skilled in the art, is called
+"backpropagation gradient descent optimization" and is described in
+Gopinathan et al., although other well-known neural network training
+techniques may also be used.
+
+Once the neural networks have been trained using training data, the
+network model definitions are stored in data files in a conventional
+manner. These data files describe the neural network architecture,
+weights, the data configuration, data dictionary, and file format.
+
+In addition to developing and storing neural network models 908 as
+described above, model development component 901 also develops error
+models 909. Typically, these error models 909 are implemented as
+conventional regression models, known to those skilled in the art,
+although other predictive modeling-techniques, such as neural networks,
+may be used. As with neural network models 908, different error models
+909 may be provided for different regions.
+
+To develop error models 909, system 100 determines the absolute percent
+error of the neural network model estimate for each record in the
+training data set. Based on a set of input parameters, error model 909
+is trained to forecast the absolute percent error of the neural network
+model estimate. Training methods for regression models are well known in
+the art. An example of a set of input parameters used in the embodiment
+illustrated herein is given below:
+
+PREDICTOR VARIABLES IN AREAS ERROR MODEL
+
+PRED_-- SP: predicted sales price
+
+PRED_-- SP2: square of PRED_-- SP
+
+PRED_-- SP3: cube of PRED_-- SP
+
+APNPDIF: normalized difference between PRED_-- SP and local median price
+
+APNPDIF2: square of APNPDIF
+
+APNPDIF3: cube of APNPDIF
+
+ZIPPDIF: normalized difference between PRED_-- SP and zip code median price
+
+APNSRC: size of local neighborhood
+
+AIR_-- COND: type of air conditioning
+
+BA_-- FLMAT: bathroom floor material
+
+BA_-- WNCON: bathroom wainscot condition
+
+FND_-- INF: foundation infestation?
+
+FRPL_-- TYP: type of fireplace
+
+IMP_-- TYPE: improvement type (attached, townhouse, etc.)
+
+MAN_-- HOME: manufactured house?
+
+OWN_-- TYPE: ownership type (condo, single family residence, etc.)
+
+PARCLSIZ: size of parcel (typical, undersized or oversized)
+
+POOLTYPE: pool, spa, both, or none
+
+P_-- COND: condition of parking structure
+
+P_-- DOROPN: electric garage door opener?
+
+P_-- STRAGE: type of parking (garage, carport, etc.)
+
+SI_-- STM: public or private street maintenance?
+
+TOPOCODE: topography of lot (level, hilly, etc.)
+
+WAL_-- EXTT: exterior wall material
+
+AGE: age of home
+
+AGE2: square of AGE
+
+AGE3: cube of AGE
+
+APNDIFAG: difference between age of home and local median age
+
+APNDFAG2: square of APNDIFAG
+
+APNDFAG3: cube of APNDIFAG
+
+APNDFBE3: cube of difference between # bedrooms and local median
+
+APNDFFP2: square of difference between # fireplaces and local median
+
+APNDFFP3: cube of difference between # fireplaces and local median
+
+APNDIFGA: difference between # parking places and local median
+
+APNDFGA2: square of APNDIFGA
+
+APNDFRM2: square of difference between # rooms and local median
+
+APNDFSQ3: cube of difference between square footage and local median
+
+BA_-- NUM: number of bathrooms
+
+ECONLIFE: economic life (remaining years) of house
+
+ECONLIF3: cube of ECONLIFE
+
+PSPACES3: cube of number of parking spaces
+
+R_-- TOT N: total number of rooms
+
+R_-- TOT N2: square of R_-- TOT_-- N
+
+R_-- TOT N3: cube of R_-- TOT_-- N
+
+SQ_-- FT_-- LA: square footage
+
+ZIPCMPAG: difference between age of home and zip code median age
+
+ZIPCMAG3: cube of ZIPCMPAG
+
+ZIPCMPBA: difference between # bathrooms and zip code median
+
+ZIPCMBA2: square of ZIPCMPBA
+
+ZIPCMPBE: difference between # bedrooms and zip code median
+
+ZIPCMBE2: square of ZIPCMPBE
+
+ZIPCMBE3: cube of ZIPCMPBE
+
+ZIPCMFP2: square of difference between # fireplaces and zip code median
+
+ZIPCMFP3: cube of difference between # fireplaces and zip code median
+
+ZIPCMGA2: square of difference between # parking places and zip code median
+
+ZIPCMSQ2: square of difference between square footage and zip code median
+
+ZIPCMSQ3: cube of difference between square footage and zip code median
+
+ZIP_-- COMP: median sales price across zip code
+
+ZIPCOMP2: square of ZIP_-- COMP
+
+ZIPCOMP3: cube of ZIP_-- COMP
+
+Property Valuation Component 902
+
+As seen in FIG. 9, property valuation component 902 reads data 905
+describing the property to be appraised (known as subject property) and
+data 906 describing the surrounding geographical area 906, and generates
+as output 907 a price estimate for the subject property. Furthermore,
+property valuation component 902 outputs a range of values based on the
+estimated maximum error of the price estimate, as well as a list of
+contributing variables, or reason codes, for the price estimate.
+
+Property data 905 are generally entered by the user on a data entry form
+such as those shown in FIGS. 2 and 3. The data may be entered either
+interactively, or in batch mode using tape or disk storage devices.
+Property data 905 describe the particular property to be appraised, and
+they typically include the same types of predictor variables as listed
+above for training data 904.
+
+Area data 906 are collected from databases describing properties in
+geographical areas surrounding the subject property. The method by which
+area data 906 are collected is described below. Typically, area data 906
+include averages of the same types of predictor variables as listed
+above for training data 904.
+
+Referring now to FIG. 10, there is shown a flowchart of the property
+valuation process of the present invention. System 100 obtains 1001
+property data 905 from user input or batch input. Based on property data
+905, it determines 1001 the appropriate region to be used for the
+analysis. As shown in FIG. 17, a region 1701 is a relatively large
+geographic area containing a number of smaller geographic areas. Each
+region 1701 may be associated with a separate neural network model 908,
+as well as a separate error model 909. System 100 then loads 1003 neural
+network model 908 and error model 909 for the region 1701 containing the
+subject property.
+
+System 100 then determines 1005 which area to use in the analysis and
+obtains area data 906. In determining 1005 the optimal area for the
+analysis, system 100 uses a technique that captures local neighborhood
+characteristics while including a sufficiently large sample size to
+preserve predictability and reliability. Generally, system 100
+accomplishes this by seeking the smallest geographic area containing
+both the subject property and at least one other property that was sold
+within the past x months, where x is a predetermined time period.
+
+Referring now also to FIG. 11, there is shown the method of determining
+1005 the optimal area to use. As shown in the flowchart, system 100 uses
+the smallest geographic area containing at least one property that was
+sold within the past x months, in addition to the subject property. The
+minimum number of properties, the time period, and the particular areas
+available for use, may vary depending on the level of geographic
+specificity and sample size desired.
+
+System 100 applies 1006 the appropriate neural network 908 to subject
+property data 905 and area data 906. Neural network 908 generates
+estimated value 1007. System 100 then determines 1008 reason codes
+indicating which inputs to model 908 are most important in determining
+estimated value 1007. Any technique to generate such reason codes may be
+used. In the embodiment illustrated herein, the technique set forth in
+co-pending U.S. application Ser. No. 07/814,179, for "Neural Network
+Having Expert System Functionality", by Curt A. Levey, filed Dec. 30,
+1991, the disclosure of which is hereby incorporated by reference, is
+used. System 100 uses the reason codes to generate 1009 a list of
+contribution factors to the estimated value, shown in FIG. 5 as positive
+contribution factors 505 and negative contribution factors 506.
+
+System 100 also estimates 1010 the error range of its appraisal. In the
+embodiment illustrated herein, error estimation is performed by applying
+error model 909, typically a regression model, to subject property data
+905 and area data 906. Error model 909 uses conventional regression
+techniques to generate an absolute percent error estimate E. System 100
+generates a lower bound and an upper bound for the error range by
+applying the following formulas:
+
+Lower bound=P/(1+E)                                        (Eq. 1)
+
+Upper bound=P/(1-E)                                        (Eq. 2)
+
+where P is the estimated property value and E is the absolute percent
+error estimate.
+
+Alternatively, system 100 may estimate the error range using a technique
+known in the art as robust backpropagation, as described in H. White,
+"Supervised Learning as Stochastic Approximation", International Joint
+Conference on Neural Networks, San Diego, Calif. (1990), the teachings
+of which are incorporated herein by reference.
+
+When robust backpropagation is used, system 100 does not require error
+model 909. Rather, two additional secondary neural network models 908
+are used. Each of the two secondary models 908 is trained to estimate a
+specified percentile of the conditional distribution of sales prices.
+For example, the first secondary model 908 may be trained to estimate
+the 10th percentile of the conditional distribution, while the second
+secondary model 908 estimates the 90th percentile. These models 908 are
+trained and implemented in the same technique and using the same
+predictor values as described above for neural network model 908. When
+estimating a sales price for a subject property, the property data is
+sent to secondary models 908 in addition to primary neural network model
+908. Secondary models 908 produce lower and upper bounds L and U for the
+error range.
+
+Whichever technique is used to generate the lower and upper bounds L and
+U, system 100 then outputs 1011 the estimated property value, as well as
+the range defined by L and U designated in FIG. 5 as a lowest typical
+sales price 503 and a highest typical sales price 504.
+
+Finally, system 100 generates 1012 reports as appropriate and as
+requested by the user. A typical report is statistical review report 701
+shown in FIG. 7.
+
+Referring now to FIG. 12, there is shown a method of generating 1012
+reports according to the present invention. System 100 analyzes 1202
+market trends as shown in FIG. 13. It first determines 1302 and 1303
+county and ZIP code sales price trends over the past 24 months. Then it
+determines 1304 local sales price trends by census tract, map code, and
+APN group over the past 24 months. It classifies 1305 trends as stable,
+moderate upward or downward trend, or steep upward or downward trend.
+The trends and their classifications are used in generating regional
+trend analysis portion 704 and local trend analysis portion 705 of
+statistical review report 701 shown in FIG. 7. If alternative
+geographical subdivisions are used, the above-described method of market
+trend analysis is altered accordingly.
+
+System 100 then determines 1203 the degree of conformity of the subject
+property with regard to the neighborhood. This is done according to the
+method shown in FIG. 14. System 100 determines the median and variance
+of neighborhood sales prices 1402, square footages 1403, and prices per
+square footage 1404. Medians and variances for other variables may be
+collected as well, if desired. The distribution within the neighborhood
+is used in generating subject conformity portion 706 of statistical
+review report 701. System 100 determines 1405 whether the property
+deviates by more than one standard deviation from the neighborhood norm.
+If not, system 100 classifies 1406 the property as conforming. If the
+property deviates by more than one standard deviation, system 100
+determines 1407 if the property deviates by more than two standard
+deviations. If not, system 100 classifies 1408 the property as
+non-conforming. If the property deviates by more than two standard
+deviations, system 100 classifies 1409 the property as extremely
+non-conforming. Additional levels of conformity classification may be
+provided. System 100 uses the conformity classification in generating
+summary and recommendations portion 708 of statistical review report 701.
+
+System 100 generates 1204 subject valuation portion 707 based on the
+estimated value determined by neural network 108.
+
+System 100 generates 1205 summary and recommendations portion 708 using
+the method shown in FIGS. 15 and 16. Referring now to FIG. 15, there is
+shown the method of comparing an estimated property value to
+user-specified values. System 100 determines 1502 whether the appraised
+value as determined by a human appraiser falls within the valuation
+range generated by neural network model 908 and error model 909. If not,
+system 100 determines the percent outside the range and outputs 1503
+this value in summary and recommendations portion 708. System 100 then
+determines 1504 if the loan-to-value (LTV) ratio, based on the estimated
+value of the property and the amount of the contemplated loan, is within
+a user-specified maximum LTV. If not, system 100 determines the percent
+above the maximum and outputs 1505 this value in summary and
+recommendations portion 708.
+
+Referring now to FIG. 16, there is shown the method of generating
+recommendations. System 100 determines 1602 whether the LTV is within
+the maximum LTV. If not, it recommends suspension of the loan 1603. If
+the LTV is within the maximum LTV, system 100 determines 1604 whether
+the property is conforming. If the property is not conforming, system
+100 determines 1605 whether the property is extremely non-conforming. If
+the property is not extremely non-conforming, system 100 recommends
+caution with regard to the contemplated loan 1606. If the property is
+extremely non-conforming, system 100 recommends suspension of the loan
+1607. If the property is conforming, system 100 determines 1608 whether
+the market is declining. If so, it recommends caution 1609. If the
+market is not declining, system 100 determines 1610 whether the
+appraisal as performed by the human appraiser falls within the range
+generated by neural network model 908 and error model 909. If the
+appraisal does not fall within the range, system 100 recommends caution
+1611. If the appraisal falls within the range, system 100 recommends
+that the loan proceed 1612. System 100 outputs its recommendation as
+part of summary and recommendation portion 708 of statistical review
+report 701.
+
+As an additional disclosure, the source code for the embodiment
+illustrated herein of the invention is included below as an appendix. It
+should be noted that terminology in the source code may differ slightly
+from that in the remainder of the specification. Any differences in
+terminology, however, will be easily understood by one skilled in the art.
+
+From the above description, it will be apparent that the invention
+disclosed herein provides a novel and advantageous method of real estate
+appraisal. The foregoing discussion discloses and describes merely
+exemplary methods and embodiments of the present invention. As will be
+understood by those familiar with the art, the invention may be embodied
+in many other specific forms without departing from the spirit or
+essential characteristics thereof. For example, other predictive
+modeling techniques besides neural networks might be used. In addition,
+other variables, geographic subdivisions, and report generation
+techniques might be used.
+
+Accordingly, the disclosure of the present invention is intended to be
+illustrative of the preferred embodiments and is not meant to limit the
+scope of the invention. The scope of the invention is to be limited only
+by the following claims. ##SPC1##
+
+
+      Claims (20)
+      translated from
+
+What is claimed is:
+1. A computer-implemented process for appraising a real estate property,
+comprising the steps of:
+collecting training data;
+developing a predictive model from the training data;
+storing the predictive model;
+obtaining individual property data for the real estate property;
+generating a signal indicative of an appraised value for the real estate
+property responsive to application of the obtained individual property
+data to the stored predictive model;
+developing an error model from the training data;
+storing the error model; and
+generating a signal indicative of an error range for the appraised value
+responsive to application of the individual property data to the stored
+error model.
+2. The computer-implemented process of claim 1, wherein the error model
+comprises a regression model.
+3. A computer-implemented process for appraising a real estate property,
+comprising the steps of:
+collecting training data;
+developing a predictive model from the training data;
+storing the predictive model;
+obtaining individual property data for the real estate property;
+generating a signal indicative of an appraised value for the real estate
+property responsive to application of the obtained individual property
+data to the stored predictive model;
+developing a lower percentile error model from the training data;
+developing an upper percentile error model from the training data;
+storing the lower percentile error model;
+storing the upper percentile error model;
+generating a signal indicative of a lower bound value for the real
+estate property responsive to application of the obtained individual
+property data to the stored lower percentile error model; and
+generating a signal indicative of an upper bound value for the real
+estate property responsive to application of the obtained individual
+property data to the stored upper percentile error model.
+4. The computer-implemented process of claim 3, wherein:
+the lower percentile error model is a computer-implemented neural
+network; and
+the upper percentile error model is a computer-implemented neural network.
+5. A computer-implemented process for appraising a real estate property,
+comprising the steps of:
+obtaining individual property training data describing past real estate
+sales;
+aggregating the obtained property training data into area training data
+sets, each area training data set describing a plurality of sales within
+a geographic area;
+developing a predictive model from the training data;
+storing the predictive model;
+obtaining individual property data for the real estate property; and
+generating a signal indicative of an appraised value for the real estate
+property responsive to application of the obtained individual property
+data to the stored predictive model.
+6. The computer-implemented process of claim 5, wherein the step of
+aggregating is repeated using successively larger geographic areas until
+the number of sales within the geographic area over a predetermined time
+period exceeds a predetermined number.
+7. A computer-implemented process for appraising a real estate property,
+comprising the steps of:
+collecting training data;
+performing the iterative substeps of:
+applying input data to a predictive model;
+ranking output data produced thereby responsive to a measure of quality; and
+adjusting operation of the model responsive to the results of the
+ranking substep;
+storing the predictive model;
+obtaining individual property data for the real estate property; and
+generating a signal indicative of an appraised value for the real estate
+property responsive to application of the obtained individual property
+data to the stored predictive model.
+8. The computer-implemented process of claim 7, wherein the predictive
+model comprises a computer-implemented neural network having a plurality
+of interconnected processing elements, each processing element comprising:
+a plurality of inputs;
+a plurality of weights, each associated with a corresponding input to
+generate weighted inputs;
+combining means, coupled to the weighted inputs, for combining the
+weighted inputs; and
+a transfer function, coupled to the combining means, for processing the
+combined weighted inputs to produce an output.
+9. A computer-implemented process for appraising a real estate property,
+comprises the steps of:
+selecting a geographic area surrounding the real estate property;
+obtaining area data for the geographic area;
+collecting training data;
+developing a predictive model from the training data;
+storing the predictive model;
+obtaining individual property data for the real estate property; and
+generating a signal indicative of an appraised value for the real estate
+property responsive to application of the obtained individual property
+data and the obtained area data to the stored predictive model.
+10. The computer-implemented process of claim 9, further comprising the
+steps of:
+developing an error model from the training data; storing the error
+model; and
+generating a signal indicative of an error range for the appraised value
+responsive to application of the individual property data to the stored
+error model.
+11. The computer-implemented process of claim 10, wherein the error
+model comprises a regression model.
+12. The computer-implemented process of claim 9, further comprising the
+steps of:
+developing a lower percentile error model from the training data;
+developing an upper percentile error model from the training data;
+storing the lower percentile error model;
+storing the upper percentile error model;
+generating a signal indicative of a lower bound value for the real
+estate property responsive to application of the obtained individual
+property data to the stored lower percentile error model; and
+generating a signal indicative of an upper bound value for the real
+estate property responsive to application of the obtained individual
+property data to the stored upper percentile error model.
+13. The computer-implemented process of claim 12, wherein:
+the lower percentile error model is a computer-implemented neural
+network; and
+the upper percentile error model is a computer-implemented neural network.
+14. A computer-implemented process for appraising a real estate
+property, comprising the steps of:
+collecting training data;
+developing a predictive model from the training data;
+storing the predictive model;
+obtaining individual property data for the real estate property, the
+individual property data comprising a plurality of elements;
+generating a signal indicative of an appraised value for the real estate
+property responsive to application of the obtained individual property
+data to the stored predictive model; and
+for each element of the individual property data:
+determining a relative contribution of the element to the appraised value;
+determining from each relative contribution a reason code value; and
+generating a signal indicative of the reason code value.
+15. A system for appraising a real estate property, comprising:
+a predictive model for determining an appraised value for the real
+estate property;
+training data input means, coupled to the predictive model, for
+obtaining training data;
+training data aggregation means, coupled to the training data input
+means, for aggregating the training data into training data sets, each
+training data set describing a plurality of sales within a geographic area;
+a model development component, coupled to the predictive model, for
+training the predictive model from the training data;
+a storage device for storing the trained predictive model;
+individual property data input means, coupled to the predictive model,
+for obtaining individual property data and sending the individual
+property data to the predictive model;
+area data input means, coupled to the individual property data input
+means and to the predictive model, for selecting a geographic area
+surrounding the real estate property, obtaining area data, and sending
+the area data to the predictive model; and
+an output device, coupled to the predictive model, for generating a
+signal indicative of the appraised value.
+16. The system of claim 15, wherein the predictive model comprises a
+neural network.
+17. The system of claim 15, further comprising:
+an error model for determining an error range for the appraised value;
+and wherein:
+the training data input means is coupled to the error model;
+the model development component trains the error model from the training
+data;
+the storage device stores the trained error model;
+the individual property data input means is coupled to the error model
+and sends the individual property data to the error model;
+the area data input means is coupled to the error model and sends the
+area data to the error model; and
+the output device generates a signal indicative of the error range.
+18. The system of claim 17, wherein the error model comprises a
+regression model.
+19. The system of claim 15, further comprising:
+a lower percentile error model for determining an lower bound for the
+appraised value;
+an upper percentile error model for determining an upper bound for the
+appraised value;
+and wherein:
+the training data input means is coupled to the error model;
+the model development component trains the lower percentile error model
+and the upper percentile error model from the training data;
+the storage device stores the trained lower percentile error model and
+the trained upper percentile error model;
+the individual property data input means is coupled to the lower
+percentile error model and the upper percentile error model, and sends
+the individual property data to the lower percentile error model and the
+upper percentile error model;
+the area data input means is coupled to the lower percentile error model
+and the upper percentile error model and sends the area data to the
+lower percentile error model and the upper percentile error model; and
+the output device generates a signal indicative of the lower bound and
+the upper bound for the appraised value.
+20. The system of claim 19, wherein:
+the lower percentile error model comprises a neural network; and
+the upper percentile error model comprises a neural network.
+
+
+      Patent Citations (1)
+
+      <#title>
+
+Publication number Priority date Publication date Assignee Title
+US5235673A <#> *1991-04-18 1993-08-10 International Business Machines
+Corporation Enhanced neural network shell for application programs
+Family To Family Citations
+* Cited by examiner, † Cited by third party
+
+
+      Non-Patent Citations (24)
+
+      <#title>
+
+Title
+Andrews, R. L. and Ferguson, J. T., "Integrating Judgment with a
+Regression Appraisal", The Real Estate Appraiser and Analyst, Spring 1986.
+Andrews, R. L. and Ferguson, J. T., Integrating Judgment with a
+Regression Appraisal , The Real Estate Appraiser and Analyst , Spring
+1986. *
+Borst, Richard A., "Artificial Neural Networks: The Next
+Modeling/Calibration Technology for the Assessment Community?", Property
+Tax Journal, vol. 10 n 1, Mar. 1991, pp. 69-94.
+Borst, Richard A., Artificial Neural Networks: The Next
+Modeling/Calibration Technology for the Assessment Community , Property
+Tax Journal, vol. 10 n 1, Mar. 1991, pp. 69 94. *
+Bruce, R. W. and Sundell, D. J., "Multiple Regression Analysis: History
+and Applications in the Appraisal Professionp", The Real Estate Appraiser.
+Bruce, R. W. and Sundell, D. J., Multiple Regression Analysis: History
+and Applications in the Appraisal Professionp , The Real Estate Appraiser. *
+Cannaday, R. E., et al., "Weighting Schemes for Adjustment Grid Methods
+of Appraisal", Appraisal Review Journal.
+Cannaday, R. E., et al., Weighting Schemes for Adjustment Grid Methods
+of Appraisal , Appraisal Review Journal. *
+Carlson, E, "Self-Organizing Feature Maps for Appraisal of Land Value of
+Shore Parcels", Artificial Neural Networks, 1991.
+Carlson, E, Self Organizing Feature Maps for Appraisal of Land Value of
+Shore Parcels , Artificial Neural Networks, 1991. *
+Carlson, E., "Self-Organizing Features Maps for Appraisal of Land Value
+of Shore Parcels", Conference: Artificial Neural Networks, vol. 2 Jun.
+1991, pp. 1309-1312.
+Carlson, E., Self Organizing Features Maps for Appraisal of Land Value
+of Shore Parcels , Conference: Artificial Neural Networks, vol. 2 Jun.
+1991, pp. 1309 1312. *
+Collins, et al., "An Application of a Multiple Neural Network Learning
+System to Emulation of Mortgage Underwriting Judgements".
+Collins, et al., An Application of a Multiple Neural Network Learning
+System to Emulation of Mortgage Underwriting Judgements . *
+Cronan, et al., "Production System Development for Expert Systems Using
+a Recursive Partitioning Induction Approach: An Application to Mortgage,
+Commercial, and Consumer Lending", Decision Sciences, vol. 22 (1991).
+Cronan, et al., Production System Development for Expert Systems Using a
+Recursive Partitioning Induction Approach: An Application to Mortgage,
+Commercial, and Consumer Lending , Decision Sciences, vol. 22 (1991). *
+Gain, K. J. "Appraising by Probability Analysis", The Appraisal Journal,
+Jan. 1990.
+Gain, K. J. Appraising by Probability Analysis , The Appraisal Journal ,
+Jan. 1990. *
+Jackson, Howard F. Jr., "Artificial Int. Appl. for the Real Estate and
+Financial Industries", Real Estate Finance Journal, vol. v3n3, Winter
+1988; pp. 83-84.
+Jackson, Howard F. Jr., Artificial Int. Appl. for the Real Estate and
+Financial Industries , Real Estate Finance Journal, vol. v3n3, Winter
+1988; pp. 83 84. *
+O Toole, J., Appraisal Procedures and Real Estate Lending , The
+Appraisal Journal , Jan. 1989. *
+O'Toole, J., "Appraisal Procedures and Real Estate Lending", The
+Appraisal Journal, Jan. 1989.
+Weirick, W. N. and Ingram. F. J., "Functional Form Choice in Applied
+Real Estate Analysis", The Appraisal Journal, Jan. 1990.
+Weirick, W. N. and Ingram. F. J., Functional Form Choice in Applied Real
+Estate Analysis , The Appraisal Journal, Jan. 1990. *
+* Cited by examiner, † Cited by third party
+
+
+      Cited By (214)
+
+      <#title>
+
+Publication number Priority date Publication date Assignee Title
+US5680305A <#> *1995-02-16 1997-10-21 Apgar, Iv; Mahlon System and
+method for evaluating real estate
+US5745885A <#> *1993-10-08 1998-04-28 Human Capital Resources, Inc. Data
+storage medium for funding education by acquiring shares of students'f
+US5809484A <#> *1993-10-08 1998-09-15 Human Capital Resources, Inc.
+Method and apparatus for funding education by acquiring shares of
+students future earnings
+US5857174A <#> *1997-11-21 1999-01-05 Dugan; John W. Real estate
+appraisal method and device for standardizing real property marketing
+analysis by using pre-adjusted appraised comparable sales
+US5870721A <#> *1993-08-27 1999-02-09 Affinity Technology Group, Inc.
+System and method for real time loan approval
+WO1999021116A1 <#> *1997-10-20 1999-04-29 Indexco, Llc Method and system
+for creating index values supporting the settlement of risk transfer
+contracts
+US5940811A <#> *1993-08-27 1999-08-17 Affinity Technology Group, Inc.
+Closed loop financial transaction method and apparatus
+US6018723A <#> *1997-05-27 2000-01-25 Visa International Service
+Association Method and apparatus for pattern generation
+US6049773A <#> *1997-10-14 2000-04-11 Reclaim Technology And Services
+Limited Automated method for identification of reinsurance claims
+US6049793A <#> *1996-11-15 2000-04-11 Tomita; Kenichi System for
+building an artificial neural network
+US6058369A <#> *1991-03-11 2000-05-02 R.E. Rothstein Method and
+apparatus for monitoring the strength of a real estate market and making
+lending and insurance decisions therefrom
+US6112190A <#> *1997-08-19 2000-08-29 Citibank, N.A. Method and system
+for commercial credit analysis
+US6115694A <#> *1995-08-25 2000-09-05 General Electric Company Method
+for validating specified prices on real property
+US6119103A <#> *1997-05-27 2000-09-12 Visa International Service
+Association Financial risk prediction systems and methods therefor
+US6141648A <#> *1995-08-25 2000-10-31 General Electric Company Method
+for estimating the price per square foot value of real property
+US6167384A <#> *1998-09-01 2000-12-26 Graff/Ross Holdings Augmented
+system and methods for computing to support fractional contingent
+interests in property
+US6178406B1 <#> *1995-08-25 2001-01-23 General Electric Company Method
+for estimating the value of real property
+WO2001069573A1 <#> *2000-03-16 2001-09-20 University Of Southern
+California Adaptable smart techniques for user interaction
+US6304853B1 <#> 1998-09-21 2001-10-16 Peter J. Malnekoff Automated
+gemstone evaluation system
+US20010034628A1 <#> *1995-10-03 2001-10-25 Eder Jeffrey Scott Detailed
+method of and system for modeling and analyzing business improvement
+programs
+US20020013746A1 <#> *2000-07-31 2002-01-31 Realhome.Com Method and
+system of uniquely identifying real estate
+US20020046038A1 <#> *2000-02-15 2002-04-18 Mikos, Ltd. System and method
+for establishing value and financing of intellectual property
+US6393406B1 <#> 1995-10-03 2002-05-21 Value Mines, Inc. Method of and
+system for valving elements of a business enterprise
+US6401070B1 <#> *1996-10-11 2002-06-04 Freddie Mac System and method for
+providing house price forecasts based on repeat sales model
+US20020099650A1 <#> *2000-11-15 2002-07-25 Cole James A. Method for
+automatically processing a financial loan application and the system
+thereof
+US20020116365A1 <#> *2001-01-12 2002-08-22 A System And Method For
+Classifying Tangible Assets System and method for classifying tangible
+assets
+US20020198760A1 <#> *2001-06-05 2002-12-26 Carpenter John E. Demographic
+data development and processing
+US6505176B2 <#> 1998-06-12 2003-01-07 First American Credit Management
+Solutions, Inc. Workflow management system for an automated credit
+application system
+US20030046129A1 <#> *2001-09-06 2003-03-06 Simon Brecher Computerized
+system and method for acquiring and analyzing data pertaining to real
+estate
+US6532449B1 <#> *1998-09-14 2003-03-11 Ben Goertzel Method of numerical
+times series prediction based on non-numerical time series
+US20030115163A1 <#> *2001-12-10 2003-06-19 Moore George C. Methods and
+systems for estimating building reconstruction costs
+US6587841B1 <#> 1995-09-12 2003-07-01 First American Credit Management
+Solutions, Inc. Computer implemented automated credit application
+analysis and decision routing system
+US20030149658A1 <#> *2002-02-06 2003-08-07 Radian Group, Inc. System for
+providing a warranty for the automated valuation of property
+US6609118B1 <#> *1999-06-21 2003-08-19 General Electric Company Methods
+and systems for automated property valuation
+US6609109B1 <#> 1995-10-12 2003-08-19 Freddie Mac Method for combining
+house price forecasts
+US6633885B1 <#> *2000-01-04 2003-10-14 International Business Machines
+Corporation System and method for web-based querying
+US20030200102A1 <#> *2002-04-17 2003-10-23 Kamose Tao Real estate
+transaction method
+US20030200104A1 <#> *2002-04-19 2003-10-23 Heming William B. Value
+resolution process
+WO2003090130A1 <#> *2002-04-15 2003-10-30 Australian Property Ratings
+P/L. Risk assessment and measurement method and system
+US20040010443A1 <#> *2002-05-03 2004-01-15 May Andrew W. Method and
+financial product for estimating geographic mortgage risk
+US20040019517A1 <#> *2002-07-26 2004-01-29 Fidelity National Information
+Solutions, Inc. Method of establishing an insurable value estimate for a
+real estate property
+US20040049440A1 <#> *2002-09-11 2004-03-11 Masahiro Shinoda Real estate
+appraisal auxiliary system, a storage medium with a computer software
+program stored therein for use by a computer system to assist in
+appraising real estate, and a real estate appraisal auxiliary method
+US20040059653A1 <#> *2002-09-24 2004-03-25 Fidelity National Financial,
+Inc. System and method for rendering automated real property title
+decisions
+US20040073466A1 <#> *2002-10-10 2004-04-15 Qwest Communications
+International Inc. Systems and methods for evaluating telecommunications
+projects
+US20040078309A1 <#> *2002-10-10 2004-04-22 Qwest Communications
+International Inc. Systems and methods for evaluating business cases
+US20040138994A1 <#> *1997-09-03 2004-07-15 Defrancesco James Computer
+implemented automated credit application analysis and decision routing
+system
+US20040138997A1 <#> *1995-09-12 2004-07-15 Defrancesco James R.
+Automated credit application system
+US20040153330A1 <#> *2003-02-05 2004-08-05 Fidelity National Financial,
+Inc. System and method for evaluating future collateral risk quality of
+real estate
+US20040210509A1 <#> *1997-01-06 2004-10-21 Eder Jeff Scott Automated
+method of and system for identifying, measuring and enhancing categories
+of value for a value chain
+US6815362B1 <#> 2001-05-04 2004-11-09 Lam Research Corporation End point
+determination of process residues in wafer-less auto clean process using
+optical emission spectroscopy
+US20040225629A1 <#> *2002-12-10 2004-11-11 Eder Jeff Scott Entity
+centric computer system
+US6820060B1 <#> *1996-06-24 2004-11-16 Jack Eisner Apparatus for
+generating sales probability
+US6823320B1 <#> 2000-08-28 2004-11-23 Marc Rubin Automated valuation
+system and method
+US6823319B1 <#> 1999-07-19 2004-11-23 Home American Credit, Inc. System
+and method for automated process of deal structuring
+US20040243450A1 <#> *2003-06-02 2004-12-02 Bernard Thomas James Method,
+system, and computer program product for real property metric monitoring
+US6842738B1 <#> *1996-10-11 2005-01-11 Freddie Mac System and method for
+providing property value estimates
+US20050071266A1 <#> *2001-02-05 2005-03-31 Eder Jeff Scott Value and
+risk management system
+US6876955B1 <#> *2001-12-28 2005-04-05 Fannie Mae Method and apparatus
+for predicting and reporting a real estate value based on a weighted
+average of predicted values
+US20050075911A1 <#> *2003-10-03 2005-04-07 Affiliated Flood Group,
+L.L.C. Method for producing, selling, and delivering data required by
+mortgage lenders and servicers to comply with flood insurance monitoring
+requirements
+US20050108025A1 <#> *2003-11-14 2005-05-19 First American Real Estate
+Solutions, L.P. Method for mortgage fraud detection
+US20050119900A1 <#> *2002-06-12 2005-06-02 Eder Jeff S. Purchasing
+optimization system
+US20050119922A1 <#> *1997-01-06 2005-06-02 Eder Jeff S. Method of and
+system for analyzing, modeling and valuing elements of a business
+enterprise
+US20050144106A1 <#> *1997-12-10 2005-06-30 Eder Jeff S. Method of and
+system for defining and measuring the real options of a commercial
+enterprise
+US20050154657A1 <#> *2004-01-12 2005-07-14 Kim Christopher D.Y.
+Condition scoring for a property appraisal system
+US20050160658A1 <#> *2004-01-24 2005-07-28 Andrzej Buczkowski Fishing lure
+US20050171822A1 <#> *2004-02-03 2005-08-04 First American Real Estate
+Solutions, L.P. Responsive confidence scoring method for a proposed
+valuation of aproperty
+US6963854B1 <#> *1999-03-05 2005-11-08 Manugistics, Inc. Target pricing
+system
+US20050251468A1 <#> *2000-10-04 2005-11-10 Eder Jeff S Process
+management system
+US20050283429A1 <#> *2004-06-17 2005-12-22 Bates Michael R Scored
+negative file system and method
+US20050288955A1 <#> *2004-06-29 2005-12-29 Shark Hunter, L.L.C. Real
+estate transaction automation system and method
+US20060015357A1 <#> *2004-07-16 2006-01-19 First American Real Estate
+Solutions, L.P. Method and apparatus for spatiotemporal valuation of
+real estate
+US20060031150A1 <#> *2004-08-06 2006-02-09 General Electric Company
+Methods and systems for anomaly detection in small datasets
+US6999943B1 <#> 2000-03-10 2006-02-14 Doublecredit.Com, Inc. Routing
+methods and systems for increasing payment transaction volume and
+profitability
+US20060085234A1 <#> *2004-09-17 2006-04-20 First American Real Estate
+Solutions, L.P. Method and apparatus for constructing a forecast
+standard deviation for automated valuation modeling
+US20060149674A1 <#> *2004-12-30 2006-07-06 Mike Cook System and method
+for identity-based fraud detection for transactions using a plurality of
+historical identity records
+US20060175792A1 <#> *2004-04-13 2006-08-10 Kimir Seatpost Adjustable
+Bicycle Seat Post Assembly
+US20060184570A1 <#> *2000-10-17 2006-08-17 Eder Jeff S Value impact risk
+transfer products
+US7117137B1 <#> 1999-12-29 2006-10-03 Ge Harris Railway Electronics, Llc
+Adaptive train model
+US20060271472A1 <#> *2005-05-24 2006-11-30 First American Real Estate
+Solutions, L.P. Method and apparatus for advanced mortgage diagnostic
+analytics
+US20060277123A1 <#> *2003-07-31 2006-12-07 William Kennedy Integrated
+electronic credit application, contracting and securitization system and
+method
+US20060293915A1 <#> *2005-06-24 2006-12-28 Glenn Christopher E Method
+for optimizing accuracy of real estate valuations using automated
+valuation models
+US20070005383A1 <#> *2005-07-01 2007-01-04 Sheldon Kasower Method for
+monitoring and reporting changes in the value of real estate
+US20070005479A1 <#> *2005-07-04 2007-01-04 Hitachi, Ltd. Enterprise
+portfolio simulation system
+US20070033122A1 <#> *2005-08-04 2007-02-08 First American Real Estate
+Solutions, Lp Method and apparatus for computing selection criteria for
+an automated valuation model
+US7219078B2 <#> *2001-09-06 2007-05-15 Causeway Data Communications
+Limited Spatially-based valuation of property
+US20070136115A1 <#> *2005-12-13 2007-06-14 Deniz Senturk Doganaksoy
+Statistical pattern recognition and analysis
+US20070143132A1 <#> *2005-12-16 2007-06-21 Linne Mark R Automated
+valuation of a plurality of properties
+US7249146B2 <#> *2001-09-06 2007-07-24 Shimon Brecher Computerized
+system and method for acquiring and analyzing data pertaining to real
+estate
+US20070185906A1 <#> *2006-02-03 2007-08-09 Stan Humphries Automatically
+determining a current value for a home
+US20070185727A1 <#> *2006-02-03 2007-08-09 Ma Brian C Automatically
+determining a current value for a real estate property, such as a home,
+that is tailored to input from a human user, such as its owner
+US20070198278A1 <#> *2006-02-03 2007-08-23 David Cheng Automatically
+determining a current value for a real estate property, such as a home,
+that is tailored to input from a human user, such as its owner
+US20070226099A1 <#> *2005-12-13 2007-09-27 General Electric Company
+System and method for predicting the financial health of a business entity
+US20070282812A1 <#> *2006-03-08 2007-12-06 Superior Edge, Inc. Process
+execution support system
+US20070282824A1 <#> *2006-05-31 2007-12-06 Ellingsworth Martin E Method
+and system for classifying documents
+US20080015871A1 <#> *2002-04-18 2008-01-17 Jeff Scott Eder Varr system
+US20080033747A1 <#> *2006-07-31 2008-02-07 Ronald Stickleman Method for
+facilitating the ordering, completion and delivery of real estate
+appraisals
+US7333953B1 <#> 2000-10-31 2008-02-19 Wells Fargo Bank, N.A. Method and
+apparatus for integrated payments processing and decisioning for
+internet transactions
+US20080052186A1 <#> *2000-03-31 2008-02-28 Walker Jay S System for
+utilizing redemption information
+US7340431B1 <#> 2001-07-30 2008-03-04 Federal Home Loan Mortgage
+Corporation (Freddie Mac) Systems and methods for determining the value
+of assets
+US20080071588A1 <#> *1997-12-10 2008-03-20 Eder Jeff S Method of and
+system for analyzing, modeling and valuing elements of a business
+enterprise
+US20080077458A1 <#> *2006-09-19 2008-03-27 Andersen Timothy J Collecting
+and representing home attributes
+US7363266B1 <#> *2000-04-27 2008-04-22 General Electric Capital
+Corporation Systems and methods for asset valuation
+US20080114655A1 <#> *2001-08-23 2008-05-15 Advantage Inspection
+International, Llc Integrated home inspection, warranty and vendor
+information system
+US20080177671A1 <#> *2007-01-22 2008-07-24 Narinder Pal Sandhu
+Accelerated depreciation of separated assets with valuation guidance
+based on electronic market survey of electronic web and non-web
+marketplaces, tiny simple application (called a T-sap) used with a Real
+Estate Web Platform to provide intelligent guidance to investors to
+maximize their returns by enabling them to use tiny- simple applications
+that can be used standalone or mixed and matched.
+US7426499B2 <#> 2004-11-08 2008-09-16 Asset Trust, Inc. Search ranking
+system
+US20080256069A1 <#> *2002-09-09 2008-10-16 Jeffrey Scott Eder Complete
+Context(tm) Query System
+US7461020B2 <#> 2002-12-30 2008-12-02 Fannie Mae System and method for
+creating and tracking agreements for selling loans to a secondary market
+purchaser
+US7458508B1 <#> 2003-05-12 2008-12-02 Id Analytics, Inc. System and
+method for identity-based fraud detection
+US20090012803A1 <#> *2007-07-05 2009-01-08 Bishop Iii Moye Lynwood
+System and method for real estate spatial data analysis
+US20090024454A1 <#> *2002-02-12 2009-01-22 General Electric Capital
+Corporation System and method for evaluating real estate transactions
+US20090076888A1 <#> *2007-09-14 2009-03-19 Mark Oster Method and system
+for evaluating retail and related real estate development opportunities
+US7523065B2 <#> 2001-12-12 2009-04-21 Asset Trust, Inc. Risk transfer
+supply chain system
+US7562814B1 <#> 2003-05-12 2009-07-21 Id Analytics, Inc. System and
+method for identity-based fraud detection through graph anomaly detection
+US7580876B1 <#> *2000-07-13 2009-08-25 C4Cast.Com, Inc.
+Sensitivity/elasticity-based asset evaluation and screening
+US7593889B2 <#> 2002-12-30 2009-09-22 Fannie Mae System and method for
+processing data pertaining to financial assets
+US7593890B1 <#> 2003-11-04 2009-09-22 Freddie Mac Systems and methods
+for determining the likelihood that a loan closes
+US7593893B1 <#> 2000-06-13 2009-09-22 Fannie Mae Computerized systems
+and methods for facilitating the flow of capital through the housing
+finance industry
+US20090307050A1 <#> *2008-06-09 2009-12-10 Fournier Michael C Method for
+Identifying, Rating, and Promoting Desirable Real Estate Listings
+US7653592B1 <#> 2003-12-01 2010-01-26 Fannie Mae System and method for
+processing a loan
+US7657475B1 <#> 2003-12-31 2010-02-02 Fannie Mae Property investment
+rating system and method
+US7686214B1 <#> 2003-05-12 2010-03-30 Id Analytics, Inc. System and
+method for identity-based fraud detection using a plurality of
+historical identity records
+US7693765B2 <#> 2004-11-30 2010-04-06 Michael Dell Orfano System and
+method for creating electronic real estate registration
+US7702580B1 <#> 2000-06-13 2010-04-20 Fannie Mae System and method for
+mortgage loan pricing, sale and funding
+US7707089B1 <#> 2008-03-12 2010-04-27 Jpmorgan Chase, N.A. Method and
+system for automating fraud authorization strategies
+US7711574B1 <#> 2001-08-10 2010-05-04 Federal Home Loan Mortgage
+Corporation (Freddie Mac) System and method for providing automated
+value estimates of properties as of a specified previous time period
+US20100116780A1 <#> *2008-11-12 2010-05-13 Jae Min Myoung Method for
+patterning nanowires on substrate using novel sacrificial layer material
+US7730063B2 <#> 2002-12-10 2010-06-01 Asset Trust, Inc. Personalized
+medicine service
+US7729965B1 <#> *2005-04-26 2010-06-01 Fannie Mae Collateral valuation
+confidence scoring system
+US7742981B2 <#> 2002-12-30 2010-06-22 Fannie Mae Mortgage loan
+commitment system and method
+US7747519B2 <#> 2002-12-30 2010-06-29 Fannie Mae System and method for
+verifying loan data at delivery
+US7747526B1 <#> 2006-03-27 2010-06-29 Fannie Mae System and method for
+transferring mortgage loan servicing rights
+US7756778B1 <#> 2003-12-18 2010-07-13 Fannie Mae System and method for
+tracking and facilitating analysis of variance and recourse transactions
+US7765151B1 <#> 2000-06-13 2010-07-27 Fannie Mae Computerized systems
+and methods for facilitating the flow of capital through the housing
+finance industry
+US7765125B1 <#> 2005-01-12 2010-07-27 Fannie Mae Trunk branch repeated
+transaction index for property valuation
+US7778841B1 <#> 2003-07-16 2010-08-17 Carfax, Inc. System and method for
+generating information relating to histories for a plurality of vehicles
+US7783565B1 <#> *2006-11-08 2010-08-24 Fannie Mae Method and system for
+assessing repurchase risk
+US7788186B1 <#> 2004-03-10 2010-08-31 Fannie Mae Method and system for
+automated property valuation adjustment
+US7797166B1 <#> 2002-10-30 2010-09-14 Federal Home Loan Mortgage
+Corporation (Freddie Mac) Systems and methods for generating a model for
+income scoring
+US7801809B1 <#> 2005-06-24 2010-09-21 Fannie Mae System and method for
+management of delegated real estate project reviews
+US7809633B2 <#> 2002-12-30 2010-10-05 Fannie Mae System and method for
+pricing loans in the secondary mortgage market
+US7809635B2 <#> 2005-08-05 2010-10-05 Corelogic Information Solutions,
+Inc. Method and system for updating a loan portfolio with information on
+secondary liens
+US7809591B1 <#> 2008-08-15 2010-10-05 United Services Automobile
+Association (Usaa) Systems and methods for implementing real estate
+value insurance
+US7822691B1 <#> 2001-12-28 2010-10-26 Fannie Mae Method for determining
+house prices indices
+US7822680B1 <#> 2003-12-31 2010-10-26 Fannie Mae System and method for
+managing data pertaining to a plurality of financial assets for
+multifamily and housing developments
+US20100274708A1 <#> *2008-05-29 2010-10-28 Allen Lewis J Apparatus and
+method for creating a collateral risk score and value tolerance for loan
+applications
+US7831492B1 <#> 2005-01-12 2010-11-09 Fannie Mae Multiple transaction
+property valuation
+US7835919B1 <#> *2001-08-10 2010-11-16 Freddie Mac Systems and methods
+for home value scoring
+US7844478B1 <#> 2008-08-15 2010-11-30 United Services Automobile
+Association (Usaa) Systems and methods for implementing real estate
+value insurance
+US7860787B2 <#> 2002-12-30 2010-12-28 Fannie Mae System and method for
+modifying attribute data pertaining to financial assets in a data
+processing system
+US7865416B1 <#> 2006-12-05 2011-01-04 Ross/Graff Holdings Llc
+Securitized real-property-related asset system
+US7877287B1 <#> *1997-06-12 2011-01-25 Bailey G William System and
+method for selecting multiple sites using weighted bands
+US20110017847A1 <#> *2009-07-22 2011-01-27 Charles Truan Material
+spreader utilizing vehicle power and having operational wireless control
+US7885889B2 <#> 2002-12-30 2011-02-08 Fannie Mae System and method for
+processing data pertaining to financial assets
+US7885879B1 <#> 2008-08-15 2011-02-08 United Services Automobile
+Association (Usaa) Systems and methods for implementing real estate
+value insurance
+US7890403B1 <#> *2008-08-15 2011-02-15 United Services Automobile
+Association (Usaa) Systems and methods for implementing real estate
+future market value insurance
+US20110069646A1 <#> *2000-10-03 2011-03-24 At&T Intellectual Property
+Ii, L.P. Intra-premises wireless broadband service using lumped and
+distributed wireless radiation from cable source input
+US20110087520A1 <#> *2009-10-12 2011-04-14 Damon Randolph Race Systems,
+methods, and computer-readable storage media for valuing an existing or
+prospective customer based on normalized and weighted measures or
+attributes
+US7930254B1 <#> 2005-08-05 2011-04-19 Fannie Mae Property value
+estimation using feature distance from comparable sales
+US20110106693A1 <#> *2001-11-13 2011-05-05 Halper Steven C Automated
+Loan Risk Assessment System and Method
+US7970722B1 <#> 1999-11-08 2011-06-28 Aloft Media, Llc System, method
+and computer program product for a collaborative decision platform
+US7983925B1 <#> 2001-12-31 2011-07-19 Fannie Mae Efficient computation
+method for determining house price indices
+US8046298B1 <#> 2003-07-21 2011-10-25 Fannie Mae Systems and methods for
+facilitating the flow of capital through the housing finance industry
+US8065207B1 <#> *1999-08-27 2011-11-22 Federal Home Loan Mortgage Corp.
+Guarantee certificates
+US8140421B1 <#> *2008-01-09 2012-03-20 Zillow, Inc. Automatically
+determining a current value for a home
+US8145567B2 <#> 2000-10-31 2012-03-27 Wells Fargo Bank, N.A. Transaction
+ID system and process
+US20120303536A1 <#> *2011-05-25 2012-11-29 Corelogic Information
+Solutions, Inc. Property complexity scoring system, method, and computer
+program storage device
+US20120323799A1 <#> *2011-06-20 2012-12-20 Fannie Mae Modeling
+comparable properties where the subject property is a condominium property
+US8342928B1 <#> *2007-06-01 2013-01-01 Realius, Inc. Market-based
+simulation game and system
+US20130006876A1 <#> *2011-06-30 2013-01-03 Michael Swinson System,
+method and computer program product for geo-specific vehicle pricing
+US8386377B1 <#> 2003-05-12 2013-02-26 Id Analytics, Inc. System and
+method for credit scoring using an identity network connectivity
+US8386381B1 <#> 2009-12-16 2013-02-26 Jpmorgan Chase Bank, N.A. Method
+and system for detecting, monitoring and addressing data compromises
+US20130066682A1 <#> *2011-09-13 2013-03-14 Eddie Godshalk Method and
+system for dynamic geospatial mapping and visualization
+US20130080340A1 <#> *2011-09-23 2013-03-28 Elif Onmus-Baykal Indexing
+and adjusting for property condition in an automated valuation model
+US8412559B2 <#> 2011-01-19 2013-04-02 United Parcel Service Of America,
+Inc. Systems and methods for improved calculation of coefficient for
+price sensitivity
+US8423450B2 <#> 2002-12-30 2013-04-16 Fannie Mae System and method for
+processing data pertaining to financial assets
+US20130144796A1 <#> *2011-12-06 2013-06-06 Fannie Mae Assigning
+confidence values to automated property valuations by using the
+non-typical property characteristics of the properties
+US20130166354A1 <#> *2011-12-22 2013-06-27 Yahoo! Inc. Valuation estimation
+US8498915B2 <#> 2006-04-02 2013-07-30 Asset Reliance, Inc. Data
+processing framework for financial services
+US8510190B1 <#> 2006-12-05 2013-08-13 Ross/Graff Holdings Llc
+Securitized-real-property-related asset system
+US8515861B2 <#> 2002-12-30 2013-08-20 Fannie Mae System and method for
+facilitating sale of a loan to a secondary market purchaser
+US8554631B1 <#> 2010-07-02 2013-10-08 Jpmorgan Chase Bank, N.A. Method
+and system for determining point of sale authorization
+US8583562B1 <#> 2008-10-01 2013-11-12 RealAgile, Inc. Predicting real
+estate and other transactions
+US20130339094A1 <#> *2012-06-13 2013-12-19 Fannie Mae System and method
+for including and excluding specific comparables
+US20130346151A1 <#> *2012-06-22 2013-12-26 Corelogic Solutions, Llc
+Systems and methods for automated valuation of real estate developments
+US8650067B1 <#> *2007-02-27 2014-02-11 Richard Moss Systems, methods,
+and computer program product for real estate value analysis
+US8655106B2 <#> 2011-10-24 2014-02-18 Fannie Mae Automated valuation
+model with customizable neighborhood determination
+US8666879B1 <#> 2002-12-30 2014-03-04 Fannie Mae Method and system for
+pricing forward commitments for mortgage loans and for buying committed
+loans
+US8713025B2 <#> 2005-03-31 2014-04-29 Square Halt Solutions, Limited
+Liability Company Complete context search system
+US8725584B1 <#> 2008-06-06 2014-05-13 Carfax, Inc. Tool for selling and
+purchasing vehicle history reports
+US8732004B1 <#> 2004-09-22 2014-05-20 Experian Information Solutions,
+Inc. Automated analysis of data to generate prospect notifications based
+on trigger events
+US8738388B1 <#> 2005-01-12 2014-05-27 Fannie Mae Market based data cleaning
+US20140164260A1 <#> *2012-12-11 2014-06-12 Corelogic Solutions, Llc
+Systems and methods for selecting comparable real estate properties
+US8856894B1 <#> 2012-11-28 2014-10-07 Consumerinfo.Com, Inc. Always on
+authentication
+US8918891B2 <#> 2012-06-12 2014-12-23 Id Analytics, Inc. Identity
+manipulation detection system and method
+WO2015026740A1 <#> *2013-08-20 2015-02-26 Dozier Raymond L Method and
+system for computer assisted valuation modeling
+US20150100508A1 <#> *2013-10-07 2015-04-09 State Farm Mutual Automobile
+Insurance Company Systems and methods to assess the condition of a property
+US20150112874A1 <#> *2013-10-17 2015-04-23 Corelogic Solutions, Llc
+Method and system for performing owner association analytics
+US9053590B1 <#> 2008-10-23 2015-06-09 Experian Information Solutions,
+Inc. System and method for monitoring and predicting vehicle attributes
+US9058560B2 <#> 2011-02-17 2015-06-16 Superior Edge, Inc. Methods,
+apparatus and systems for generating, updating and executing an invasive
+species control plan
+US9076185B2 <#> 2004-11-30 2015-07-07 Michael Dell Orfano System and
+method for managing electronic real estate registry information
+US9113590B2 <#> 2012-08-06 2015-08-25 Superior Edge, Inc. Methods,
+apparatus, and systems for determining in-season crop status in an
+agricultural crop and alerting users
+US9311726B2 <#> 2012-08-30 2016-04-12 Fannie Mae System and method for
+mapping and comparing choroplethic housing statistics
+US9449022B2 <#> 2011-02-04 2016-09-20 Fannie Mae Ranking and displaying
+appraiser-chosen comparables against model-chosen comparables
+US9489576B2 <#> 2014-03-26 2016-11-08 F12 Solutions, LLC. Crop stand
+analysis
+US9547866B2 <#> 2013-03-14 2017-01-17 The Nielsen Company (Us), Llc
+Methods and apparatus to estimate demography based on aerial images
+US9558519B1 <#> 2011-04-29 2017-01-31 Consumerinfo.Com, Inc. Exposing
+reporting cycle information
+US9569797B1 <#> 2002-05-30 2017-02-14 Consumerinfo.Com, Inc. Systems and
+methods of presenting simulated credit score information
+US9652478B2 <#> 2014-05-30 2017-05-16 Fannie Mae Method and apparatus
+for generating an electronic document schema from a relational model
+US9690820B1 <#> 2007-09-27 2017-06-27 Experian Information Solutions,
+Inc. Database system for triggering event notifications based on updates
+to database records
+US9727904B2 <#> 2008-09-09 2017-08-08 Truecar, Inc. System and method
+for sales generation in conjunction with a vehicle data system
+US9760840B1 <#> 2011-10-27 2017-09-12 Tango Analytics LLC Geospatial
+data analysis
+US9767491B2 <#> 2008-09-09 2017-09-19 Truecar, Inc. System and method
+for the utilization of pricing models in the aggregation, analysis,
+presentation and monetization of pricing data for vehicles and other
+commodities
+US9779453B1 <#> *2005-04-28 2017-10-03 Federal Home Loan Mortgage
+Corporation (Freddie Mac) Systems and methods for adjusting the value of
+distressed properties
+US9818140B2 <#> 2014-08-15 2017-11-14 Truecar, Inc. System and method
+for sales generation in conjunction with a vehicle data system
+Family To Family Citations
+* Cited by examiner, † Cited by third party, ‡ Family to family citation
+
+
+      Similar Documents
+
+      <#title>
+
+Publication Publication Date Title
+Gustavson et al. <#> 1999 Selection and modeling of sustainable
+development indicators: a case study of the Fraser River Basin, British
+Columbia
+Pendall et al. <#> 2006 From traditional to reformed: A review of the
+land use regulations in the nation’s 50 largest metropolitan areas
+Gamble et al. <#> 1982 Effects of nuclear power plants on residential
+property values
+Pagourtzi et al. <#> 2003 Real estate appraisal: a review of valuation
+methods
+Schneider et al. <#> 2001 Modeling land-use change in the Ipswich
+watershed, Massachusetts, USA
+Taylor <#> 2003 The hedonic method
+Blunch et al. <#> 2001 Revisiting the link between poverty and child
+labor: the Ghanaian experience
+US6609109B1 <#> 2003-08-19 Method for combining house price forecasts
+US20040019517A1 <#> 2004-01-29 Method of establishing an insurable value
+estimate for a real estate property
+Mudambi <#> 1998 The role of duration in multinational investment
+strategies
+Siddiqi <#> 2012 Credit risk scorecards: developing and implementing
+intelligent credit scoring
+US6850892B1 <#> 2005-02-01 Apparatus and method for allocating resources
+to improve quality of an organization
+US7039608B2 <#> 2006-05-02 Rapid valuation of portfolios of assets such
+as financial instruments
+Limsombunchai <#> 2004 House price prediction: hedonic price model vs.
+artificial neural network
+US7120599B2 <#> 2006-10-10 Methods and systems for modeling using
+classification and regression trees
+US5680305A <#> 1997-10-21 System and method for evaluating real estate
+Stephen et al. <#> 2001 Getting the Scale Right: A Comparison of
+Analytical Methods for Vulnerability Assessment and Household‐level
+Targeting
+Morley et al. <#> 2001 Comparative performance measurement
+US20020032585A1 <#> 2002-03-14 Valuation prediction models in situations
+with missing inputs
+US20010037278A1 <#> 2001-11-01 Methods and apparatus for simulating
+competitive bidding yield
+US20030110112A1 <#> 2003-06-12 Methods and systems for automated
+inferred valuation of credit scoring
+US20020052815A1 <#> 2002-05-02 Methods and apparatus for automated
+underwriting of segmentable portfolio assets
+US20020116309A1 <#> 2002-08-22 Methods and systems for efficiently
+sampling portfolios for optimal underwriting
+Clark et al. <#> 1997 Historical preservation districts and home sale
+prices: evidence from the Sacramento housing market
+US20020049653A1 <#> 2002-04-25 Methods and systems for quantifying cash
+flow recovery and risk
+
+
+      Priority And Related Applications
+
+
+      Priority Applications (1)
+
+      <#title>
+
+Application Priority date Filing date Title
+US07963908 <#>1992-10-19 1992-10-19 Real estate appraisal using
+predictive modeling
+
+
+      Applications Claiming Priority (1)
+
+      <#title>
+
+Application Filing date Title
+US07963908 <#>1992-10-19 Real estate appraisal using predictive modeling
+
+
+      Legal Events
+
+      <#title>
+
+Date Code Title Description
+1993-01-13 AS Assignment
+
+*Owner name*: HNC, INC., CALIFORNIA
+
+*Free format text*: ASSIGNMENT OF ASSIGNORS INTEREST.;ASSIGNORS:JOST,
+ALLEN;NELSON, JENNIFER;GOPINATHAN, KRISHNA;AND OTHERS;REEL/FRAME:006426/0801
+
+*Effective date*: 19921027
+
+1995-06-23 AS Assignment
+
+*Owner name*: HNC SOFTWARE INC., A DE CORP., CALIFORNIA
+
+*Free format text*: MERGER;ASSIGNOR:HNC SOFTWARE, INC., A CA
+CORP.;REEL/FRAME:007521/0195
+
+*Effective date*: 19950614
+
+1998-05-01 FPAY Fee payment
+
+*Year of fee payment*: 4
+
+2000-08-07 AS Assignment
+
+*Owner name*: TRANSAMERICA INTELLITECH, INC., A CORP. OF DELAWAR
+
+*Free format text*: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HNC
+SOFTWARE INC., A CORP. OF DELAWARE;REEL/FRAME:010892/0956
+
+*Effective date*: 20000731
+
+2000-08-28 AS Assignment
+
+*Owner name*: FIRST AMERICAN REAL ESTATE SOLUTIONS, L.P., CALIFO
+
+*Free format text*: ASSIGNMENT OF ASSIGNORS
+INTEREST;ASSIGNOR:TRANSAMERICA INTELLITECH, INC.;REEL/FRAME:011064/0471
+
+*Effective date*: 20000801
+
+2001-02-08 AS Assignment
+
+*Owner name*: FIRST AMERICAN REAL ESTATE SOLUTIONS, L.P., CALIFO
+
+*Free format text*: ASSIGNMENT OF ASSIGNORS
+INTEREST;ASSIGNOR:TRANSAMERICA INTELLITECH, INC.;REEL/FRAME:011511/0190
+
+*Effective date*: 20000801
+
+2002-04-26 FPAY Fee payment
+
+*Year of fee payment*: 8
+
+2002-05-21 REMI Maintenance fee reminder mailed
+2006-04-13 FPAY Fee payment
+
+*Year of fee payment*: 12
+
+2007-04-18 AS Assignment
+
+*Owner name*: FIRST AMERICAN CORELOGIC, INC., CALIFORNIA
+
+*Free format text*: MERGER;ASSIGNOR:FIRST AMERICAN REAL ESTATE
+SOLUTIONS, L.P.;REEL/FRAME:019171/0485
+
+*Effective date*: 20070202
+
+*Owner name*: FIRST AMERICAN CORELOGIC, INC.,CALIFORNIA
+
+*Free format text*: MERGER;ASSIGNOR:FIRST AMERICAN REAL ESTATE
+SOLUTIONS, L.P.;REEL/FRAME:019171/0485
+
+*Effective date*: 20070202
+
+2007-05-29 AS Assignment
+
+*Owner name*: FIRST AMERICAN CORELOGIC HOLIDNGS, INC., CALIFORNI
+
+*Free format text*: CHANGE OF NAME;ASSIGNOR:FIRST AMERICAN CORELOGIC,
+INC.;REEL/FRAME:019341/0844
+
+*Effective date*: 20070522
+
+*Owner name*: FIRST AMERICAN CORELOGIC HOLDINGS, INC., CALIFORNI
+
+*Free format text*: CHANGE OF NAME;ASSIGNOR:FIRST AMERICAN CORELOGIC,
+INC.;REEL/FRAME:019341/0844
+
+*Effective date*: 20070522
+
+*Owner name*: FIRST AMERICAN CORELOGIC HOLIDNGS, INC.,CALIFORNIA
+
+*Free format text*: CHANGE OF NAME;ASSIGNOR:FIRST AMERICAN CORELOGIC,
+INC.;REEL/FRAME:019341/0844
+
+*Effective date*: 20070522
+
+*Owner name*: FIRST AMERICAN CORELOGIC HOLDINGS, INC.,CALIFORNIA
+
+*Free format text*: CHANGE OF NAME;ASSIGNOR:FIRST AMERICAN CORELOGIC,
+INC.;REEL/FRAME:019341/0844
+
+*Effective date*: 20070522
+
+2007-07-13 AS Assignment
+
+*Owner name*: FIRST AMERICAN CORELOGIC, INC., CALIFORNIA
+
+*Free format text*: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:FIRST
+AMERICAN CORELOGIC HOLDINGS, INC.;REEL/FRAME:019550/0609
+
+*Effective date*: 20070712
+
+*Owner name*: FIRST AMERICAN CORELOGIC, INC.,CALIFORNIA
+
+*Free format text*: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:FIRST
+AMERICAN CORELOGIC HOLDINGS, INC.;REEL/FRAME:019550/0609
+
+*Effective date*: 20070712
+
+2007-12-27 AS Assignment
+
+*Owner name*: AMERICAN CORELOGIC HOLDINGS, INC., CALIFORNIA
+
+*Free format text*: SECURITY INTEREST;ASSIGNOR:HSBC BANK USA, NATIONAL
+ASSOCIATION;REEL/FRAME:020339/0783
+
+*Effective date*: 20071212
+
+*Owner name*: FIRST AMERICAN CORELOGIC HOLDINGS,INC.,CALIFORNIA
+
+*Free format text*: SECURITY INTEREST;ASSIGNOR:HSBC BANK USA, NATIONAL
+ASSOCIATION;REEL/FRAME:020339/0783
+
+*Effective date*: 20071212
+
+*Owner name*: FIRST AMERICAN CORELOGIC HOLDINGS,INC., CALIFORNIA
+
+*Free format text*: SECURITY INTEREST;ASSIGNOR:HSBC BANK USA, NATIONAL
+ASSOCIATION;REEL/FRAME:020339/0783
+
+*Effective date*: 20071212
+
+2009-08-28 SULP Surcharge for late payment
+2010-04-16 AS Assignment
+
+*Owner name*: HNC SOFTWARE INC.,CALIFORNIA
+
+*Free format text*: CHANGE OF NAME;ASSIGNOR:HNC, INC.;REEL/FRAME:024244/0095
+
+*Effective date*: 19940420
+
+2010-05-14 AS Assignment
+
+*Owner name*: HSBC BANK USA, NATIONAL ASSOCIATION,NEW YORK
+
+*Free format text*: CORRECTIVE SECURITY AGREEMENT TO CORRECT THE
+ASSIGNOR AND ASSIGNEE. REEL 020339 FRAME 0783;ASSIGNOR:FIRST AMERICAN
+CORELOGIC HOLDINGS, INC.;REEL/FRAME:024390/0090
+
+*Effective date*: 20071227
+
+*Owner name*: HSBC BANK USA, NATIONAL ASSOCIATION, NEW YORK
+
+*Free format text*: CORRECTIVE SECURITY AGREEMENT TO CORRECT THE
+ASSIGNOR AND ASSIGNEE. REEL 020339 FRAME 0783;ASSIGNOR:FIRST AMERICAN
+CORELOGIC HOLDINGS, INC.;REEL/FRAME:024390/0090
+
+*Effective date*: 20071227
+
+2010-06-14 AS Assignment
+
+*Owner name*: JPMORGAN CHASE BANK, N.A., AS COLLATERAL AGENT,TEX
+
+*Free format text*: SECURITY AGREEMENT;ASSIGNOR:FIRST AMERICAN
+CORELOGIC, INC.;REEL/FRAME:024529/0157
+
+*Effective date*: 20100602
+
+*Owner name*: JPMORGAN CHASE BANK, N.A., AS COLLATERAL AGENT, TE
+
+*Free format text*: SECURITY AGREEMENT;ASSIGNOR:FIRST AMERICAN
+CORELOGIC, INC.;REEL/FRAME:024529/0157
+
+*Effective date*: 20100602
+
+2010-08-25 AS Assignment
+
+*Owner name*: CORELOGIC INFORMATION SOLUTIONS, INC., CALIFORNIA
+
+*Free format text*: CHANGE OF NAME;ASSIGNOR:FIRST AMERICAN CORELOGIC,
+INC.;REEL/FRAME:024879/0458
+
+*Effective date*: 20100820
+
+2010-08-31 AS Assignment
+
+*Owner name*: CORELOGIC INFORMATION SOLUTIONS, INC., CALIFORNIA
+
+*Free format text*: CHANGE OF NAME;ASSIGNOR:FIRST AMERICAN CORELOGIC,
+INC.;REEL/FRAME:024915/0075
+
+*Effective date*: 20100820
+
+2011-06-24 AS Assignment
+
+*Owner name*: BANK OF AMERICA, N.A., AS COLLATERAL AGENT, NORTH
+
+*Free format text*: SECURITY AGREEMENT;ASSIGNOR:CORELOGIC INFORMATION
+SOLUTIONS, INC.;REEL/FRAME:026499/0118
+
+*Effective date*: 20110523
+
+2012-04-18 AS Assignment
+
+*Owner name*: CORELOGIC SOLUTIONS, LLC, CALIFORNIA
+
+*Free format text*: MERGER;ASSIGNOR:CORELOGIC INFORMATION SOLUTIONS,
+INC.;REEL/FRAME:028067/0267
+
+*Effective date*: 20111216
+
+2012-12-25 CBM Aia trial proceeding filed before patent trial and appeal
+board: covered business methods
+
+*Free format text*: TRIAL NO: CBM2012-00007
+
+*Opponent name*: INTERTHINX, INC.
+
+*Effective date*: 20120919
+
+2014-01-07 CBM Aia trial proceeding filed before patent trial and appeal
+board: covered business methods
+
+*Free format text*: TRIAL NO: CBM2014-00027
+
+*Opponent name*: REDFIN CORPORATION
+
+*Effective date*: 20131109
+
+2014-05-28 AS Assignment
+
+*Owner name*: CORELOGIC, INC. (F/K/A FIRST AMERICAN CORPORATION)
+
+*Free format text*: RELEASE OF SECURITY INTERESTS RECORDED PRIOR TO JUNE
+25, 2011;ASSIGNOR:BANK OF AMERICA, N.A., AS ADMINISTRATIVE AND
+COLLATERAL AGENT;REEL/FRAME:033034/0292
+
+*Effective date*: 20140404
+
+*Owner name*: CORELOGIC SOLUTIONS, LLC (F/K/A MARKETLINX, INC. A
+
+*Free format text*: RELEASE OF SECURITY INTERESTS RECORDED PRIOR TO JUNE
+25, 2011;ASSIGNOR:BANK OF AMERICA, N.A., AS ADMINISTRATIVE AND
+COLLATERAL AGENT;REEL/FRAME:033034/0292
+
+*Effective date*: 20140404
+
+*Owner name*: CORELOGIC TAX SERVICES, LLC, CALIFORNIA
+
+*Free format text*: RELEASE OF SECURITY INTERESTS RECORDED PRIOR TO JUNE
+25, 2011;ASSIGNOR:BANK OF AMERICA, N.A., AS ADMINISTRATIVE AND
+COLLATERAL AGENT;REEL/FRAME:033034/0292
+
+*Effective date*: 20140404
+
+*Owner name*: CORELOGIC VALUATION SERVICES, LLC (F/K/A EAPPRAISE
+
+*Free format text*: RELEASE OF SECURITY INTERESTS RECORDED PRIOR TO JUNE
+25, 2011;ASSIGNOR:BANK OF AMERICA, N.A., AS ADMINISTRATIVE AND
+COLLATERAL AGENT;REEL/FRAME:033034/0292
+
+*Effective date*: 20140404
+
+*Owner name*: CORELOGIC DORADO, LLC (F/K/A CORELOGIC DORADO CORP
+
+*Free format text*: RELEASE OF SECURITY INTERESTS RECORDED PRIOR TO JUNE
+25, 2011;ASSIGNOR:BANK OF AMERICA, N.A., AS ADMINISTRATIVE AND
+COLLATERAL AGENT;REEL/FRAME:033034/0292
+
+*Effective date*: 20140404
+
+*Owner name*: CORELOGIC REAL ESTATE INFORMATION SERVICES, LLC (F
+
+*Free format text*: RELEASE OF SECURITY INTERESTS RECORDED PRIOR TO JUNE
+25, 2011;ASSIGNOR:BANK OF AMERICA, N.A., AS ADMINISTRATIVE AND
+COLLATERAL AGENT;REEL/FRAME:033034/0292
+
+*Effective date*: 20140404
+
+*Owner name*: CORELOGIC INFORMATION RESOURCES, LLC (F/K/A CORELO
+
+*Free format text*: RELEASE OF SECURITY INTERESTS RECORDED PRIOR TO JUNE
+25, 2011;ASSIGNOR:BANK OF AMERICA, N.A., AS ADMINISTRATIVE AND
+COLLATERAL AGENT;REEL/FRAME:033034/0292
+
+*Effective date*: 20140404
+
+2014-06-18 AS Assignment
+
+*Owner name*: CORELOGIC VALUATION SERVICES, LLC (F/K/A EAPPRAISE
+
+*Free format text*: CORRECTIVE ASSIGNMENT TO CORRECT THE EXECUTION DATE
+FROM 04/04/2014 TO 04/09/2014 PREVIOUSLY RECORDED ON REEL 033034 FRAME
+0292. ASSIGNOR(S) HEREBY CONFIRMS THE RELEASE OF SECURITY INTERESTS
+RECORDED PRIOR TO JUNE 25, 2011;ASSIGNOR:BANK OF AMERICA, N.A., AS
+ADMINISTRATIVE AND COLLATERAL AGENT;REEL/FRAME:033198/0553
+
+*Effective date*: 20140409
+
+*Owner name*: CORELOGIC DORADO, LLC (F/K/A CORELOGIC DORADO CORP
+
+*Free format text*: CORRECTIVE ASSIGNMENT TO CORRECT THE EXECUTION DATE
+FROM 04/04/2014 TO 04/09/2014 PREVIOUSLY RECORDED ON REEL 033034 FRAME
+0292. ASSIGNOR(S) HEREBY CONFIRMS THE RELEASE OF SECURITY INTERESTS
+RECORDED PRIOR TO JUNE 25, 2011;ASSIGNOR:BANK OF AMERICA, N.A., AS
+ADMINISTRATIVE AND COLLATERAL AGENT;REEL/FRAME:033198/0553
+
+*Effective date*: 20140409
+
+*Owner name*: CORELOGIC SOLUTIONS, LLC (F/K/A MARKETLINX, INC. A
+
+*Free format text*: CORRECTIVE ASSIGNMENT TO CORRECT THE EXECUTION DATE
+FROM 04/04/2014 TO 04/09/2014 PREVIOUSLY RECORDED ON REEL 033034 FRAME
+0292. ASSIGNOR(S) HEREBY CONFIRMS THE RELEASE OF SECURITY INTERESTS
+RECORDED PRIOR TO JUNE 25, 2011;ASSIGNOR:BANK OF AMERICA, N.A., AS
+ADMINISTRATIVE AND COLLATERAL AGENT;REEL/FRAME:033198/0553
+
+*Effective date*: 20140409
+
+*Owner name*: CORELOGIC TAX SERVICES, LLC, CALIFORNIA
+
+*Free format text*: CORRECTIVE ASSIGNMENT TO CORRECT THE EXECUTION DATE
+FROM 04/04/2014 TO 04/09/2014 PREVIOUSLY RECORDED ON REEL 033034 FRAME
+0292. ASSIGNOR(S) HEREBY CONFIRMS THE RELEASE OF SECURITY INTERESTS
+RECORDED PRIOR TO JUNE 25, 2011;ASSIGNOR:BANK OF AMERICA, N.A., AS
+ADMINISTRATIVE AND COLLATERAL AGENT;REEL/FRAME:033198/0553
+
+*Effective date*: 20140409
+
+*Owner name*: CORELOGIC INFORMATION RESOURCES, LLC (F/K/A CORELO
+
+*Free format text*: CORRECTIVE ASSIGNMENT TO CORRECT THE EXECUTION DATE
+FROM 04/04/2014 TO 04/09/2014 PREVIOUSLY RECORDED ON REEL 033034 FRAME
+0292. ASSIGNOR(S) HEREBY CONFIRMS THE RELEASE OF SECURITY INTERESTS
+RECORDED PRIOR TO JUNE 25, 2011;ASSIGNOR:BANK OF AMERICA, N.A., AS
+ADMINISTRATIVE AND COLLATERAL AGENT;REEL/FRAME:033198/0553
+
+*Effective date*: 20140409
+
+*Owner name*: CORELOGIC, INC. (F/K/A FIRST AMERICAN CORPORATION)
+
+*Free format text*: CORRECTIVE ASSIGNMENT TO CORRECT THE EXECUTION DATE
+FROM 04/04/2014 TO 04/09/2014 PREVIOUSLY RECORDED ON REEL 033034 FRAME
+0292. ASSIGNOR(S) HEREBY CONFIRMS THE RELEASE OF SECURITY INTERESTS
+RECORDED PRIOR TO JUNE 25, 2011;ASSIGNOR:BANK OF AMERICA, N.A., AS
+ADMINISTRATIVE AND COLLATERAL AGENT;REEL/FRAME:033198/0553
+
+*Effective date*: 20140409
+
+*Owner name*: CORELOGIC REAL ESTATE INFORMATION SERVICES, LLC (F
+
+*Free format text*: CORRECTIVE ASSIGNMENT TO CORRECT THE EXECUTION DATE
+FROM 04/04/2014 TO 04/09/2014 PREVIOUSLY RECORDED ON REEL 033034 FRAME
+0292. ASSIGNOR(S) HEREBY CONFIRMS THE RELEASE OF SECURITY INTERESTS
+RECORDED PRIOR TO JUNE 25, 2011;ASSIGNOR:BANK OF AMERICA, N.A., AS
+ADMINISTRATIVE AND COLLATERAL AGENT;REEL/FRAME:033198/0553
+
+*Effective date*: 20140409
+
+2015-05-08 AS Assignment
+
+*Owner name*: FIRST AMERICAN CORELOGIC HOLDINGS, INC., CALIFORNI
+
+*Free format text*: CORRECTIVE ASSIGNMENT TO CORRECT THE RECEVING PARTY
+DATA PREVIOUSLY RECORDED AT REEL: 019341 FRAME:0844. ASSIGNOR(S) HEREBY
+CONFIRMS THE CHANGING;ASSIGNOR:FIRST AMERICAN CORELOGIC,
+INC.;REEL/FRAME:035624/0321
+
+*Effective date*: 20070522
+
+2016-01-19 PGRC Trial and appeal board: post-grant review certificate
+
+*Kind code of ref document*: J1
+
+*Owner name*: CORELOGIC SOLUTIONS, LLC
+
+*Free format text*: POST-GRANT REVIEW CERTIFICATE; TRIAL NO.
+CBM2012-00007, SEP. 19, 2012; TRIAL NO. CBM2014-00027, NOV. 9, 2013
+
+*Opponent name*: INTERTHINX, INC.; AND REDFIN CORPORATION
+
+*Effective date*: 20160112
+
+Data provided by IFI CLAIMS Patent Services
+
+About <https://support.google.com/faqs/answer/6390996> Send Feedback <#>
+Public Datasets
+<https://console.cloud.google.com/launcher/partners/patents-public-data>
+Terms <https://www.google.com/policies/terms/> Privacy Policy
+<https://www.google.com/privacy/privacy-policy.html>
+
