@@ -8,6 +8,8 @@ import psycopg2
 from webapp.a_Model import ModelIt
 from pymongo import MongoClient
 import pymongo
+import datetime
+from datetime import timedelta
 
 # Python code to connect to Postgres
 # You may need to modify this based on your OS,
@@ -26,7 +28,12 @@ client = MongoClient('localhost', 27017)
 db = client.insight_database
 
 # opening collection (instagram posts):
-collection = db.posts
+collection = db.gram_posts
+
+# only include posts w/in past week
+today = datetime.date.today()
+margin = datetime.timedelta(days = 7)
+search_date = today - margin
 
 @app.route('/')
 @app.route('/index')
@@ -60,12 +67,17 @@ def cesareans_page_fancy():
 
 @app.route('/ink_test')
 def ink_test():
-    sorted_posts = collection.find().sort([("likes", pymongo.DESCENDING)]) # can add more complex query to only show recent data
+    sorted_posts = collection.find({"contains_tattoo": 1}).sort([("likes", pymongo.DESCENDING)]) # can add more complex query to only show recent data
     df =  pd.DataFrame(list(sorted_posts))
+    df[df['date_added'] > search_date] # only include data w/in past week
     df_table = []
     for i in range(0,df.shape[0]):
         df_table.append(dict(account=df.iloc[i]['account'], likes=df.iloc[i]['likes'], link_to_post=df.iloc[i]['link_to_post']))
     return render_template('inkquery.html',df_table=df_table)
+
+@app.route('/template_test')
+def template_test():
+    return render_template('index_gallery.html')
 
 
 @app.route('/input')
