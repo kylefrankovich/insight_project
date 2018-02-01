@@ -18,7 +18,7 @@ from SVM_functions import process_image_url, process_image
 
 # load classifier:
 
-model_filename = '/Users/kylefrankovich/Desktop/insight_project/trained_models/svm_model_1000.sav'
+model_filename = '/home/ubuntu/insight_project/trained_models/svm_model_1000.sav'
 loaded_model = pickle.load(open(model_filename, 'rb'))
 
 
@@ -35,7 +35,7 @@ current_date = datetime.datetime.now()
 
 # code for looping through shop/artist posts, add to database
 
-rootdir = '/Users/kylefrankovich/Desktop/insight_project_data'
+rootdir = '/home/ubuntu/insight_project_data'
 
 insta_url = 'https://www.instagram.com/p/'
 
@@ -77,3 +77,5 @@ for root, dirs, files in os.walk(rootdir):
                         temp_dict['contains_tattoo'] =  0
                     print(temp_dict)
                     collection.insert_one(temp_dict)
+
+print('posts in database:',collection.count())
