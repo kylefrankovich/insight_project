@@ -22,10 +22,6 @@ today = datetime.date.today()
 margin = datetime.timedelta(days = 7)
 search_date = today - margin
 
-@app.route('/')
-@app.route('/index')
-def index():
-   return "Hello, World!"
 
 sorted_posts = collection.find({"contains_tattoo": 1}).sort([("likes", pymongo.DESCENDING)]) # can add more complex query to only show recent data
 df =  pd.DataFrame(list(sorted_posts))
@@ -48,9 +44,14 @@ page_3_links = link_htmls[60:90]
 page_4_links = link_htmls[90:120]
 page_5_links = link_htmls[120:150]
 
+# @app.route('/')
+# @app.route('/index')
+# def index():
+#    return "Hello, World!"
 
-@app.route('/main_site')
-def main_site():
+@app.route('/')
+@app.route('/index')
+def index():
     return render_template("inkquery_template.html", posts = page_1_links)
 
 @app.route('/page_2')
