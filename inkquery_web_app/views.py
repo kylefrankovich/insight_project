@@ -73,11 +73,11 @@ def page_5():
 
 @app.route('/about_me')
 def about_me():
-    return render_template("inkquery_template_page_5.html")
+    return render_template("about_me.html")
 
 @app.route('/about_inkquery')
 def about_inkquery():
-    return render_template("inkquery_template_page_5.html")
+    return render_template("about_inkquery.html")
 
 @app.route('/contact')
 def contact():
