@@ -31,7 +31,7 @@ df = df[0:150]
 link_htmls = []
 for i in range(len(df[0:150])):
     try:
-        post_url = 'https://api.instagram.com/oembed?url=' + df.iloc[i]['link_to_post'] + '/' + '&amp;maxwidth=320'
+        post_url = 'https://api.instagram.com/oembed?url=' + df.iloc[i]['link_to_post'] + '/'
         response = urllib.request.urlopen(post_url)
         html = json.load(response)
         link_htmls.append(html['html'])
