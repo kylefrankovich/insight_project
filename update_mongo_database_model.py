@@ -29,7 +29,7 @@ client = MongoClient('localhost', 27017)
 db = client.insight_database
 
 # opening collection (instagram posts):
-collection = db.gram_posts
+collection = db.gram_posts_TEST
 
 current_date = datetime.datetime.now()
 
