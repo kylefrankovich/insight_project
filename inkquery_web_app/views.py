@@ -15,7 +15,7 @@ client = MongoClient('localhost', 27017)
 db = client.insight_database
 
 # opening collection (instagram posts):
-collection = db.gram_posts_TEST
+collection = db.gram_posts
 
 # only include posts w/in past week
 today = datetime.date.today()
