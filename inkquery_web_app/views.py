@@ -49,19 +49,19 @@ page_5_links = link_htmls[120:150]
 # def index():
 #    return "Hello, World!"
 
-# @app.route('/')
-# @app.route('/index')
-# def index():
-#     return render_template("inkquery_template.html", posts = page_1_links)
-
 @app.route('/')
 @app.route('/index')
 def index():
-    return render_template("inkquery_template_formatting_test.html")
+    return render_template("inkquery_template.html", posts = page_1_links)
+
+# @app.route('/')
+# @app.route('/index')
+# def index():
+#     return render_template("inkquery_template_formatting_test.html")
 
 @app.route('/page_2')
 def page_2():
-    return render_template("inkquery_template_page_2_formatting_test.html", posts = page_2_links)
+    return render_template("inkquery_template_page_2.html", posts = page_2_links)
 
 @app.route('/page_3')
 def page_3():
