@@ -15,7 +15,7 @@ client = MongoClient('localhost', 27017)
 db = client.insight_database
 
 # opening collection (instagram posts):
-collection = db.gram_posts
+collection = db.gram_posts_TEST
 
 # only include posts w/in past week
 today = datetime.date.today()
@@ -31,7 +31,7 @@ df = df[0:150]
 link_htmls = []
 for i in range(len(df[0:150])):
     try:
-        post_url = 'https://api.instagram.com/oembed?url=' + df.iloc[i]['link_to_post'] + '/'
+        post_url = 'https://api.instagram.com/oembed?url=' + df.iloc[i]['link_to_post'] + '/' + '&amp;omitscript=true'
         response = urllib.request.urlopen(post_url)
         html = json.load(response)
         link_htmls.append(html['html'])
@@ -61,7 +61,7 @@ def index():
 
 @app.route('/page_2')
 def page_2():
-    return render_template("inkquery_template_page_2.html", posts = page_2_links)
+    return render_template("inkquery_template_page_2_formatting_test.html", posts = page_2_links)
 
 @app.route('/page_3')
 def page_3():
